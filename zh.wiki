@@ -27,7 +27,7 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 "The Fall of the House of Usher" has become one of Poe's most well-known works of prose. It has been frequently adapted into various media.
 
 
-《'''亞瑟府的沒落'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）[Burton's Gentleman's Magazine, September 1839, vol. V, pp. 145–152 https://anthologydev.lib.virginia.edu/work/Poe/poe-usher]，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）。此作為[[哥德小說]]，主題涉及瘋狂、家族、孤立與形而上的身份認同。
+《'''亞瑟府的沒落'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）<ref>{{cite magazine |last=Poe |first=Edgar Allan |title=The Fall of the House of Usher |magazine=Burton's Gentleman's Magazine |location=Philadelphia |volume=V |issue=3 |date=September 1839 |pages=145–152 |url=https://www.eapoe.org/works/tales/ushera.htm |access-date=2026-09-12}}</ref>，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）。此作為[[哥德小說]]
 
 故事敘述一名無名敘述者探訪童年好友羅德里克·厄舍及其妹瑪德琳所居的傾頹宅邸；其間瑪德琳被以為已死而暫葬於宅內墓室，實則尚存，其後逃出，擁抱羅德里克后一同死去，宅邸亦隨之崩塌崩塌。
 
