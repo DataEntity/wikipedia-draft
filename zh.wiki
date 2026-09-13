@@ -17,14 +17,15 @@
 | release_date  = 1839年
 | chinese_name ={{spml|鄂榭府崩潰記|厄榭家傾頹記|厄舍府的崩塌|厄舍府的倒塌|厄舍屋的倒塌|厄舍古屋的倒塌|亞瑟府的沒落|亞瑟公館的倒塌|亞瑟家之傾倒|艾家大院的崩塌|阿夏家的沒落|}}<!-- 僅含紙本出版（包括收錄） -->
 }}
+
 <!-- 
-《'''亞瑟府的沒落'''》是一部由[[愛倫·坡]]於1839年所著的[[短篇小說]]，當時發佈在雜誌Burton's Gentleman's Magazine上。 -->
+《'''亞瑟府的沒落'''》是一部由[[愛倫·坡]]於1839年所著的[[短篇小說]]，當時發佈在雜誌Burton's Gentleman's Magazine上。 
 
 "The Fall of the House of Usher" is a short story by American writer Edgar Allan Poe, first published in 1839 in Burton's Gentleman's Magazine, then included in the collection Tales of the Grotesque and Arabesque in 1840.[1] The short story, a work of Gothic fiction, includes themes of madness, family, isolation, and metaphysical identities.[2]
 
 The story features an unnamed narrator's visit to the decaying mansion of his childhood friend Roderick Usher and his sister Madeline. There, he learns of Roderick's illness and attempts to keep him entertained. Madeline dies and is buried and the narrator assists in putting her body in the family tomb within the mansion. Madeline, however, was still alive and escapes her tomb to seek revenge on her brother. The narrator flees the house as it collapses on the final members of the family.
 
-"The Fall of the House of Usher" has become one of Poe's most well-known works of prose. It has been frequently adapted into various media.
+"The Fall of the House of Usher" has become one of Poe's most well-known works of prose. It has been frequently adapted into various media. -->
 
 
 《'''亞瑟府的沒落'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）<ref>{{cite magazine |last=Poe |first=Edgar Allan |title=The Fall of the House of Usher |magazine=Burton's Gentleman's Magazine |location=Philadelphia |volume=V |issue=3 |date=September 1839 |pages=145–152 |url=https://www.eapoe.org/works/tales/ushera.htm |access-date=2026-09-12}}</ref>，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）<ref>{{cite book |last=Poe |first=Edgar Allan |chapter=The Fall of the House of Usher |title=Tales of the Grotesque and Arabesque |volume=1 |publisher=Lea and Blanchard |location=Philadelphia |year=1840 |pages=75–103 |url=https://www.eapoe.org/works/tales/usherb.htm |access-date=2026-09-12}}</ref>。
@@ -58,9 +59,9 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 ==分析==
 
+<!-- 房屋（House）—家族（Usher）—主人公 Roderick — Madeline —叙述者 -->
 
-
-
+批评界常将「亚瑟府」读作建筑、家族与成员相互映射的封闭系统；叙述者自外入内，见证其崩塌而脱身。亞瑟府的沒落在標題中House of Usher同時指向一個家族與建築.小説并沒有將二者作爲彼此獨立的對象處理.而是不斷的使建築狀態與厄舍家族相互映照: 房屋的裂隙,腐朽與最終崩塌.構成了家族衰亡的物質化表現.由此,小説中的房屋并非單純的哥特式背景.而是構成敘事結構的一部分.
 
 
 
