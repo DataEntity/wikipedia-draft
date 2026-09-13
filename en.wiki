@@ -1,0 +1,220 @@
+{{short description|1839 short story by Edgar Allan Poe}}
+{{About|the short story by Edgar Allan Poe|the miniseries of the same title|The Fall of the House of Usher (miniseries)|other uses}}
+{{Multiple issues|
+{{Lead too short|date=September 2025}}
+{{More citations needed|date=September 2025}}
+}}
+{{Use mdy dates|date=March 2025}}
+{{Infobox short story | <!-- See [[Wikipedia:WikiProject Novels]] or [[Wikipedia:WikiProject Books]] -->
+| name              = The Fall of the House of Usher
+|image              = [[File:House-of-Usher-1839.jpg|220px]]
+| caption           = First appearance in ''Burton's Gentleman's Magazine'' (September 1839)
+| author            = [[Edgar Allan Poe]]
+| country           = United States
+| language          = English
+| genre             = [[Gothic fiction|Gothic]], [[Horror fiction|horror]]
+| published_in      = ''[[Burton's Gentleman's Magazine]]''
+| pub_date          = September 1839
+}}
+
+"'''The Fall of the House of Usher'''" is a short story by American writer [[Edgar Allan Poe]], first published in 1839 in ''[[Burton's Gentleman's Magazine]]'', then included in the collection ''[[Tales of the Grotesque and Arabesque]]'' in 1840.<ref name=":1" /> The short story, a work of [[Gothic horror|Gothic fiction]], includes themes of madness, family, isolation, and [[metaphysical]] identities.<ref name=":2" />
+
+The story features an unnamed narrator's visit to the decaying mansion of his childhood friend Roderick Usher and his sister Madeline. There, he learns of Roderick's illness and attempts to keep him entertained. Madeline dies and is buried and the narrator assists in putting her body in the family tomb within the mansion. Madeline, however, was still alive and escapes her tomb to seek revenge on her brother. The narrator flees the house as it collapses on the final members of the family.
+
+"The Fall of the House of Usher" has become one of Poe's most well-known works of prose. It has been frequently adapted into various media.
+
+== Plot ==
+The story begins with the unnamed narrator arriving at the house of his childhood friend, Roderick Usher, having received a letter from him in a distant part of the country, complaining of an illness and asking for his help. As he arrives, the narrator notices a thin crack extending from the roof, down the front of the house and into the adjacent [[Tarn (lake)|tarn]], or lake.
+
+It is revealed that Roderick's sister, Madeline, is also ill and falls into [[Catalepsy|cataleptic]], deathlike trances. Roderick and Madeline are the only remaining members of the Usher family.
+
+The narrator is impressed with Roderick's paintings and attempts to cheer him by reading with him and listening to his improvised musical compositions on the guitar. Roderick sings "[[The Haunted Palace (poem)|The Haunted Palace]]", then tells the narrator that he thinks the house he lives in to be alive, and that this sentience arises from the arrangement of the masonry and vegetation surrounding it. Further, Roderick believes that his fate is connected to the family mansion.
+
+Roderick later informs the narrator that Madeline has died. Fearing that her body will be [[Body snatching|exhumed]] for medical study, Roderick insists that she be entombed for two weeks in the [[Burial vault (tomb)|family tomb]] located in the house before being permanently buried. The narrator helps Roderick put Madeline's body in the tomb, whereupon the narrator realizes that Madeline and Roderick are twins. The narrator also notes that Madeline's body has rosy cheeks, [[Livor mortis|which sometimes appears in cadavers]]. Over the next week, both Roderick and the narrator find themselves increasingly agitated.
+
+A storm begins, and Roderick comes to the narrator's bedroom (which is situated directly above the house's [[Burial vault (tomb)|vault]]) in an almost [[Hysteria|hysterical state]]. Throwing the windows open to the storm, Roderick points out that the lake surrounding the house seems to glow in the dark, just as Roderick depicted in his paintings, but there is no lightning or other explainable source of the glow.
+
+The narrator attempts to calm Roderick by reading aloud from a [[Chivalric romance|Medieval romance]] entitled ''The Mad Trist'', a novel involving a [[knight]] named Ethelred who breaks into a [[Hermitage (religious retreat)|hermit's dwelling]] in an attempt to escape an approaching storm, only to find a palace of gold guarded by a [[dragon]]. Ethelred also finds a shining brass shield hanging on a wall. Upon the shield is inscribed:
+{{blockquote|<poem>Who entereth herein, a conqueror hath bin;
+Who slayeth the dragon, the shield he shall win;<ref name=":1">Poe, Edgar A. "The Fall of the House of Usher." 1839. ''Elements of Literature''. Fifth Course. Austin: Holt, Rinehart, and Winston, 2009. 321–33. Print.{{ISBN?}}</ref></poem>}}
+Ethelred swings his [[Mace (bludgeon)|mace]] at the dragon, which dies with a piercing shriek. When he attempts to take the shield from the wall, it falls to the floor with an unnerving clatter.
+
+As the narrator reads of the knight's forcible entry into the dwelling, he and Roderick hear cracking and ripping sounds from somewhere in the house. When the dragon's death cries are described, a real shriek is heard, again within the house. As he relates the shield falling from off the wall, a hollow metallic reverberation can be heard throughout the house. At first, the narrator ignores the noises, but Roderick becomes increasingly hysterical. Roderick eventually declares that he has been hearing these sounds for days, and that they are being made by his sister, who was in fact [[Premature burial|alive when she was entombed]].
+
+The bedroom door is then blown open to reveal Madeline, bloodied from her arduous escape from the tomb. In a final fit of rage, she attacks her brother, [[Voodoo death|scaring him to death]] as she herself expires. The narrator then runs from the house, and, as he does, he notices a flash of moonlight behind him. He turns back in time to see the Moon shining through the suddenly widened crack in the house. As he watches, the House of Usher splits in two and the fragments sink away into the lake.
+
+== Character descriptions ==
+{{More citations needed|1=section|date=October 2018}}
+
+=== Narrator ===
+In "The Fall of the House of Usher", Poe's unnamed [[Narrator (fiction)|narrator]] is called to visit the House of Usher by Roderick Usher, the narrator's childhood friend. As his "best and only friend,"<ref name=":0">{{Cite book|title=Edgar Allan Poe: Storyteller|last=Poe|first=Edgar Allan|publisher=Office of English Language Programs|year=2013|isbn=978-1-624-25061-3|location=Washington, DC|page=23}}</ref> Roderick writes of his illness and asks that the narrator visit him. The narrator is persuaded by Roderick's desperation for companionship. Though sympathetic and helpful, the narrator is continually made to be an outsider, watching the narrative unfold without fully becoming a part of it. The narrator also exists as Roderick's audience as the men have not remained close. Roderick is convinced of his impending demise and the narrator is gradually drawn into this belief after being brought forth to witness the horrors and hauntings of the House of Usher.<ref>{{Cite journal|last=Rollanson|first=Christopher|date=June 2009|title=The Character of Phantasm: Edgar Allan Poe's 'The Fall of the House of Usher' and Jorge Luis Borges' 'Tlön, Uqbar, Orbis Tertius.'|journal=Atlantis|volume=31|pages=9–22|via=EBSCOhost}}</ref>
+
+From his arrival, the narrator notes the family's deep isolation, as well as the cryptic and special connection between Madeline and Roderick, the final living members of the Usher family. Throughout the tale and her varying states of consciousness, Madeline completely ignores the narrator's presence. After Roderick Usher claims that Madeline has died, the narrator helps Usher entomb Madeline in an underground vault despite noticing Madeline's flushed, lifelike appearance.
+
+During one sleepless night, the narrator reads aloud to Usher as eerie sounds are heard throughout the mansion. He witnesses Madeline's reemergence and the subsequent, simultaneous death of the twins. The narrator is the only character to escape the House of Usher, which he views as it cracks and sinks into the mountain lake.
+
+=== Roderick Usher ===
+Roderick Usher is the twin of Madeline Usher and one of the last living members of the Usher family. Roderick writes to the narrator, his boyhood friend, about an ongoing illness.<ref name=":0" /> When the narrator arrives, he is startled to see Roderick's eerie and off-putting appearance. He is described by the narrator as having:<blockquote>gray-white skin; eyes large and full of light; lips not bright in color, but of a beautiful shape; a well-shaped nose; hair of great softness — a face that was not easy to forget. And now the increase in this strangeness of his face had caused so great a change that I almost did not know him. The horrible white of his skin, and the strange light in his eyes, surprised me and even made me afraid. His hair had been allowed to grow, and in its softness, it did not fall around his face but seemed to lie upon the air. I could not, even with an effort, see in my friend the appearance of a simple human being.<ref>{{Cite book|title=Edgar Allan Poe: Storyteller|last=Poe|first=Edgar Allan|publisher=Office of English Language Programs|year=2013|isbn=978-1-624-25061-3|location=Washington, DC|page=24}}</ref></blockquote>
+
+Roderick Usher is a [[recluse]].<ref name=":0" /> He is unwell both physically and mentally. In addition to his constant fear and trepidation, Madeline's catalepsy contributes to his decay as he is tormented by the sorrow of watching his sibling die. The narrator states: <blockquote>He admitted ... that much of the peculiar gloom which thus affected him could be traced ... to the evidently approaching dissolution of ... his sole companion.<ref name=":0" /> </blockquote>According to Terry W. Thompson, Roderick meticulously plans for Madeline's burial to prevent "[[Body snatching|resurrection men]]" from stealing his beloved sister's corpse for [[dissection]], study, or experimentation as was [[Resurrectionists in the United Kingdom|common in the 18th and 19th centuries]] for medical schools and physicians in need of cadavers.<ref>{{Cite journal|last=Thompson|first=Terry|date=Spring 2018|title=With Sympathy for Roderick: Madeline Usher and the Resurrection Men|journal=Midwest Quarterly|volume=59|pages=255–67|via=EBSCOhost}}</ref>
+
+Roderick and Madeline are [[twin]]s and the two share an incommunicable connection that critics conclude may be either [[incest]]uous or [[Metaphysics|metaphysical]],<ref>{{Cite book|title=Supernatural Horror in Literature|last=Lovecraft|first=Howard|publisher=Dover Publications|year=1973|isbn=0-486-20105-8|location=New York}}{{page needed|date=October 2021}}</ref> as two individuals in an extra-sensory relationship embodying a single entity. To that end, Roderick's deteriorating condition speeds his own torment and eventual death.
+
+Like Madeline, Roderick is connected to the mansion, the titular House of Usher. He believes the mansion is sentient and responsible, in part, for his deteriorating mental health and [[Depression (mood)|melancholy]]. Despite this admission, Usher remains in the mansion and composes art containing the Usher mansion or similar [[Haunted house|haunted mansions]]. His mental health deteriorates faster as he begins to hear Madeline's attempts to escape the underground vault she was buried in, and he eventually meets his [[Voodoo death|death out of fear]] in a manner similar to the House of Usher's cracking and sinking.
+
+=== Madeline Usher ===
+Madeline Usher is the twin sister of Roderick Usher. She is deathly ill and cataleptic. She appears near the narrator, but never acknowledges his presence. She returns to her bedroom where Roderick claims she has died. The narrator and Roderick place her in a tomb despite her flushed, lively appearance. In the tale's conclusion, Madeline escapes from the tomb and returns to Roderick, scaring him to death.
+
+According to Poe's detective methodology in literature, Madeline Usher may be the physical embodiment of the supernatural and metaphysical worlds.{{Citation needed|reason=What leads us to believe this?|date=February 2021}} Her limited presence is explained as a personification of Roderick's torment and fear.{{Citation needed|reason=Who explains her limited presence as a personification of Roderick's torment and fear?|date=February 2021}} Madeline does not appear until she is summoned through her brother's fear, foreshadowed in the epigraph, with a quote from French poet [[Pierre-Jean de Béranger]]: "Son cœur est un luth suspendu; / Sitôt qu'on le touche il résonne", meaning "His heart is a suspended [[lute]]; as soon as one touches it, it resonates".{{citation needed|date=July 2024}}
+
+== Publication history ==
+"The Fall of the House of Usher" was first published in September 1839 in ''[[Burton's Gentleman's Magazine]]''. It was revised slightly in 1840 for the collection ''[[Tales of the Grotesque and Arabesque]]''. It contains Poe's poem "[[The Haunted Palace (poem)|The Haunted Palace]]", which earlier was published separately in the April 1839 issue of ''Baltimore Museum''.<ref>Sova, Dawn B. ''Edgar Allan Poe: A to Z''. Checkmark Books, 2001: 104. {{ISBN|0-8160-4161-X}}</ref>
+
+In 1928, Éditions Narcisse, predecessor to the [[Black Sun Press]], published a limited edition of 300 numbered copies with illustrations by [[Alastair (Baron Hans Henning Voigt)|Alastair]].{{Citation needed|date=February 2021}}
+
+== Sources of inspiration ==
+[[File:HezekiahUsher house TremontSt Boston.png|thumb|right|Home of Hezekiah Usher's son, Hezekiah]]
+Poe's inspiration for the story may be based upon events of the Hezekiah Usher House, which was located on the Usher estate that is now a three-block area in downtown modern [[Boston, Massachusetts]].<ref name=":3" /> Adjacent to [[Boston Common]] and bounded by Tremont Street to the northwest, Washington Street to the southeast, Avery Street to the south and Winter Street to the north, the house was constructed in 1684 and either torn down or relocated in 1830.<ref name=":3">''An Historic Corner, Tremont Street and Temple Place'' by Walter K. Watkins, in ''Days and Ways in Old Boston'' by William S. Rossiter (ed.), Boston: R.H. Stearns & Co., 1915, pp. 91–132{{ISBN?}}</ref>
+
+Another source of inspiration may be from an actual couple, Mr. and Mrs. Luke Usher, the friends and acting colleagues of his mother [[Eliza Poe]].<ref>Allen, Hervey. ''Israfel: The Life and Times of Edgar Allan Poe''. New York: Farrar & Rinehart, Inc., 1934: 683.{{ISBN?}}</ref> The couple took care of Eliza's three children (including Poe) during her time of illness and eventual death.{{citation needed|date=October 2017}}
+
+German writer [[E.T.A. Hoffmann]], who was a role model and inspiration for Poe, published the story "{{lang|de|Das Majorat|italics=no}}" in 1819.{{Citation needed|date=February 2021}} There are many similarities between the two stories, including the physical breaking of a house, eerie sounds in the night, the [[story within a story]] and the house owner being called Roderich or Roderick. Because Poe was familiar with Hoffmann's works, he knew the story and drew from it using the elements for his own purposes.<ref>{{cite book|editor-last=Kaiser|editor-first=Gerhard R.|first=E. T. A.|last=Hoffmann|title=[[Night Pieces|Nachtstücke]]|year=1990|location=Stuttgart|publisher=Philipp Reclam|isbn=978-3-15-000154-7}}{{page needed|date=October 2021}}</ref>
+
+Another German author, [[Heinrich Clauren]]'s, 1812 story "{{lang|de|Das Raubschloß|italics=no}}", as translated into English by [[Joseph Hardman]] and published in ''[[Blackwood's Magazine]]'' in 1828 as "The Robber's Tower", may have served as an inspiration, according to [[Arno Schmidt]] and Thomas Hansen.<ref>{{cite journal|first=Thomas S.|last=Hansen|title=Poe's 'German' Source for 'The Fall of the House of Usher': The Arno Schmidt Connection|journal=Southern Humanities Review|volume=26|issue=2|date=Spring 1992|pages=101–13}}</ref> As well as its sharing common elements, such as a young woman with a fear of premature burial interred in a [[Tomb|sepulcher]] directly beneath the protagonist's chamber, stringed instruments, and the living twin of the buried girl, Diane Hoeveler identifies textual evidence of Poe's use of the story, and concludes that the inclusion of ''Vigiliae Mortuorum secundum Chorum Ecclesiae Maguntinae'' (Vigils for the Dead according to the Use of the Church of Mainz) is drawn from the use of a similarly obscure book in "The Robber's Tower".<ref name=":2">{{cite book|first1=Dennis|last1=Perry|first2=Carl|last2=Sederholm|title=Poe, "The House of Usher," and the American Gothic|publisher=Palgrave Macmillan|year=2009|url=https://books.google.com/books?id=2XjHAAAAQBAJ&pg=PA9|pages=9–10|isbn=9780230620827}}</ref><ref>{{cite book|first=Diane Long|last=Hoeveler|editor1-first=Darby|editor1-last=Lewes|chapter=Reading Poe Reading ''Blackwood's:'' The Palimpsestic Subtext in "The Fall of the House of Usher"|title=Double Vision: Literary Palimpsests of the Eighteenth and Nineteenth Centuries|publisher=Lexington Books|year=2008|chapter-url=https://books.google.com/books?id=jmxFl-fbmlwC&pg=PA228|pages=227–29|isbn=9780739125694}}</ref>
+
+The theme of the crumbling, haunted castle is a key feature of [[Horace Walpole, 4th Earl of Orford|Horace Walpole]]'s ''[[The Castle of Otranto|Castle of Otranto]]'' (1764), which largely contributed in defining the [[Gothic literature|Gothic genre]].<ref name="Hutchisson, James M. 2005, p. 38">Hutchisson, James M. ''Poe'', Jackson, Mississippi: University of Mississippi Press, 2005, p. 38.{{ISBN?}}</ref>
+
+== Analysis ==
+[[File:Aubrey Beardsley - Edgar Poe 3.jpg|thumb|right|1894 illustration by [[Aubrey Beardsley]].]]
+"The Fall of the House of Usher" is considered the best example of Poe's "[[absolute (philosophy)|totality]]", wherein every element and detail is related and relevant.<ref>Beebe, Maurice. "The Universe of Roderick Usher" as collected in ''Poe: A Collection of Critical Essays'', Robert Regan, ed. Englewood Cliffs, NJ: Prentice Hall, Inc., 1967. p. 123.{{ISBN?}}</ref>
+
+The presence of a capacious, disintegrating house symbolizing the destruction of the human body continues to be a characteristic element in Poe's later work.<ref name="Hutchisson, James M. 2005, p. 38"/>
+
+"The Fall of the House of Usher" shows Poe's ability to create an emotional tone in his work, specifically emphasizing feelings of [[fear]], impending doom, and [[Guilt (emotion)|guilt]].<ref>Meyers, Jeffrey. ''Edgar Allan Poe: His Life and Legacy''. New York City: Cooper Square Press, 1992; {{ISBN|0-8154-1038-7}}, p. 111</ref> These emotions center on Roderick Usher, who, like many Poe characters, suffers from an unnamed disease. Like the narrator in "[[The Tell-Tale Heart]]", this disease inflames Roderick's [[Sensory processing sensitivity|hyperactive senses]]. The illness manifests physically but is based in Roderick's mental or even moral state. He is sick, it is suggested, because he expects to be sick based on his family's history of illness and is, therefore, essentially a [[Hypochondriasis|hypochondriac]].<ref>Butler, David. "Usher's Hypochondriasis: Mental Alienation and Romantic Idealism in Poe's Gothic Tales", collected in ''On Poe: The Best from "American Literature''. Durham, NC: Duke University Press, 1993. {{ISBN|0-8223-1311-1}}, pp. 189–90.</ref> Similarly, he buries his sister alive because he expects to bury her alive, creating his own [[self-fulfilling prophecy]].{{citation needed|date=October 2017}}
+
+The House of Usher, itself doubly referring both to the actual structure and the family, plays a significant role in the story. It is the first "character" that the narrator introduces to the reader, presented with a humanized description: Its windows are described as "eye-like" twice in the first paragraph. The fissure that develops in its side is symbolic of the decay of the Usher family and the house "dies" along with the two Usher siblings. This connection was emphasized in Roderick's poem "The Haunted Palace", which seems to be a direct reference to the house that foreshadows doom.<ref>Meyers, Jeffrey. ''Edgar Allan Poe: His Life and Legacy''. New York City: Cooper Square Press, 1992. {{ISBN|0-8154-1038-7}} p. 111.</ref>
+
+[[L. Sprague de Camp]] in his ''Lovecraft: A Biography'' wrote that "[a]ccording to the late [Poe expert] [[Thomas Ollive Mabbott|Thomas O. Mabbott]], [[H.P. Lovecraft]], in '[[Supernatural Horror in Literature|Supernatural Horror]]', solved a problem in the interpretation of Poe" by arguing that "Roderick Usher, his sister Madeline, and the house all shared one common soul".<ref>de Camp, L. Sprague, ''Lovecraft: A Biography'' (Doubleday, 1975).{{ISBN?}}{{page needed|date=October 2021}}</ref>
+
+The plot of this tale has prompted many critics to analyze it as a description of the human psyche, comparing, for instance, the House to the unconscious, and its central crack to a [[dissociative identity disorder|split personality]].{{Citation needed|date=February 2021}} An incestuous relationship between Roderick and Madeline never is explicitly stated, but may be implied by the attachment between the two siblings.<ref>Hoffman, Daniel. ''Poe Poe Poe Poe Poe Poe Poe''. Baton Rouge: Louisiana State University Press, 1972. {{ISBN|0-8071-2321-8}} p. 297.</ref>
+
+[[Opium]], which Poe mentions several times in both his prose and poems, is mentioned twice in the tale.<ref name=":1" /> The gloomy sensation occasioned by the dreary landscape around the Usher mansion is compared by the narrator to the sickness caused by the [[Drug withdrawal|withdrawal]] symptoms of an opiate-addict. The narrator also describes Roderick Usher's appearance as that of an "irreclaimable eater of opium".<ref>{{Cite book|title=Opium and the Romantic Imagination|last=Hayter|first=Alethea|publisher=Faber & Faber|year=2015|isbn=9780571306015|location=London|at=Chapter VI: Poe}}</ref>
+
+While there are no direct statements supporting their conclusions, scholars have demonstrated the language deployed by Roderick to describe his sister as full of hints of the possible incestuous relationship between the twins. They argue that this perversion is the actual cause of the fall of the house as well as an end to the lineage of Ushers.<ref>{{Cite journal |last=Jiménez González |first=María Isabel |date=2023-03-08 |title=Edgar A. Poe's unity of affect/effect through incestuous perversions in 'The Fall of the House of Usher' |url=https://www.tandfonline.com/doi/full/10.1080/00393274.2023.2180429 |journal=Studia Neophilologica |volume=95 |issue=3 |language=en |pages=397–410 |doi=10.1080/00393274.2023.2180429 |s2cid=257442526 |issn=0039-3274|url-access=subscription }}</ref>
+
+=== Allusions and references ===
+* The opening epigraph quotes "Le Refus" (1831) by the French songwriter [[Pierre-Jean de Béranger]], translated to English as "his heart is a suspended lute, as soon as it is touched, it resounds".<ref name=":1" /> Béranger's original text reads "''Mon cœur''" (my heart) and not "''Son cœur''" (his/her heart).<ref>{{Cite book |last=de Béranger |first=Pierre-Jean |url=https://upload.wikimedia.org/wikipedia/commons/6/6f/B%C3%A9ranger%2C_oeuvres_compl%C3%A8tes_-_tome_3.pdf |title=Oeuvres complès de Béranger |editor-last=H. Fourmer |editor-first=Aine |location=Paris, France |publication-date=1839 |pages=98 |language=French |trans-title=Complete work of Béranger}}</ref> 
+* The narrator describes one of Usher's musical compositions as a "singular perversion and amplification of the wild air of the last waltz of [[Carl Maria von Weber|Von Weber]]". Poe here refers to a popular piano work of his time – which, though going by the title "Weber's Last Waltz", was actually composed by [[Carl Gottlieb Reissiger]].<ref>{{cite web|url=http://www.eapoe.org/geninfo/poemisc.htm|title=Edgar Allan Poe Society of Baltimore – General Topics – A Few Minor Poe Topics|work=eapoe.org}}</ref> A manuscript copy of the music was found among Weber's papers upon his death in 1826 and the work was mistakenly attributed to him.
+* Usher's painting reminds the narrator of the Swiss-born British painter [[Henry Fuseli]].
+
+Usher's library is mentioned to have "formed no small portion of the mental existence of the invalid [Roderick Usher]". A list of titles is provided in the story, all of which are allusions to real-world works. Several notable examples include:
+
+* The ''[[Belfagor arcidiavolo|Belphegor]]'' of Machiavelli, a tale involving demonic possession.
+* [[Emanuel Swedenborg]]'s ''[[Heaven and Hell (Swedenborg book)|Heaven and Hell]]'', a book about divine visions and the afterlife.
+* ''[[Directorium Inquisitorum]]'', a list of heretical forbidden works.
+* "[[The City of the Sun|Civitas Solis]]", a short [[Utopian fiction|Utopian]] work about a [[theocracy|theocratic]] society. The philosopher and poet [[Tommaso Campanella]] believed that the world has a spiritual nature.<ref>{{Cite journal|last=Mabbott|first=Thomas Ollive|date=1973|title=The Books in the House of Usher|journal=Books at Iowa|volume=19|pages=3–7|doi=10.17077/0006-7474.1059|issn=0006-7474|doi-access=free}}</ref>
+
+== Literary significance and criticism ==
+[[File:Burton's Sept 1839 Poe Usher.jpg|thumb|"The Fall of the House of Usher" first appeared in ''Burton's''.]]
+Along with "[[The Tell-Tale Heart]]", "[[The Black Cat (short story)|The Black Cat]]", and "[[The Cask of Amontillado]]", "The Fall of the House of Usher" is considered among Poe's more famous works of prose.<ref>Kennedy, J. Gerald. "Introduction: Poe in Our Time" collected in ''A Historical Guide to Edgar Allan Poe''. Oxford University Press, 2001; {{ISBN|0-19-512150-3}} p. 9</ref> As G.R. Thomson writes in his introduction to ''Great Short Works of Edgar Allan Poe'', "the tale has long been hailed as a masterpiece of Gothic horror; it is also a masterpiece of dramatic irony and structural symbolism".<ref>Thomson, G.R. ''Great Short Works of Edgar Allan Poe'' (HarperCollins, 1970), p. 36.</ref>
+
+"The Fall of the House of Usher" has been criticized for being too formulaic, particularly in how Poe followed patterns established in his own works like "[[Morella (short story)|Morella]]" and "[[Ligeia]]", using stock characters in stock scenes and stock situations. Repetitive themes like an unidentifiable disease, madness, and resurrection are also criticized.<ref>Krutch, Joseph Wood. ''Edgar Allan Poe: A Study in Genius''. New York: Alfred A. Knopf, 1926. p. 77</ref> [[Washington Irving]] explained to Poe in a letter dated November 6, 1839: "You have been too anxious to present your pictures vividly to the eye, or too distrustful of your effect, and had laid on too much colouring. It is erring on the best side – the side of luxuriance".<ref>[https://books.google.com/books?id=_4xIPXh6ivcC&pg=PA73&lpg=PA73 The Best Horror Short Stories 1800–1849: A Classic Horror Anthology] Editor Andrew Barger Annotated Edition Publisher Bottletree Books LLC, 2010 {{ISBN|978-1-933747-22-4}}, Length 233, p. 179</ref>
+
+John McAleer maintained that [[Herman Melville]]'s idea for "objectifying [[Captain Ahab|Ahab]]'s flawed character" in ''[[Moby-Dick]]'' came from the "evocative force" of Poe's "The Fall of the House of Usher". In both Ahab and the house of Usher, the appearance of fundamental soundness is visibly flawed – by Ahab's livid scar, and by the fissure in the masonry of Usher.<ref>McAleer, John J. "Poe and Gothic Elements in ''Moby-Dick''", ''Emerson Society Quarterly'', No. 27 (II Quarter 1962):  p. 34. <!-- ISSN/ISBN needed --></ref>
+
+== In other media ==
+{{In popular culture|section|date=June 2024}}
+
+=== In film and television ===
+[[File:La chute de la maison Usher (Jean Epstein, 1928).webm|thumb|thumbtime=15|''The Fall of the House of Usher'' (1928), directed by [[Jean Epstein]].]]
+[[File:The Fall of the House of Usher (1928).webm|thumb|thumbtime=25|''The Fall of the House of Usher'' (1928), directed by [[James Sibley Watson]] and Melville Webber.]]
+
+[[The Fall of the House of Usher (1928 French film)|''La Chute de la maison Usher'']] is a 1928 silent French horror film directed by&nbsp;[[Jean Epstein]] starring Marguerite Gance, [[Jean Debucourt]], and [[Charles Lamy]].
+
+[[The Fall of the House of Usher (1928 American film)|A second silent film version]], also released in 1928, was directed by [[James Sibley Watson]] and Melville Webber.
+
+A devout fan of the works of Poe, American director [[Curtis Harrington]] tackled the story in his first and last films. Casting himself in dual roles as Roderick and Madeline Usher in both versions, Harrington shot his original 10-minute silent short on [[8 mm film|8mm]] in 1942,<ref name=preserving>{{cite book |first=Mark |last=Toscano |title=Conversations in the Back of the Theatre: Preserving the Short films of Curtis Harrington (DVD Booklet) |publisher=Drag City/Flicker Alley |date=2013}}</ref> and he shot a new 36 minute version simply titled ''Usher'' on [[35mm movie film|35mm]]<ref name=preserving/> in 2000 which he intended to utilize in a longer Poe [[anthology film]] that never came to fruition.<ref>{{cite web |title=Retrospective in Terror: An Interview with Curtis Harrington |url=http://www.terrortrap.com/interviews/curtisharrington/03 |publisher=Terror Trap |date=April 2005 |access-date=2014-03-22}}</ref> Both versions were included on the 2013 DVD/Blu-ray release ''Curtis Harrington: The Short Film Collection''.
+
+The December 5, 1949, episode of ''[[Lights Out (1949 TV series)|Lights Out]]'' was an adaptation of ''The Fall of the House of Usher'' starring [[Helmut Dantine]], Pamela Conroy, and Stephen Courtleigh.<ref>{{cite news |last1=Anderson |first1=Wayne |title='Fall of House of Usher' On WSB-TV Show at 9 |url=https://www.newspapers.com/article/the-atlanta-journal/191864226/ |access-date=February 22, 2026 |work=The Atlanta Journal |date=December 5, 1949 |page=24|via = [[Newspapers.com]] }}</ref>
+
+In 1950, a British film version of ''The Fall of the House of Usher'' was produced starring Gwen Watford, Kay Tendeter and Irving Steen.
+
+In 1956, ''NBC Matinee Theater'' on US television broadcast ''The Fall of the House of Usher'' starring Marshall Thompson and Tom Tryon for episode 197.
+
+In the [[Roger Corman]] film from 1960, released in the United States as ''[[House of Usher (film)|House of Usher]]'', [[Vincent Price]] starred as Roderick Usher, [[Myrna Fahey]] as Madeline and [[Mark Damon]] as Philip Winthrop, Madeline's fiancé. The film was Corman's first in a series of eight films inspired by the works of Edgar Allan Poe.
+
+A television adaptation was produced by [[Associated Television|ATV]] for the [[ITV (TV network)|ITV]] network in 1966 for the horror anthology series ''[[Mystery and Imagination]]''. Episode 3 in 1966 was ''The Fall of the House of Usher''.
+
+In 1976, a 30-minute version of ''The Fall of the House of Usher'' was made for ''Short Story Showcase'' for American TV.
+
+In 1979, Italian state channel RAI loosely adapted the short story, together with other Poe's works, in the series ''I racconti fantastici di Edgar Allan Poe''.<ref>{{Cite web |url=http://www.teche.rai.it/2020/12/racconti-fantastici-edgar-allan-poe/ |title=I racconti fantastici di Edgar Allan Poe |date=19 December 2020|publisher=Rai Teche|language=it}}</ref> It was directed by [[Daniele D'Anza]], with Roderick Usher played by [[Philippe Leroy]]; music was composed by pop band [[Pooh (band)|Pooh]].
+
+Filmed in 1979 but not released until 1982,<ref>{{Cite web |url=https://www.tcm.com/tcmdb/title/74486/the-fall-of-the-house-of-usher#overview |archive-url=https://web.archive.org/web/20201015193637/https://www.tcm.com/tcmdb/title/74486/the-fall-of-the-house-of-usher#overview |url-status=dead |archive-date=October 15, 2020 |title=The Fall of the House of Usher |publisher=[[Turner Classic Movies]] |date=15 July 2023}}</ref> American television network [[NBC]] broadcast the story, directed by [[James L. Conway]] and starring [[Martin Landau]], [[Robert Hays]], [[Ray Walston]] and [[Charlene Tilton]].<ref>{{Cite web |url=https://www.imdb.com/title/tt0083917/ |title = The Fall of the House of Usher |publisher=[[IMDb]]|date = 15 July 2023}}</ref>
+
+Czech director [[Jan Švankmajer]] adapted the story into the 1980 short film ''Zánik domu Usherů'', which made use of black and white photography and [[stop-motion]] techniques but no actors on screen at any moment.
+
+In 1989, ''The House of Usher'' was a film produced by American, British, and Canadian companies starring Oliver Reed.
+
+In 2002, Ken Russell produced a horror comedy version titled ''The Fall of the Louse of Usher''.
+
+The 2006 film ''[[The House of Usher (2006 film)|The House of Usher]]'' from Australian director Hayley Cloake, starring [[Austin Nichols]] as Roderick Usher, was an update of the tale set in the modern era with a love interest for Roderick in the form of the best friend of his deceased sister.<ref>{{Cite web |url=https://www.rottentomatoes.com/m/1178961_house_of_usher |title=The House of Usher |publisher=[[Rotten Tomatoes]]}}</ref>
+
+''The Fall of the House of Usher'' (2015), narrated by [[Christopher Lee]], is an animated short film which is part of ''Extraordinary Tales''.<ref>{{cite web |last=Young |first=Deborah|date=March 26, 2015 |title='Extraordinary tales': Hong Kong Review |url=http://www.hollywoodreporter.com/review/extraordinary-tales-hong-kong-review-784591 |work=[[The Hollywood Reporter]]}}</ref><ref>{{cite web|title=Extraordinary tales in the Haifa film festival |url=http://www.haifaff.co.il/eng/Movie%20Info.php?id=8727|url-status=dead |archive-url=https://web.archive.org/web/20151007094353/http://www.haifaff.co.il/eng/Movie%20Info.php?id=8727 |archive-date=2015-10-07}}</ref>
+
+[[Intrepid Pictures]] created an eight-episode limited series titled ''[[The Fall of the House of Usher (miniseries)|The Fall of the House of Usher]]'' for [[Netflix]] that is based on the works of Edgar Allan Poe. [[Mike Flanagan (filmmaker)|Mike Flanagan]] and [[Michael Fimognari]] each directed four episodes and executive produced the series, which premiered in 2023.<ref>{{cite news |last=Squires |first=John |title='The Fall of the House of Usher': Netflix and Mike Flanagan Developing Series Based on Edgar Allan Poe Stories! |url=https://bloody-disgusting.com/tv/3686042/fall-house-usher-netflix-mike-flanagan-developing-series-based-edgar-allan-poe-stories/ |website=Bloody Disgusting|access-date=October 6, 2017}}</ref>
+
+=== In theater and music ===
+From 1908 to 1917, French composer [[Claude Debussy]] worked on an opera titled ''[[La chute de la maison Usher (opera)|La chute de la maison Usher]]''.
+
+The lyrics of [[Alan Hull]]'s song "[[Lady Eleanor]]", a 1971 hit single for British folk rock band [[Lindisfarne (band)|Lindisfarne]], were inspired by "The Fall of the House of Usher" and other Poe works.<ref>{{Cite news |title=Obituary: Alan Hull |url=https://www.independent.co.uk/news/people/obituary-alan-hull-1582853.html |newspaper=The Independent |date=20 November 1995 |access-date=7 November 2023}}</ref>
+
+"The Fall of the House of Usher" is a five-part instrumental suite on the 1976 album ''[[Tales of Mystery and Imagination (Alan Parsons Project album)|Tales of Mystery and Imagination]]'' by [[The Alan Parsons Project]].
+
+''[[The Fall of the House of Usher (Glass opera)|The Fall of the House of Usher]]'' is another operatic version, composed by [[Philip Glass]] in 1987 with a libretto by Arthur Yorinks, premiered at the [[American Repertory Theatre]] and the Kentucky Opera in 1988 and was revived at the Nashville Opera in 2009.<ref>{{cite news |last=Waleson |first=Heidi |date=November 24, 2009 |title=Two by Philip Glass |work=[[The Wall Street Journal]] |url=https://www.wsj.com/articles/SB10001424052748704779704574553644146027258 |access-date=November 29, 2010}}</ref> The [[Long Beach Opera]] mounted a version of this work in February 2013 at the [[Warner Grand Theatre]] in San Pedro, Los Angeles.<ref>{{cite news |last=Ginell |first=Richard | title=Review: Long Beach Opera charts 'The Fall of the House of Usher' |url=http://www.latimes.com/entertainment/arts/culture/la-et-cm-long-beach-opera-philip-glass-house-of-usher-20130128,0,5339352.story |work=[[Los Angeles Times]] |access-date=February 5, 2013}}</ref>
+
+''[[The Fall of the House of Usher (Hammill opera)|The Fall of the House of Usher]]'' is an opera composed by [[Peter Hammill]] with a libretto by [[Judge Smith|Chris Judge Smith]] released in 1991 on [[Some Bizzare Records]]; in 1999, Hammill revised his work and released it as ''The Fall of the House of Usher (Deconstructed & Rebuilt)''. This opera has never been performed live.
+
+In 2002 [[Lance Tait]] wrote a one-act play, ''The Fall of the House of Usher'', based on Poe's tale. Laura Grace Pattillo wrote in ''The Edgar Allan Poe Review'' (2006), "[Tait's] play follows Poe's original story quite closely, using a female Chorus figure to help further the tale as the 'Friend' (as Tait names the narrator) alternates between monologue and conversation with Usher."<ref name="jstor.org">{{cite journal |last=Pattillo |first=Laura Grace |date=Spring 2006 |title=The Fall of the House of Usher and Other Plays Inspired by Edgar Allan Poe |journal=The Edgar Allan Poe Review |volume=7 |number=1 |pages=80–82 |jstor=41506252}}</ref>
+ 
+In 2008, a musical adaptation ("Usher") won the Best Musical award at the [[New York International Fringe Festival]].<ref>{{cite web |last=Dorof|first=Jacob |title=Two Eli productions stand out at New York's Fringe |url=http://yaledailynews.com/blog/2008/09/09/two-eli-productions-stand-out-at-new-yorks-fringe|work=[[Yale Daily News]]|date=9 September 2008}}</ref><ref>{{cite web|last=Trav| first=S.D.|title=Fringe Festival 2008 Reviews!|url=http://www.villagevoice.com/2008-08-12/theater/fringe-festival-2008-reviews/3|archive-url=https://web.archive.org/web/20090201144929/http://www.villagevoice.com/2008-08-12/theater/fringe-festival-2008-reviews/3|url-status=dead|archive-date=February 1, 2009|work=The Village Voice|date=August 12, 2008}}</ref><ref>{{cite news|last=Siegal|first=Barbara|title=Usher – the musical, not the person who seats you|url=http://www.talkinbroadway.com/siegelcolumn/60.html|newspaper=Talkin' Broadway|access-date=December 27, 2017|archive-date=September 24, 2015|archive-url=https://web.archive.org/web/20150924121051/http://www.talkinbroadway.com/siegelcolumn/60.html|url-status=dead}}</ref>
+
+The 2014 musical [[Ghost Quartet]], written by the eponymous quartet, adapts the story and other works.<ref>{{Cite web |date=2014-10-07 |title=Ghost Quartet — Dave Malloy's new show about love, whiskey, regret and hope |url=https://www.culturebot.org/2014/10/22215/ghost-quartet-dave-malloys-new-show-about-love-whiskey-regret-and-hope/ |access-date=2025-07-01 |website=Culturebot |language=en-US}}</ref><ref>{{Cite web |title=Ghost Quartet, by Ghost Quartet |url=https://davemalloy.bandcamp.com/album/ghost-quartet |access-date=2025-07-01 |website=dave malloy |language=en}}</ref>
+
+=== In literature ===
+''[[The Martian Chronicles]]'', a 1950 collection of stories by [[Ray Bradbury]], contains a novella called "Usher II," a homage to Poe.  Its main character, William Stendahl, builds a house based on the specifications from Poe's story to murder his enemies.
+
+''[[Usher's Passing]]'', a 1984 novel by [[Robert R. McCammon]], is a gothic fiction novel based on the "true" story of the Usher family. Poe makes an appearance in the flashback that starts the novel.<ref>{{cite web |url=https://www.robertmccammon.com/novels/ushers_passing.html |author-first1=Robert|author-last1=McCammon|title=Robert R. McCammon's Usher's Passing}}</ref>
+
+The 2022 novel ''[[What Moves the Dead]]'' by American writer [[Ursula Vernon|T. Kingfisher]] is a retelling of "The Fall of the House of Usher".
+
+== References ==
+{{Reflist|30em}}
+
+== Further reading ==
+*{{cite journal |last=Evans |first=Walter |title='The Fall of the House of Usher' and Poe's Theory of the Tale |journal=Studies in Short Fiction |volume=14 |issue=2 |year=1977 |pages=137–44 }} Rpt. in ''Short Story Criticism''. Ed. Laurie Lanzen Harris and Sheila Fitzgerald. Vol. 1. Detroit: Gale, 1988. 403–05.
+
+== External links ==
+{{Commons category}}
+{{Wikisource}}
+* {{Gutenberg|no=932|name=The Fall of the House of Usher}}
+* {{Gutenberg|no=6557|name=The Fall of the House of Usher}} (audiobook)
+* {{librivox book | title=The Fall of the House of Usher | author=Edgar Allan Poe}}
+* [http://www.eapoe.org/works/tales/usherf.htm Full text] as reprinted in ''The Works of the Late Edgar Allan Poe'' (1850)
+* [http://poestories.com/read/houseofusher "The Fall of the House of Usher" with annotated vocabulary] at PoeStories.com ([https://web.archive.org/web/20230211012442/http://poestories.com/read/houseofusher Archived])
+* [https://americanliterature.com/author/edgar-allan-poe/short-story/the-fall-of-the-house-of-usher Full text] at American Literature
+* {{Cite Americana|author=William B. Cairns|wstitle=Fall of the House of Usher, The |year=1920 |short=x}}
+
+{{Edgar Allan Poe}}
+{{The Fall of the House of Usher}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fall Of The House Of Usher, The}}
+[[Category:1839 short stories]]
+[[Category:1830s English-language short stories]]
+[[Category:Gothic short stories]]
+[[Category:American short stories adapted into films]]
+[[Category:Short stories by Edgar Allan Poe]]
+
+[[Category:Short stories adapted into operas]]
+[[Category:Works originally published in Burton's Gentleman's Magazine]]
