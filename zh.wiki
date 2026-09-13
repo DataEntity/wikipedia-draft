@@ -33,9 +33,6 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 《亞瑟府的沒落》可能是坡早期奇異故事中最受歡迎的一篇<ref>{{cite book |last=Mabbott |first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-12}}</ref><ref>{{cite encyclopedia |last=Cairns |first=William B. |title=Fall of the House of Usher, The |encyclopedia=The Encyclopedia Americana |year=1920 |url=https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Fall_of_the_House_of_Usher,_The |access-date=2026-09-12}}</ref>，並多次被改編為電影、戲劇、音樂等其他媒體<ref>{{cite web |title=The Fall of the House of Usher |url=https://www.eapoe.org/works/info/pt025.htm |website=Edgar Allan Poe Society of Baltimore |access-date=2026-09-12}}</ref>。
 
-
-
-
 ==故事簡介==
 
 故事開始於無名敘述者抵達童年好友羅德里克·亞瑟的宅邸。此前他在遠方收到羅德里克來信，訴說自己患病，並請求前來相助。抵達時，敘述者注意到屋頂有一道細長裂縫，沿宅邸正面向下延伸，直至毗鄰的池沼。
@@ -59,31 +56,43 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 此時臥室大門被吹開，瑪德琳出現在門口，因掙扎逃出墓穴而渾身是血。她在最後一次狂怒中撲向兄長，羅德里克嚇死，她亦隨即氣絕。敘述者逃離宅邸，忽見身後一閃月光，回頭時恰見月光穿過驟然擴大的裂縫；亞瑟府從中裂為兩半，碎片沉入池沼。
 
-
-
 ==分析==
-“亞瑟府的沒落” 被認為是愛倫波個人思想的“ 整體性 ”，被完全呈現的最佳作品，當中每一個元素和細節全是與愛倫波的思想核心極為相關。作品中的被稱為厄舍府的房子，當中寬大的建築構造象徵著人體，而最後的崩塌和分裂，其實是象徵著對人類身體的破壞。
 
-愛倫波在他的作品“亞瑟府的沒落”中，呈現了如何創造情感基調的能力，特別是在於恐懼，厄運和內疚的感覺塑造。而這些情緒都被集中在羅德里克·厄舍身上，他和許多愛倫坡作創作的人物一樣，患有一種無名的疾病。就像“ 告密的心”中的敘述者一樣，疾病激發了他那過度活躍的感官。因此這種疾病會反映在人的身體上，但這是基於羅德里克·厄舍的精神狀態，甚至是道德層面上。羅德里克·厄舍他的病了，有人認為，是因為他的家族世代流傳下來的遺傳病，所以才導致他受到疾病的困擾，但這其實是一種憂鬱症。同樣的，羅德里克·厄舍活埋他的姐妹，是因為他自我否定了活埋的事實，而是先入為主的認為他的姐妹，的確是因為疾病而去世。
+[[File:Aubrey Beardsley - Edgar Poe 3.jpg|thumb|right|1894年[[比亞茲萊]]插畫。]]
+《亞瑟府的沒落》被認為是坡的「[[絕對 (哲學)|整體性]]」（totality）的最佳範例，其中每一元素與細節皆相互關聯且切題。<ref>Beebe, Maurice. "The Universe of Roderick Usher" as collected in ''Poe: A Collection of Critical Essays'', Robert Regan, ed. Englewood Cliffs, NJ: Prentice Hall, Inc., 1967. p. 123.{{ISBN?}}</ref>
 
-厄舍府本身是作為實際的房屋結構，以及家庭這種概念性的雙重存在，這在故事中起了很重要作用。它是敘述者向讀者介紹的第一個「字詞」，並被賦予了人性化的描述：它的窗口在第一段兩次被描述如「eye-like」。在它的中間出現裂痕是象徵性的厄舍府家庭和房子的「死亡」，同時也帶著羅德里克兩人一起走向死亡。這也就與羅德里克的詩連接起了，「似乎那在被陰沉感所環繞的房子直接預示了這死亡的命運」。
+一座寬敞、正在崩解的宅邸象徵人體的毀壞，這一意象在坡後來的作品中仍是典型元素。<ref name="Hutchisson, James M. 2005, p. 38">Hutchisson, James M. ''Poe'', Jackson, Mississippi: University of Mississippi Press, 2005, p. 38.{{ISBN?}}</ref>
 
-這個故事所要明確表達的是，心理層面上的探討，許多評論家將其分析為，對人類心理描述的比較；例如，屋子的崩塌和中間的裂縫都代表著「人格分裂」，同時精神錯亂也引導出憂鬱、可能的亂倫和勾引等題材。羅德里克和瑪德琳之間的亂倫關係雖然從未被明確地點出，但似乎以奇怪的方式暗示了二人之間的關係。
+《亞瑟府的沒落》展現了坡在作品中營造情感基調的能力，特別強調[[恐懼]]、迫近的厄運與[[內疚]]的感受。<ref>Meyers, Jeffrey. ''Edgar Allan Poe: His Life and Legacy''. New York City: Cooper Square Press, 1992; {{ISBN|0-8154-1038-7}}, p. 111</ref>這些情緒集中於羅德里克·亞瑟；他與許多坡筆下人物一樣，罹患一種無名疾病。如同〈[[告密的心]]〉中的敘述者，這種疾病激發了羅德里克[[感覺處理敏感|過度活躍的感官]]。疾病表現於身體，卻植根於羅德里克的精神乃至道德狀態。有論者認為，他之所以生病，是因為他依據家族病史預期自己會生病，因此本質上是一名[[疑病症]]患者。<ref>Butler, David. "Usher's Hypochondriasis: Mental Alienation and Romantic Idealism in Poe's Gothic Tales", collected in ''On Poe: The Best from "American Literature''. Durham, NC: Duke University Press, 1993. {{ISBN|0-8223-1311-1}}, pp. 189–90.</ref>同樣地，他活埋妹妹，是因為他預期要活埋她，從而造就了自己的[[自我實現預言]]。{{citation needed|date=October 2017}}
 
-“鴉片”，愛倫·坡在他的散文和詩中多次提及到該物，在故事中也被提及兩次。作者把鴉片上癮者的斷癮症狀造成的憔悴，比較成為淒涼風景下被陰沉感所環繞的厄舍府；同時作者還把羅德里克·厄舍的外表描述為“無可救藥的鴉片使用者”。
+「亞瑟府」本身具有雙重指涉——既指實際建築結構，亦指這個家族——在故事中扮演重要角色。它是敘述者向讀者介紹的第一個「角色」，並以擬人化描述呈現：其窗戶在第一段中兩次被形容為「眼狀」（eye-like）。宅側發展出來的裂縫象徵亞瑟家族的衰敗，而宅邸與亞瑟兄妹二人一同「死去」。這一聯繫在羅德里克的詩〈鬼魅宮殿〉中得到強調；該詩似乎直接指涉宅邸，並預示厄運。<ref>Meyers, Jeffrey. ''Edgar Allan Poe: His Life and Legacy''. New York City: Cooper Square Press, 1992. {{ISBN|0-8154-1038-7}} p. 111.</ref>
 
-'''典故和參考'''
+[[L·斯普拉格·德·坎普]]在其《洛夫克拉夫特傳》（''Lovecraft: A Biography''）中寫道：「據已故［坡專家］[[托馬斯·奧利弗·馬博特|托馬斯·O·馬博特]]所言，[[H·P·洛夫克拉夫特]]在〈[[文學中的超自然恐怖]]〉中『解決了坡詮釋上的一個問題』」，其論點是「羅德里克·亞瑟、其妹瑪德琳，以及宅邸，三者共有同一個靈魂」。<ref>de Camp, L. Sprague, ''Lovecraft: A Biography'' (Doubleday, 1975).{{ISBN?}}{{page needed|date=October 2021}}</ref>
 
-開場題詞引用了法國詞曲作者皮埃爾-讓·德·貝朗瑞的 “Le Refus”（1831年），翻譯成英文是“他的心臟是一個懸浮的樂器，一旦被觸動，它就會響起”。Béranger的原始文字是“ Moncœur ”（我的心），而不是“ Soncœur ”（他/她的心）。
+本篇情節促使許多批評家將其分析為對人類心靈的描述，例如將宅邸比作潛意識，將中央裂縫比作[[解離性身份障礙|人格分裂]]。{{Citation needed|date=February 2021}}羅德里克與瑪德琳之間的亂倫關係從未被明確陳述，但可由兄妹間的依附關係加以暗示。<ref>Hoffman, Daniel. ''Poe Poe Poe Poe Poe Poe Poe''. Baton Rouge: Louisiana State University Press, 1972. {{ISBN|0-8071-2321-8}} p. 297.</ref>
 
-作者將厄舍府當中的音樂作品描述為“對馮·韋伯最後一支華爾茲瘋狂神態的歪曲和放大”。那是在愛倫·坡那個時代流行的一首鋼琴作品 - 雖然這首標題為“Weber's Last Waltz”的鋼琴作品實際上是由Carl Gottlieb Reissiger創作的。但是在1826年他去世時，韋伯在文件中發現了一這份手稿的音樂副本，因此這部作品被誤解為是由韋伯所創作。
+[[鴉片]]——坡在散文與詩作中多次提及——在本篇中出現兩次。<ref name=":1">Poe, Edgar A. "The Fall of the House of Usher." 1839. ''Elements of Literature''. Fifth Course. Austin: Holt, Rinehart, and Winston, 2009. 321–33. Print.{{ISBN?}}</ref>敘述者將亞瑟府周圍陰鬱風景所引發的沉鬱感，比作鴉片成癮者因[[戒斷]]症狀而生的病感。敘述者亦將羅德里克·亞瑟的外表描述為「無可救藥的鴉片食用者」（irreclaimable eater of opium）。<ref>{{Cite book|title=Opium and the Romantic Imagination|last=Hayter|first=Alethea|publisher=Faber & Faber|year=2015|isbn=9780571306015|location=London|at=Chapter VI: Poe}}</ref>
 
-厄舍府當中的人物形象會令人想起了瑞士出生的英國畫家約翰·亨利希·菲斯利畫作中的人物。
+儘管並無直接陳述支持其結論，學者已指出羅德里克用以描述妹妹的語言充滿兄妹間可能存在亂倫關係的暗示。他們主張，這種畸變才是宅邸崩塌以及亞瑟家族血統終結的真正原因。<ref>{{Cite journal |last=Jiménez González |first=María Isabel |date=2023-03-08 |title=Edgar A. Poe's unity of affect/effect through incestuous perversions in 'The Fall of the House of Usher' |url=https://www.tandfonline.com/doi/full/10.1080/00393274.2023.2180429 |journal=Studia Neophilologica |volume=95 |issue=3 |language=en |pages=397–410 |doi=10.1080/00393274.2023.2180429 |s2cid=257442526 |issn=0039-3274|url-access=subscription }}</ref>
+
+=== 典故與參考 ===
+* 開篇題詞引自法國詞曲作者[[皮埃爾-讓·德·貝朗熱]]的〈Le Refus〉（1831），英譯為「his heart is a suspended lute, as soon as it is touched, it resounds」（其心如懸置之魯特琴；一經觸動，便會鳴響）。<ref name=":1" />貝朗熱原文作「''Mon cœur''」（我的心），而非「''Son cœur''」（他／她的心）。<ref>{{Cite book |last=de Béranger |first=Pierre-Jean |url=https://upload.wikimedia.org/wikipedia/commons/6/6f/B%C3%A9ranger%2C_oeuvres_compl%C3%A8tes_-_tome_3.pdf |title=Oeuvres complès de Béranger |editor-last=H. Fourmer |editor-first=Aine |location=Paris, France |publication-date=1839 |pages=98 |language=French |trans-title=Complete work of Béranger}}</ref>
+* 敘述者將亞瑟的一首音樂作品描述為「對[[卡爾·瑪麗亞·馮·韋伯|馮·韋伯]]最後一支華爾茲狂野曲調的奇異歪曲與放大」（a singular perversion and amplification of the wild air of the last waltz of Von Weber）。坡此處所指，是其時代一首流行鋼琴曲——雖以「Weber's Last Waltz」為題，實際作曲者卻是[[卡爾·戈特利布·賴西格]]。<ref>{{cite web|url=http://www.eapoe.org/geninfo/poemisc.htm|title=Edgar Allan Poe Society of Baltimore – General Topics – A Few Minor Poe Topics|work=eapoe.org}}</ref>1826年韋伯去世時，其文稿中發現該曲手稿抄本，作品遂被誤歸於他。
+* 亞瑟的畫作令敘述者想起瑞士出生的英國畫家[[亨利·富塞利]]。
+
+文中提及亞瑟的藏書「構成了這位病患［羅德里克·亞瑟］精神生活的不小部分」。故事列出一批書名，皆為對現實作品的典故。若干顯著者包括：
+
+* 馬基雅維利的《[[貝爾費戈爾]]》（''Belphegor''），一則涉及惡魔附身的故事。
+* [[伊曼紐·斯維登堡]]的《[[天堂與地獄 (斯維登堡)|天堂與地獄]]》，一部關於神聖異象與來世的著作。
+* 《[[異端裁判所指導手冊]]》（''Directorium Inquisitorum''），一份異端禁書清單。
+* 〈[[太陽城|Civitas Solis]]〉，一部關於[[神權政治]]社會的短篇[[烏托邦小說|烏托邦]]作品。哲學家兼詩人[[托馬索·康帕內拉]]相信世界具有精神本質。<ref>{{Cite journal|last=Mabbott|first=Thomas Ollive|date=1973|title=The Books in the House of Usher|journal=Books at Iowa|volume=19|pages=3–7|doi=10.17077/0006-7474.1059|issn=0006-7474|doi-access=free}}</ref>
 
 == 出版歷史 ==
+
 〈亞瑟府的沒落〉首先於1839年9月發行在波士頓《紳士雜誌》（Burton's Gentleman's Magazine）。接著愛倫坡把1839年4月已先獨立發表在Baltimore Museum Magazine的詩〈鬼魅宮殿〉（The Haunted Palace）納入〈厄舍府的倒塌〉一文中，並將這個略微修正的版本收錄在1840年的《驚悚故事集》（Tales of the Grotesque and Arabesque）。1928年，Éditions Narcisse出版了300本由Alastair負責繪圖的限量版本。
 
 == 文學重要性與批評 ==
+
 〈亞瑟府的沒落〉與〈告密的心〉（The Tell-Tale Heart）、〈黑貓〉（The Black Cat）和〈一桶蒙特亞多〉（The Cask of Amontillado）同被列為愛倫坡最著名的短篇小說。
 
 高度驚悚駭人的特色使〈亞瑟府的沒落〉成為美國哥特文學的名著。如同愛倫坡其他作品，本作參照了許多哥特文學的傳統。 儘管如此，G. R. Thomson在《愛倫坡的傑出短篇作品》（Great Short Works of Edgar Allan Poe）導論中寫道：「這篇故事長久以來被譽為哥特恐怖（Gothic horror）小說的名著，然而它同時也是戲劇性反諷（dramatic irony）和結構象徵主義（structural symbolism）的名著。」
