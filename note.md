@@ -17,6 +17,22 @@ https://digitalcommons.newhaven.edu/cgi/viewcontent.cgi?article=1005&context=eng
 
 https://www.eapoe.org/pstudies/ps1970/p1972106.htm
 
+- 適合敘述者段
+- 主觀性是「托住其他結構」的主結構；讀者既捲入又抽離
+- 開頭即強調：迷信因自覺而加速（terror 的悖論）
+- 結尾「我驚恐逃離」後，宅沉池沼未必可靠——敘述者已不可信
+- 極端說法：整篇可能只是敘述者內心虛構（Nothingness）——維基宜一句帶過，標明 Thompson 延伸
+- House：宅如骷髏／死人頭（眼狀窗）為中心意象，對稱反覆出現
+- 池中倒影本應可見敘述者自己的臉；宅臉／Usher 臉／敘述者臉疊合
+- 宅沉入自己的映像＝理性沉入內外皆空的虛無
+- Doppelgänger：多重加倍——R–Madeline，R–宅，R–敘述者，Madeline–敘述者，敘述者–宅
+- 入宅＝進入哥特主觀世界；僕人「usher」引見 Usher（戲仿細節）
+- Mad Trist：標題呼應 Usher–Madeline、敘述者–Usher 的 mad trist
+- 聲響對應既悚又滑稽 → 撕破哥特幻象、拉開與敘述者的反諷距離
+- Madeline：僵直可解釋「像鬼」；擰緊棺蓋、沉重鐵門與虛弱身軀矛盾 → 顯現鏈回夢／潛意識／敘述者睡艙正下方墓室
+- 不要寫成 either/or：亂倫、吸血鬼、宅有生命、心理寫實等可並存；Thompson 反對單線排他解讀
+
+
 https://www.eapoe.org/papers/misc1921/tom19730.htm
 
 - 適合典故部分
