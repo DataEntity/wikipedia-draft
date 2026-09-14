@@ -23,6 +23,10 @@ https://pubs.lib.uiowa.edu/bai/article/id/28890/
 
 https://www.eapoe.org/works/mabbott/tom2t033.htm#pn039301
 
+- 這是Poe早期奇異故事最受歡迎之一
+- Woodberry: 結構完美,效果統一;宅與"養育他的家族"有同情,宅,族一同沉入池沼
+- 1839 报评、Bentley 转载、Griswold 收入选本等出版／接受事实
+
 https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0730.1979.tb00550.x
 
 https://academic.oup.com/edited-volume/34633/chapter-abstract/295056540?redirectedFrom=fulltext
