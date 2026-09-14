@@ -59,11 +59,11 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 ==分析==
 
-<!-- 房屋（House）—家族（Usher）—主人公 Roderick — Madeline —叙述者 -->
+<!-- 房屋（House）—家族（Usher）—主人公 Roderick — Madeline —叙述者 --> 
 
-標題中的「House of Usher」同時指涉建築與家族；批評家亦常由此切入本篇的象徵結構。George E. Woodberry指出，小說在藝術結構上近乎完美，細節彼此呼應，並以宅邸與「養育它的家族」（the race that had reared it）之間微妙而不過分的同情為核心之一；最終宅、族一併沉入池沼。<ref name="MabbottUsher">{{cite book |editor-last=Mabbott |editor-first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |pages=392–396 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-14}}</ref>Margaret Alterton亦提到，E. T. A. Hoffmann〈限嗣繼承〉（「Das Majorat」）中已有以陰鬱宅邸象徵家族因成員死亡而毀滅的構思，可視為相近的文學傳統。<ref name="MabbottUsher" />
+標題中的「House of Usher」常被批評家視為同時指涉建築與家族，並由此切入本篇的象徵結構。George E. Woodberry指出，小說在藝術結構上近乎完美，細節彼此呼應，並以宅邸與「養育它的家族」（the race that had reared it）之間微妙而不過分的同情為核心之一；最終宅、族一併沉入池沼。<ref name="MabbottUsher">{{cite book |editor-last=Mabbott |editor-first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |pages=392–396 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-14}}</ref>Margaret Alterton亦提到，E. T. A. Hoffmann〈限嗣繼承〉（「Das Majorat」）中已有以陰鬱宅邸象徵家族因成員死亡而毀滅的構思，可視為相近的文學傳統。<ref name="MabbottUsher" />與此同時，亦有論者如Richard Wilbur提出身體象徵論：亞瑟府即羅德里克·亞瑟的身體，其幽暗內部即其幻想心智（visionary Mind）。<ref name="MabbottUsher" />
 
-在此雙重指涉之外，另有論者強調宅、人與心智的對應。H. P. Lovecraft將羅德里克、其妹瑪德琳與古宅概括為「異常連結的三位一體」，共有同一靈魂、並於同一時刻共同毀滅。<ref name="MabbottUsher" />Richard Wilbur則提出寓言論：亞瑟府即羅德里克的身體，其幽暗內部即其幻想心智（visionary Mind）。<ref name="MabbottUsher" />Mabbott在整理諸說時亦歸納：一魂居于宅邸與家族成員之中，存亡相依；敘述者因不屬此命運，故得以逃離。<ref name="MabbottUsher" />
+在此之外，H. P. Lovecraft將羅德里克、其妹瑪德琳與古宅概括為「異常連結的三位一體」，共有同一靈魂、並於同一時刻共同毀滅。<ref name="MabbottUsher" />Mabbott在整理諸說時亦歸納：一魂居于宅邸與家族成員之中，存亡相依；敘述者因不屬此命運，故得以逃離。<ref name="MabbottUsher" />
 
 
 
