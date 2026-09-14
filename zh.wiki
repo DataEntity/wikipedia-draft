@@ -61,7 +61,10 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 <!-- 房屋（House）—家族（Usher）—主人公 Roderick — Madeline —叙述者 -->
 
-批评界常将「亚瑟府」读作建筑、家族与成员相互映射的封闭系统；叙述者自外入内，见证其崩塌而脱身。亞瑟府的沒落在標題中House of Usher同時指向一個家族與建築.小説并沒有將二者作爲彼此獨立的對象處理.而是不斷的使建築狀態與厄舍家族相互映照: 房屋的裂隙,腐朽與最終崩塌.構成了家族衰亡的物質化表現.由此,小説中的房屋并非單純的哥特式背景.而是構成敘事結構的一部分.
+標題中的「House of Usher」同時指涉建築與家族；批評家亦常由此切入本篇的象徵結構。George E. Woodberry指出，小說在藝術結構上近乎完美，細節彼此呼應，並以宅邸與「養育它的家族」（the race that had reared it）之間微妙而不過分的同情為核心之一；最終宅、族一併沉入池沼。<ref name="MabbottUsher">{{cite book |editor-last=Mabbott |editor-first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |pages=392–396 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-14}}</ref>Margaret Alterton亦提到，E. T. A. Hoffmann〈限嗣繼承〉（「Das Majorat」）中已有以陰鬱宅邸象徵家族因成員死亡而毀滅的構思，可視為相近的文學傳統。<ref name="MabbottUsher" />
+
+在此雙重指涉之外，另有論者強調宅、人與心智的對應。H. P. Lovecraft將羅德里克、其妹瑪德琳與古宅概括為「異常連結的三位一體」，共有同一靈魂、並於同一時刻共同毀滅。<ref name="MabbottUsher" />Richard Wilbur則提出寓言論：亞瑟府即羅德里克的身體，其幽暗內部即其幻想心智（visionary Mind）。<ref name="MabbottUsher" />Mabbott在整理諸說時亦歸納：一魂居于宅邸與家族成員之中，存亡相依；敘述者因不屬此命運，故得以逃離。<ref name="MabbottUsher" />
+
 
 
 
