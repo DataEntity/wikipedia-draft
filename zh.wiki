@@ -68,8 +68,7 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 G. R. Thompson認為，坡的哥特故事延續美國文學中「曖昧解釋的超自然」（ambiguously explained supernatural）傳統：揭示人物心理的線索埋於超自然色彩的哥特氛圍中，表面靈異可疊合多層解讀——對事件的理性說明、對人物心理的說明，以及對故事內容與形式的諷刺與戲謔。這些交織層次最終指向坡對人類認知能力的懷疑：無論對外在真實或內心現實，人都無法真正確知。<ref name="Thompson1972">{{cite journal |last=Thompson |first=G. R. |title=The Face in the Pool: Reflections on the Doppelgänger Motif in 'The Fall of the House of Usher' |journal=Poe Studies |volume=5 |issue=1 |date=June 1972 |pages=16–21 |url=https://www.eapoe.org/pstudies/ps1970/p1972106.htm |access-date=2026-09-17}}</ref>
 
-關於〈亞瑟府的沒落〉的許多現代討論建立在Darrel Abel對該故事的分析之上。Abel將作品視為敘述者與羅德里克·亞瑟相互歇斯底里的心理劇（psychodrama）；在此之後有學者進一步從故事的整體結構重新解讀其主要特徵。學者認為，敘述者的主觀情感實際上構成了整個故事的基本結構，並使得其他元素圍繞這一結構展開。反復出現的「雙重」（double）被視為是這一結構的主要體現，無論是羅德里克與瑪德琳、羅德里克與宅邸、羅德里克與敘述者、瑪德琳與敘述者，以及敘述者與宅邸之間的對應關係；這種象徵手法還通過面部與頭骨的意象得到進一步強化，並最終返回主體本身，指向被困於思維迷宮中的角色視角所看到的「真實」（reality）的象徵。<ref name="Thompson1972" />
-
+許多現代討論建立在Darrel Abel的分析之上：他將本篇視為敘述者與羅德里克相互歇斯底里的心理劇（psychodrama）。Thompson進一步主張，敘述者的主觀構成托住全篇的基本結構，其餘元素圍繞展開；反覆出現的「雙重」（double）——羅德里克與瑪德琳、羅德里克與宅邸、羅德里克與敘述者、瑪德琳與敘述者、敘述者與宅邸——為此結構的主要體現，並藉面部與頭骨意象強化，最終折回主體自身，指向困於思維迷宮的角色視角中所見的「真實」。<ref name="Thompson1972" />
 
 坡在多大程度上以真實的亞瑟一家為角色原型，已不可考。羅德里克·亞瑟的病症——對作出任何決定的恐懼——在臨床上已知，且今或可治愈；坡那個時代的醫學理論則認為，霧氣與潮濕之地易致憂鬱（melancholia）。<ref name="Mabbott1978" />
 
