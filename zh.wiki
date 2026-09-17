@@ -63,13 +63,13 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 標題中的「House of Usher」常被批評家視為同時指涉建築與家族，這一雙重含義也成爲後世批評家討論作品結構的重要切入點之一。George E. Woodberry指出，小說在藝術結構上近乎完美，細節彼此呼應，並以宅邸與「養育它的家族」（the race that had reared it）之間微妙而不過分的同情為核心之一；最終宅、族一併沉入池沼。<ref name="Mabbott1978">{{cite book |editor-last=Mabbott |editor-first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |pages=392–396 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-14}}</ref>Margaret Alterton亦提到，E. T. A. Hoffmann〈限嗣繼承〉（「Das Majorat」）中已有以陰鬱宅邸象徵家族因成員死亡而毀滅的構思，可視為相近的文學傳統。<ref name="Mabbott1978" />與此同時，亦有論者如Richard Wilbur提出身體象徵論：亞瑟府即羅德里克·亞瑟的身體，其幽暗內部即其幻想心智（visionary Mind）。<ref name="Mabbott1978" />
 
-在此之外，H. P. Lovecraft將羅德里克、其妹瑪德琳與古宅概括為「異常連結的三位一體」，共有同一靈魂、並於同一時刻共同毀滅。同時,Poe的確賦予了一些通常被認爲是同卵雙胞胎的特徵,但他們并不共享同一性別<ref name="Mabbott1978" />Mabbott在整理諸說時亦歸納：一魂居于宅邸與家族成員之中，存亡相依；敘述者因不屬此命運，故得以逃離。<ref name="Mabbott1978" />理查德威爾伯認爲 "The House of Usher"實際上象徵著羅德里克·亞瑟的身體，其幽暗內部即其幻想般的心智（visionary Mind）。<ref name="Mabbott1978" />
+在此之外，H. P. Lovecraft將羅德里克、其妹瑪德琳與古宅概括為「異常連結的三位一體」，共有同一靈魂、並於同一時刻共同毀滅。同時,Poe的確賦予了一些通常被認爲是同卵雙胞胎的特徵,但他們并不共享同一性別<ref name="Mabbott1978" />Mabbott在整理諸說時亦歸納：一魂居于宅邸與家族成員之中，存亡相依；敘述者因不屬此命運，故得以逃離。<ref name="Mabbott1978" />
 
 目前無法確定Poe如何以真實的乌舍尔為原型塑造角色,儸德里克乌舍尔所患有的病症 ———— 即表現出無法做出任何決定的恐懼,目前在臨床上已有確認,且目前該病症是可以被治愈的,在當時的醫學理論認爲,昏暗潮濕的環境可能會導致人們引發抑鬱症<ref name="Mabbott1978" />.
 
 有學者認爲,Poe的哥特故事延續了美國文學中的"曖昧解釋的超自然"(ambiguously explained supernatural)傳統,作品將揭示人物心理活動的綫索隱藏在帶有超自然色彩的哥特氛圍中,表面上的超自然現象借此可以通過多個層面進行解讀,首先是存在對事件的理性解釋,其次是對人物心理活動的解釋,而在最深一層則隱藏著對故事内容與形式的諷刺與戲謔.也就是説,這一系列相互交織的層次與結構最終指向了Poe對人類認知能力的懷疑 ———— 無論是對外部世界的真實,亦或者對内心世界的現實,人類都無法真正掌握任何事情。<ref name="Thompson1972">{{cite journal |last=Thompson |first=G. R. |title=The Face in the Pool: Reflections on the Doppelgänger Motif in 'The Fall of the House of Usher' |journal=Poe Studies |volume=5 |issue=1 |date=June 1972 |pages=16–21 |url=https://www.eapoe.org/pstudies/ps1970/p1972106.htm |access-date=2026-09-17}}</ref>
 
-關於《The Fall of the House of Usher》的許多現代討論建立在Darrel Abel對該故事的分析之上.Darrel Abel將作品視爲敘述者與 Roderick Usher 相互歇斯底裏的情緒構成了故事的核心結構,在此之後有學者進一步通過從故事的整體結構重新解讀其為主要特徵.學者認爲,敘述者的主觀情感實際上構成了整個故事的基本結構,並使得其他元素圍繞這一結構展開.反復出現的"雙重(double)"被視爲是這一結構的主要體現,無論是Roderick 与 Madeline、Roderick 与宅邸、Roderick 与叙述者、Madeline 与叙述者，以及叙述者与宅邸之间的对应关系,這種象徵手法還通過面部與頭骨的意向得到進一步强化,并最終返回主體本身,指向被困于思維迷宮中的角色視角所看到的"真實(reality)"的象徵<ref name="Thompson1972" />
+關於《The Fall of the House of Usher》的許多現代討論建立在Darrel Abel對該故事的分析之上.Abel 将作品视为叙述者与 Roderick Usher 相互歇斯底里的心理剧（psychodrama）,在此之後有學者進一步通過從故事的整體結構重新解讀其為主要特徵.學者認爲,敘述者的主觀情感實際上構成了整個故事的基本結構,並使得其他元素圍繞這一結構展開.反復出現的"雙重(double)"被視爲是這一結構的主要體現,無論是Roderick 与 Madeline、Roderick 与宅邸、Roderick 与叙述者、Madeline 与叙述者，以及叙述者与宅邸之间的对应关系,這種象徵手法還通過面部與頭骨的意向得到進一步强化,并最終返回主體本身,指向被困于思維迷宮中的角色視角所看到的"真實(reality)"的象徵<ref name="Thompson1972" />
 
 
 
