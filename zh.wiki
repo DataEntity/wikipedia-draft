@@ -63,28 +63,9 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 標題中的「House of Usher」常被批評家視為同時指涉建築與家族，這一雙重含義也成爲後世批評家討論作品結構的重要切入點之一。George E. Woodberry指出，小說在藝術結構上近乎完美，細節彼此呼應，並以宅邸與「養育它的家族」（the race that had reared it）之間微妙而不過分的同情為核心之一；最終宅、族一併沉入池沼。<ref name="Mabbott1978">{{cite book |editor-last=Mabbott |editor-first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |pages=392–396 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-14}}</ref>Margaret Alterton亦提到，E. T. A. Hoffmann〈限嗣繼承〉（「Das Majorat」）中已有以陰鬱宅邸象徵家族因成員死亡而毀滅的構思，可視為相近的文學傳統。<ref name="Mabbott1978" />與此同時，亦有論者如Richard Wilbur提出身體象徵論：亞瑟府即羅德里克·亞瑟的身體，其幽暗內部即其幻想心智（visionary Mind）。<ref name="Mabbott1978" />
 
-在此之外，H. P. Lovecraft將羅德里克、其妹瑪德琳與古宅概括為「異常連結的三位一體」，共有同一靈魂、並於同一時刻共同毀滅。<ref name="Mabbott1978" />Mabbott在整理諸說時亦歸納：一魂居于宅邸與家族成員之中，存亡相依；敘述者因不屬此命運，故得以逃離。<ref name="Mabbott1978" />
+在此之外，H. P. Lovecraft將羅德里克、其妹瑪德琳與古宅概括為「異常連結的三位一體」，共有同一靈魂、並於同一時刻共同毀滅。同時,Poe的確賦予了一些通常被認爲是同卵雙胞胎的特徵,但他們并不共享同一性別<ref name="Mabbott1978" />Mabbott在整理諸說時亦歸納：一魂居于宅邸與家族成員之中，存亡相依；敘述者因不屬此命運，故得以逃離。<ref name="Mabbott1978" />理查德威爾伯認爲 "The House of Usher"實際上象徵著羅德里克·亞瑟的身體，其幽暗內部即其幻想般的心智（visionary Mind）。<ref name="Mabbott1978" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-關於如何理解本篇的「超自然」表象，G. R. Thompson將坡的哥特手法置於美國「曖昧解釋的超自然」（ambiguously explained supernatural）傳統之中：看似靈異的事件之下，往往同時埋有心理線索。<ref name="Thompson1972">{{cite journal |last=Thompson |first=G. R. |title=The Face in the Pool: Reflections on the Doppelgänger Motif in 'The Fall of the House of Usher' |journal=Poe Studies |volume=5 |issue=1 |date=June 1972 |pages=16–21 |url=https://www.eapoe.org/pstudies/ps1970/p1972106.htm |access-date=2026-09-14}}</ref>他主張，此類故事通常疊合三層結構，而非彼此排斥的單線解釋：其一為對表面超自然現象的理性說明；其二為心理說明；其三則是對故事內容與敘事方式本身的戲仿或嘲諷。<ref name="Thompson1972" />就本篇而言，批評史上反覆出現的問題——如宅邸是否「有生命」、兄妹關係是否涉及亂倫、瑪德琳的歸來是否近於吸血鬼、抑或全篇主要是心理寫實——不宜理解為非此即彼；Thompson認為本篇是多重結構的疊加，而將各層托住的，則是讀者對敘述者主觀性的覺察。<ref name="Thompson1972" />Poe筆下這些相互滲透的層次最終指向：人對外在世界或內心世界的認知能力的嘲弄。<ref name="Thompson1972" />
-
-G. R. Thompson指出，本篇的意義並非單一内核，而是多層結構相互包覆；讀者對超自然與寫實的雙重感知，主要來自對敘述者主觀性的覺察——既捲入其經驗，又與之保持距離。<ref name="Thompson1972">{{cite journal |last=Thompson |first=G. R. |title=The Face in the Pool: Reflections on the Doppelgänger Motif in 'The Fall of the House of Usher' |journal=Poe Studies |volume=5 |issue=1 |date=June 1972 |pages=16–21 |url=https://www.eapoe.org/pstudies/ps1970/p1972106.htm |access-date=2026-09-14}}</ref>他將坡的哥特手法置於「曖昧解釋的超自然」傳統：表面為靈異氛圍，同時埋入心理線索。據此，看似超自然的事件可疊合三層——理性解釋、心理解釋，以及對故事內容與敘事方式本身的戲仿；整體指向對心智能否確知外在或內在實在的嘲弄，而非非此即彼的單一正解。<ref name="Thompson1972" />
-
-在此框架下，敘述者並非中立見證人。Thompson承Darrel Abel之說，將本篇讀作敘述者與羅德里克相互感染的歇斯底里心理劇：羅德里克受制於恐懼，敘述者自抵達起即感陰鬱，並意識到自身迷信因自覺而加速；其後日益受羅德里克影響，終至驚恐逃離。<ref name="Thompson1972" />宅邸「眼狀」窗所構成的骷髏般「面孔」、池沼中的倒影，與羅德里克的面容意象反覆疊合；敘述者凝視池中宅影時，象徵上也與自身映像相融，使「觀看者」與「被觀看的宅／人」難分彼我。<ref name="Thompson1972" />Thompson並以雙重（doppelgänger）模式概括多重對應：羅德里克與瑪德琳、羅德里克與宅邸、羅德里克與敘述者，以及敘述者與宅邸等。<ref name="Thompson1972" />
-
-插入的中世紀傳奇''The Mad Trist''亦服務於此結構：標題呼應羅德里克與瑪德琳、敘述者與羅德里克各自的「瘋狂約會」；朗讀時宅內聲響與書中情節對應，既強化驚悚，又因刻意荒謬而撕破哥特幻象，在敘述者與讀者之間拉開反諷距離。<ref name="Thompson1972" />敘述者宣稱逃離後方見宅崩池沼，故其見證未必可靠；文中地窖曾貯易燃物、沼氣被認為可致幻等細節，則可為宅崩與幻覺提供理性層線索。<ref name="Thompson1972" />
+目前無法確定Poe如何以真實的乌舍尔為原型塑造角色,儸德里克乌舍尔所患有的病症 ———— 即表現出無法做出任何決定的恐懼,目前在臨床上已有確認,且目前該病症是可以被治愈的,在當時的醫學理論認爲,昏暗潮濕的環境可能會導致人們引發抑鬱症<ref name="Mabbott1978" />.
 
 
 
