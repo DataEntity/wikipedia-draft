@@ -67,31 +67,10 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 目前無法確定Poe如何以真實的乌舍尔為原型塑造角色,儸德里克乌舍尔所患有的病症 ———— 即表現出無法做出任何決定的恐懼,目前在臨床上已有確認,且目前該病症是可以被治愈的,在當時的醫學理論認爲,昏暗潮濕的環境可能會導致人們引發抑鬱症<ref name="Mabbott1978" />.
 
+有學者認爲,Poe的哥特故事延續了美國文學中的"曖昧解釋的超自然"(ambiguously explained supernatural)傳統,作品將揭示人物心理活動的綫索隱藏在帶有超自然色彩的哥特氛圍中,表面上的超自然現象借此可以通過多個層面進行解讀,首先是存在對事件的理性解釋,其次是對人物心理活動的解釋,而在最深一層則隱藏著對故事内容與形式的諷刺與戲謔.也就是説,這一系列相互交織的層次與結構最終指向了Poe對人類認知能力的懷疑 ———— 無論是對外部世界的真實,亦或者對内心世界的現實,人類都無法真正掌握任何事情 
 
+<!-- https://www.eapoe.org/pstudies/ps1970/p1972106.htm -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- === 典故與參考 ===
-* 開篇題詞引自法國詞曲作者[[皮埃爾-讓·德·貝朗熱]]的〈Le Refus〉（1831），英譯為「his heart is a suspended lute, as soon as it is touched, it resounds」（其心如懸置之魯特琴；一經觸動，便會鳴響）。<ref name=":1" />貝朗熱原文作「''Mon cœur''」（我的心），而非「''Son cœur''」（他／她的心）。<ref>{{Cite book |last=de Béranger |first=Pierre-Jean |url=https://upload.wikimedia.org/wikipedia/commons/6/6f/B%C3%A9ranger%2C_oeuvres_compl%C3%A8tes_-_tome_3.pdf |title=Oeuvres complès de Béranger |editor-last=H. Fourmer |editor-first=Aine |location=Paris, France |publication-date=1839 |pages=98 |language=French |trans-title=Complete work of Béranger}}</ref>
-* 敘述者將亞瑟的一首音樂作品描述為「對[[卡爾·瑪麗亞·馮·韋伯|馮·韋伯]]最後一支華爾茲狂野曲調的奇異歪曲與放大」（a singular perversion and amplification of the wild air of the last waltz of Von Weber）。坡此處所指，是其時代一首流行鋼琴曲——雖以「Weber's Last Waltz」為題，實際作曲者卻是[[卡爾·戈特利布·賴西格]]。<ref>{{cite web|url=http://www.eapoe.org/geninfo/poemisc.htm|title=Edgar Allan Poe Society of Baltimore – General Topics – A Few Minor Poe Topics|work=eapoe.org}}</ref>1826年韋伯去世時，其文稿中發現該曲手稿抄本，作品遂被誤歸於他。
-* 亞瑟的畫作令敘述者想起瑞士出生的英國畫家[[亨利·富塞利]]。
-
-文中提及亞瑟的藏書「構成了這位病患［羅德里克·亞瑟］精神生活的不小部分」。故事列出一批書名，皆為對現實作品的典故。若干顯著者包括：
-
-* 馬基雅維利的《[[貝爾費戈爾]]》（''Belphegor''），一則涉及惡魔附身的故事。
-* [[伊曼紐·斯維登堡]]的《[[天堂與地獄 (斯維登堡)|天堂與地獄]]》，一部關於神聖異象與來世的著作。
-* 《[[異端裁判所指導手冊]]》（''Directorium Inquisitorum''），一份異端禁書清單。
-* 〈[[太陽城|Civitas Solis]]〉，一部關於[[神權政治]]社會的短篇[[烏托邦小說|烏托邦]]作品。哲學家兼詩人[[托馬索·康帕內拉]]相信世界具有精神本質。<ref>{{Cite journal|last=Mabbott|first=Thomas Ollive|date=1973|title=The Books in the House of Usher|journal=Books at Iowa|volume=19|pages=3–7|doi=10.17077/0006-7474.1059|issn=0006-7474|doi-access=free}}</ref>
 
 == 出版歷史 ==
 
