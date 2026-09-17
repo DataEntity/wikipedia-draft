@@ -69,6 +69,10 @@ The story features an unnamed narrator's visit to the decaying mansion of his ch
 
 有學者認爲,Poe的哥特故事延續了美國文學中的"曖昧解釋的超自然"(ambiguously explained supernatural)傳統,作品將揭示人物心理活動的綫索隱藏在帶有超自然色彩的哥特氛圍中,表面上的超自然現象借此可以通過多個層面進行解讀,首先是存在對事件的理性解釋,其次是對人物心理活動的解釋,而在最深一層則隱藏著對故事内容與形式的諷刺與戲謔.也就是説,這一系列相互交織的層次與結構最終指向了Poe對人類認知能力的懷疑 ———— 無論是對外部世界的真實,亦或者對内心世界的現實,人類都無法真正掌握任何事情。<ref name="Thompson1972">{{cite journal |last=Thompson |first=G. R. |title=The Face in the Pool: Reflections on the Doppelgänger Motif in 'The Fall of the House of Usher' |journal=Poe Studies |volume=5 |issue=1 |date=June 1972 |pages=16–21 |url=https://www.eapoe.org/pstudies/ps1970/p1972106.htm |access-date=2026-09-17}}</ref>
 
+關於《The Fall of the House of Usher》的許多現代討論建立在Darrel Abel對該故事的分析之上.Darrel Abel將作品視爲敘述者與 Roderick Usher 相互歇斯底裏的情緒構成了故事的核心結構,在此之後有學者進一步通過從故事的整體結構重新解讀其為主要特徵.學者認爲,敘述者的主觀情感實際上構成了整個故事的基本結構,並使得其他元素圍繞這一結構展開.反復出現的"雙重(double)"被視爲是這一結構的主要體現,無論是Roderick 与 Madeline、Roderick 与宅邸、Roderick 与叙述者、Madeline 与叙述者，以及叙述者与宅邸之间的对应关系,這種象徵手法還通過面部與頭骨的意向得到進一步强化,并最終返回主體本身,指向被困于思維迷宮中的角色視角所看到的"真實(reality)"的象徵
+
+Much of the present discussion of “Usher” derives from the brilliant analysis of the tale as a psychodrama of the mutual hysteria of the narrator and Roderick Usher by Darrel Abel.(3) What I offer as progressive to our understanding of the tale is principally addenda to such evidence in terms of a reconsideration of the principal symbols of the tale within the primary structural context proposed — that is, the structure wherein the subjectivity of the narrator provides the basic system of structures holding in tension all the others. I shall attempt to demonstrate the pervasiveness of this primary structure principally by reference to the pattern of the double and its redoubled manifestations (Roderick and Madeline, Roderick and the House, Roderick and the narrator, Madeline and the narrator, the narrator and the House). This pattern is further redoubled by the imagery of the face or skull, which ultimately inverts back on the self as a symbol of the “reality” seen from the inward perspective of characters caught in a labyrinth of mental surmise.
+
 
 == 出版歷史 ==
 
