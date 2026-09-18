@@ -5,7 +5,7 @@
 }}
 {{About|||亞瑟府的沒落 (電視劇)}}
 {{infobox Book | 
-| name          = 亞瑟府的沒落
+| name          = 厄舍府的崩塌
 | title_orig    = '''''The Fall of the House of Usher'''''
 | image         = Aubrey Beardsley - Edgar Poe 3.jpg
 | image_caption = [[比亞茲萊]]的插畫
@@ -18,86 +18,71 @@
 | chinese_name ={{spml|厄舍府的崩塌|亞瑟府的沒落|鄂榭府崩潰記|阿夏家的沒落}}<!-- 僅列常用／代表性紙本譯名；其餘近義異譯從略 -->
 }}
 
-<!-- 
-《'''亞瑟府的沒落'''》是一部由[[愛倫·坡]]於1839年所著的[[短篇小說]]，當時發佈在雜誌Burton's Gentleman's Magazine上。 
+《'''厄舍府的崩塌'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）<ref>{{cite magazine |last=Poe |first=Edgar Allan |title=The Fall of the House of Usher |magazine=Burton's Gentleman's Magazine |location=Philadelphia |volume=V |issue=3 |date=September 1839 |pages=145–152 |url=https://www.eapoe.org/works/tales/ushera.htm |access-date=2026-09-12}}</ref>，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）<ref>{{cite book |last=Poe |first=Edgar Allan |chapter=The Fall of the House of Usher |title=Tales of the Grotesque and Arabesque |volume=1 |publisher=Lea and Blanchard |location=Philadelphia |year=1840 |pages=75–103 |url=https://www.eapoe.org/works/tales/usherb.htm |access-date=2026-09-12}}</ref>。
 
-"The Fall of the House of Usher" is a short story by American writer Edgar Allan Poe, first published in 1839 in Burton's Gentleman's Magazine, then included in the collection Tales of the Grotesque and Arabesque in 1840.[1] The short story, a work of Gothic fiction, includes themes of madness, family, isolation, and metaphysical identities.[2]
+故事敘述一名無名敘述者探訪童年好友羅德里克·厄舍及其妹瑪德琳所居的傾頹宅邸；其間瑪德琳被以為已死而暫葬於宅邸內墓室，實則尚存，其後逃出，撲倒在羅德里克身上後一同死去，宅邸亦隨之崩塌。
 
-The story features an unnamed narrator's visit to the decaying mansion of his childhood friend Roderick Usher and his sister Madeline. There, he learns of Roderick's illness and attempts to keep him entertained. Madeline dies and is buried and the narrator assists in putting her body in the family tomb within the mansion. Madeline, however, was still alive and escapes her tomb to seek revenge on her brother. The narrator flees the house as it collapses on the final members of the family.
+《厄舍府的崩塌》可能是坡早期奇異故事中最受歡迎的一篇<ref>{{cite book |last=Mabbott |first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-12}}</ref><ref>{{cite encyclopedia |last=Cairns |first=William B. |title=Fall of the House of Usher, The |encyclopedia=The Encyclopedia Americana |year=1920 |url=https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Fall_of_the_House_of_Usher,_The |access-date=2026-09-12}}</ref>，並多次被改編為電影、戲劇、音樂等其他媒體<ref>{{cite web |title=The Fall of the House of Usher |url=https://www.eapoe.org/works/info/pt025.htm |website=Edgar Allan Poe Society of Baltimore |access-date=2026-09-12}}</ref>。
 
-"The Fall of the House of Usher" has become one of Poe's most well-known works of prose. It has been frequently adapted into various media. -->
+== 故事簡介 ==
 
+故事開始於無名敘述者抵達童年好友羅德里克·厄舍的宅邸。此前他在遠方收到羅德里克來信，訴說自己患病，並請求前來相助。抵達時，敘述者注意到屋頂有一道細長裂縫，沿宅邸正面向下延伸，直至毗鄰的池沼。
 
-《'''亞瑟府的沒落'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）<ref>{{cite magazine |last=Poe |first=Edgar Allan |title=The Fall of the House of Usher |magazine=Burton's Gentleman's Magazine |location=Philadelphia |volume=V |issue=3 |date=September 1839 |pages=145–152 |url=https://www.eapoe.org/works/tales/ushera.htm |access-date=2026-09-12}}</ref>，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）<ref>{{cite book |last=Poe |first=Edgar Allan |chapter=The Fall of the House of Usher |title=Tales of the Grotesque and Arabesque |volume=1 |publisher=Lea and Blanchard |location=Philadelphia |year=1840 |pages=75–103 |url=https://www.eapoe.org/works/tales/usherb.htm |access-date=2026-09-12}}</ref>。
-
-故事敘述一名無名敘述者探訪童年好友羅德里克·亞瑟及其妹瑪德琳所居的傾頹宅邸；其間瑪德琳被以為已死而暫葬於宅內墓室，實則尚存，其後逃出，撲倒在羅德里克身上后一同死去，宅邸亦隨之崩塌。
-
-《亞瑟府的沒落》可能是坡早期奇異故事中最受歡迎的一篇<ref>{{cite book |last=Mabbott |first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-12}}</ref><ref>{{cite encyclopedia |last=Cairns |first=William B. |title=Fall of the House of Usher, The |encyclopedia=The Encyclopedia Americana |year=1920 |url=https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Fall_of_the_House_of_Usher,_The |access-date=2026-09-12}}</ref>，並多次被改編為電影、戲劇、音樂等其他媒體<ref>{{cite web |title=The Fall of the House of Usher |url=https://www.eapoe.org/works/info/pt025.htm |website=Edgar Allan Poe Society of Baltimore |access-date=2026-09-12}}</ref>。
-
-==故事簡介==
-
-故事開始於無名敘述者抵達童年好友羅德里克·亞瑟的宅邸。此前他在遠方收到羅德里克來信，訴說自己患病，並請求前來相助。抵達時，敘述者注意到屋頂有一道細長裂縫，沿宅邸正面向下延伸，直至毗鄰的池沼。
-
-敘述者得知，羅德里克的妹妹瑪德琳同樣患病，並常陷入如同死亡一般的僵直狀態。兄妹二人是亞瑟家族僅存的成員。
+敘述者得知，羅德里克的妹妹瑪德琳同樣患病，並常陷入如同死亡一般的僵直狀態。兄妹二人是厄舍家族僅存的成員。
 
 敘述者對羅德里克的畫作印象深刻，並試圖藉一同閱讀、聆聽其吉他即興演奏使他振作。羅德里克唱起《鬼魅宮殿》（''The Haunted Palace''），隨後告訴敘述者：他認為所居宅邸具有生命，這種感知源於砌石結構與周圍草木的排布；他亦相信自身命運與這座家族宅邸緊密相連。
 
-其後，羅德里克告知瑪德琳已死。因擔心遺體被人掘出供醫學研究，他堅持先將其暫厝於宅內家族墓穴兩週，再行永久安葬。敘述者協助將瑪德琳放入墓穴，此時方察覺二人實為雙胞胎；又見其雙頰泛紅——屍體有時亦可見此狀。接下來一週，羅德里克與敘述者皆愈發焦躁不安。
+其後，羅德里克告知瑪德琳已死。因擔心遺體被人掘出供醫學研究，他堅持先將其暫厝於宅邸內家族墓穴兩週，再行永久安葬。敘述者協助將瑪德琳放入墓穴，此時方察覺二人實為雙胞胎；又見其雙頰泛紅——屍體有時亦可見此狀。接下來一週，羅德里克與敘述者皆愈發焦躁不安。
 
-暴風雨起，羅德里克來到敘述者臥室——該室恰在地下墓穴上方——神情近乎歇斯底里。他推開窗迎向風雨，指出環宅池沼似在黑暗中發光，一如其畫中景象；然而既無閃電，亦不見其他可解釋光源。
+暴風雨起，羅德里克來到敘述者臥室——該室恰在地下墓穴上方——神情近乎歇斯底里。他推開窗迎向風雨，指出環繞宅邸的池沼似在黑暗中發光，一如其畫中景象；然而既無閃電，亦不見其他可解釋光源。
 
-敘述者試以朗讀一部名為''The Mad Trist''的中世紀傳奇安撫他。書中騎士埃塞爾雷德（Ethelred）為躲避將至的暴風雨闖入隱士住所，卻見巨龍守衛一座黃金宮殿；牆上又懸一面銅盾，銘曰：
+敘述者試以朗讀一部名為《The Mad Trist》的中世紀傳奇安撫他。書中騎士埃塞爾雷德（Ethelred）為躲避將至的暴風雨闖入隱士住所，卻見巨龍守衛一座黃金宮殿；牆上又懸一面銅盾，銘曰：
 
 > 入此室者，已是征服之人；
 > 屠此龍者，當獲此盾。
 
 埃塞爾雷德以狼牙棒擊龍，龍發出刺耳尖叫而死；及至取盾，盾墜於地，鏗然作響。
 
-敘述者讀到騎士破門而入時，他與羅德里克聽見宅中某處傳來斷裂、撕扯之聲；讀到巨龍臨死哀鳴時，屋內再聞真實尖叫；讀到盾牌落地時，整座宅邸響起空洞的金屬回聲。敘述者起初不以為意，羅德里克卻愈發歇斯底里，終於聲稱這些聲響他已聽了數日，正是妹妹所發——原來封入墓穴時她尚存活。
+敘述者讀到騎士破門而入時，他與羅德里克聽見宅邸中某處傳來斷裂、撕扯之聲；讀到巨龍臨死哀鳴時，屋內再聞真實尖叫；讀到盾牌落地時，整座宅邸響起空洞的金屬回聲。敘述者起初不以為意，羅德里克卻愈發歇斯底里，終於聲稱這些聲響他已聽了數日，正是妹妹所發——原來封入墓穴時她尚存活。
 
-此時臥室大門被吹開，瑪德琳出現在門口，因掙扎逃出墓穴而渾身是血。她在最後一次狂怒中撲向兄長，羅德里克嚇死，她亦隨即氣絕。敘述者逃離宅邸，忽見身後一閃月光，回頭時恰見月光穿過驟然擴大的裂縫；亞瑟府從中裂為兩半，碎片沉入池沼。
+此時臥室大門被吹開，瑪德琳出現在門口，因掙扎逃出墓穴而渾身是血。她在最後一次狂怒中撲向兄長，羅德里克嚇死，她亦隨即氣絕。敘述者逃離宅邸，忽見身後一閃月光，回頭時恰見月光穿過驟然擴大的裂縫；厄舍府從中裂為兩半，碎片沉入池沼。
 
-==分析==
+== 分析 ==
 
-<!-- 房屋（House）—家族（Usher）—主人公 Roderick — Madeline —叙述者 --> 
-<!-- Woodberry、Alterton、Lovecraft、Wilbur、Abel、Thompson -->
+標題中的「House of Usher」常被批評家視為同時指涉建築與家族，並由此討論本篇的象徵結構。George E. Woodberry指出，小說在藝術結構上近乎完美，細節彼此呼應，並以宅邸與「養育它的家族」（the race that had reared it）之間微妙而不過分的同情為核心之一；最終宅邸與家族一同沉入池沼。<ref name="Mabbott1978">{{cite book |editor-last=Mabbott |editor-first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |pages=392–396 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-14}}</ref>Margaret Alterton亦提到，E. T. A. Hoffmann《限嗣繼承》（''Das Majorat''）中已有以陰鬱宅邸象徵家族因成員死亡而毀滅的構思，可視為相近的文學傳統。<ref name="Mabbott1978" />與此同時，Richard Wilbur提出身體象徵論：厄舍府即羅德里克·厄舍的身體，其幽暗內部即其幻想心智（visionary Mind）。<ref name="Mabbott1978" />
 
-標題中的「House of Usher」常被批評家視為同時指涉建築與家族，並由此討論本篇的象徵結構。George E. Woodberry指出，小說在藝術結構上近乎完美，細節彼此呼應，並以宅邸與「養育它的家族」（the race that had reared it）之間微妙而不過分的同情為核心之一；最終府邸與家族一同沉入池沼。<ref name="Mabbott1978">{{cite book |editor-last=Mabbott |editor-first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |pages=392–396 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-14}}</ref>Margaret Alterton亦提到，E. T. A. Hoffmann〈限嗣繼承〉（「Das Majorat」）中已有以陰鬱宅邸象徵家族因成員死亡而毀滅的構思，可視為相近的文學傳統。<ref name="Mabbott1978" />與此同時，Richard Wilbur提出身體象徵論：亞瑟府即羅德里克·亞瑟的身體，其幽暗內部即其幻想心智（visionary Mind）。<ref name="Mabbott1978" />
-
-在此之外，H. P. Lovecraft將羅德里克、其妹瑪德琳與古宅概括為「異常連結的三位一體」，共有同一靈魂，並於同一時刻共同毀滅。<ref name="Mabbott1978" />T. O. Mabbott指出，坡賦予二人若干通常與同卵雙胞胎相關的特徵，但兩人並非同一性別；他並歸納：一魂居於宅邸與家族成員之中，存亡相依，敘述者因不屬此命運而得逃。<ref name="Mabbott1978" />
+在此之外，H. P. Lovecraft將羅德里克、其妹瑪德琳與厄舍府概括為「異常連結的三位一體」，共有同一靈魂，並於同一時刻共同毀滅。<ref name="Mabbott1978" />T. O. Mabbott指出，坡賦予二人若干通常與同卵雙胞胎相關的特徵，但兩人並非同一性別；他並歸納：一魂居於宅邸與家族成員之中，存亡相依，敘述者因不屬此命運而得逃。<ref name="Mabbott1978" />
 
 G. R. Thompson認為，坡的哥特故事延續美國文學中「曖昧解釋的超自然」（ambiguously explained supernatural）傳統：揭示人物心理的線索埋於超自然色彩的哥特氛圍中，表面靈異可疊合多層解讀——對事件的理性說明、對人物心理的說明，以及對故事內容與形式的諷刺與戲謔。這些交織層次最終指向坡對人類認知能力的懷疑：無論對外在真實或內心現實，人都無法真正確知。<ref name="Thompson1972">{{cite journal |last=Thompson |first=G. R. |title=The Face in the Pool: Reflections on the Doppelgänger Motif in 'The Fall of the House of Usher' |journal=Poe Studies |volume=5 |issue=1 |date=June 1972 |pages=16–21 |url=https://www.eapoe.org/pstudies/ps1970/p1972106.htm |access-date=2026-09-17}}</ref>
 
 後世對本篇的許多討論建立在Darrel Abel的分析之上：他將本篇視為敘述者與羅德里克相互歇斯底里的心理劇（psychodrama）。Thompson進一步主張，敘述者的主觀構成了全篇的基本結構，其餘元素圍繞展開；反覆出現的「雙重」（double）——羅德里克與瑪德琳、羅德里克與宅邸、羅德里克與敘述者、瑪德琳與敘述者、敘述者與宅邸——為此結構的主要體現，並藉面部與頭骨意象強化，最終折回主體自身，指向困於思維迷宮的角色視角中所見的「現實」。<ref name="Thompson1972" />
 
-==出版歷史==
+== 出版歷史 ==
 {{Unreferenced section|time=2026-09-18}}
 
-〈亞瑟府的沒落〉首先於1839年9月發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）。坡其後將1839年4月已先行刊於巴爾的摩《美國博物館》雜誌的詩〈鬼魅宮殿〉（''The Haunted Palace''）納入本篇，並將略經修訂的文本收入1840年故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）。1845年《故事集》（''Tales''）起，篇首增題詞，取自法國詞曲作者皮埃爾-讓·德·貝朗瑞〈Le Refus〉（約1831年）末句；坡改原文「''Mon cœur''」（我的心）為「''Son cœur''」（他／她的心），大意為「他的心是一具懸掛的魯特琴；一經觸動，便會鳴響」。<ref name="Beranger1839">{{cite book |last=de Béranger |first=Pierre-Jean |chapter=Le Refus |title=Œuvres complètes de Béranger |volume=3 |publisher=H. Fournier |location=Paris |year=1839 |pages=93–94 |language=fr |url=https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_B%C3%A9ranger/Le_Refus |access-date=2026-09-18}}</ref><ref name="Mabbott1978" />1928年，Éditions Narcisse出版由Alastair繪圖的限量本300冊。
+《厄舍府的崩塌》首先於1839年9月發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）。坡其後將1839年4月已先行刊於巴爾的摩《美國博物館》雜誌的詩《鬼魅宮殿》（''The Haunted Palace''）納入本篇，並將略經修訂的文本收入1840年故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）。1845年《故事集》（''Tales''）起，篇首增題詞，取自法國詞曲作者皮埃爾-讓·德·貝朗瑞《Le Refus》（約1831年）末句；坡改原文「''Mon cœur''」（我的心）為「''Son cœur''」（他／她的心），大意為「他的心是一具懸掛的魯特琴；一經觸動，便會鳴響」。<ref name="Beranger1839">{{cite book |last=de Béranger |first=Pierre-Jean |chapter=Le Refus |title=Œuvres complètes de Béranger |volume=3 |publisher=H. Fournier |location=Paris |year=1839 |pages=93–94 |language=fr |url=https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_B%C3%A9ranger/Le_Refus |access-date=2026-09-18}}</ref><ref name="Mabbott1978" />1928年，Éditions Narcisse出版由Alastair繪圖的限量本300冊。
 
-===文學來源===
+=== 文學來源 ===
 
-坡在多大程度上以真實的亞瑟一家為角色原型，已不可考。羅德里克·亞瑟的病症——對作出任何決定的恐懼——在臨床上已知，且今或可治愈；坡那個時代的醫學理論則認為，霧氣與潮濕之地易致憂鬱（melancholia）。<ref name="Mabbott1978" />
+坡在多大程度上以真實的厄舍一家為角色原型，已不可考。羅德里克·厄舍的病症——對作出任何決定的恐懼——在臨床上已知，且今或可治愈；坡那個時代的醫學理論則認為，霧氣與潮濕之地易致憂鬱（melancholia）。<ref name="Mabbott1978" />
 
 文中羅德里克有一曲即興，被寫作對「馮·韋伯最後一支華爾茲」狂野曲調的「奇特歪曲與放大」。坡所指乃當時流行鋼琴曲《Weber's Last Waltz》；該曲雖署卡爾·馬利亞·馮·韋伯，實為卡爾·戈特利布·賴西格爾（Carl Gottlieb Reissiger）《華麗舞曲》（''Danses brillantes''）作品26（1824）中的一闋（原題近「韋伯最後的思緒」），因1826年韋伯死後抄本見於遺物而長期誤署。<ref name="Pollin1970">{{cite book |last=Pollin |first=Burton R. |title=Discoveries in Poe |publisher=University of Notre Dame Press |year=1970 |pages=85–86 |url=https://www.eapoe.org/papers/misc1921/dip70c05.htm |access-date=2026-09-18}}</ref>
 
 == 文學重要性與批評 ==
 {{Unreferenced section|time=2026-09-18}}
 
-〈亞瑟府的沒落〉可能是坡早期奇異故事中最受歡迎的一篇。George E. Woodberry認為它在「設計統一」上極為出色。1839年9月7日，《紐約晚星報》（''New York Evening Star''）評論說：如果這篇作品發表在《布萊克伍德》雜誌（''Blackwood's''）上，會被看作傑作。1847年，Rufus Wilmot Griswold把本篇收入選本《美國散文作家》（''The Prose Writers of America''）；後來許多選集也繼續收入。<ref name="Mabbott1978" />另一方面，本篇很快就被人未經授權轉載：1840年8月，英國《賓利雜誌》（''Bentley's Miscellany''）根據《怪誕與阿拉伯風格故事》轉載，既不註明出處，還當成自己刊物的原作；同年9月5日，波士頓《Notion》又從Bentley轉載。坡後來在《百老匯期刊》（''Broadway Journal''，1845年8月30日）裡抱怨這種不署名、把別人作品當成自己的轉載，並提到：《Notion》曾經批評他寫本篇，等到Bentley匿名刊出後，卻忘了作者是誰，反而大加稱讚，還全文轉載。<ref name="Mabbott1978" />
+《厄舍府的崩塌》可能是坡早期奇異故事中最受歡迎的一篇。George E. Woodberry認為它在「設計統一」上極為出色。1839年9月7日，《紐約晚星報》（''New York Evening Star''）評論說：如果這篇作品發表在《布萊克伍德》雜誌（''Blackwood's''）上，會被看作傑作。1847年，Rufus Wilmot Griswold把本篇收入選本《美國散文作家》（''The Prose Writers of America''）；後來許多選集也繼續收入。<ref name="Mabbott1978" />另一方面，本篇很快就被人未經授權轉載：1840年8月，英國《賓利雜誌》（''Bentley's Miscellany''）根據《怪誕與阿拉伯風格故事》轉載，既不註明出處，還當成自己刊物的原作；同年9月5日，波士頓《Notion》又從Bentley轉載。坡後來在《百老匯期刊》（''Broadway Journal''，1845年8月30日）裡抱怨這種不署名、把別人作品當成自己的轉載，並提到：《Notion》曾經批評他寫本篇，等到Bentley匿名刊出後，卻忘了作者是誰，反而大加稱讚，還全文轉載。<ref name="Mabbott1978" />
 
-<!-- Certain of Poe’s tales possess an almost absolute perfection of artistic form which makes them veritable beacon-lights in the province of the short story. … “Usher”, whose superiority in detail and proportion is very marked, hints shudderingly of obscure life in inorganic things, and displays an abnormally linked trinity of entities… -->
+H. P. Lovecraft在《文學中的超自然恐怖》中認為，坡若干短篇在藝術形式上近乎極致，可視為短篇小說領域的典範；而在《麗姬婭》與《厄舍府的崩塌》——尤其後者——可以看到坡作為「虛構微雕」作者（''fictional miniaturist''）所達到的藝術高峰。<ref name="LovecraftSHIL">{{cite web |last=Lovecraft |first=H. P. |author-link=H. P. Lovecraft |title=Supernatural Horror in Literature |chapter=Edgar Allan Poe |url=https://www.hplovecraft.com/writings/texts/essays/shil.aspx |website=hplovecraft.com |access-date=2026-09-18}}</ref>
 
-H. P. Lovecraft在〈文學中的超自然恐怖〉中認為，坡若干短篇在藝術形式上近乎極致，可視為短篇小說領域的典範；而在〈麗姬婭〉與〈亞瑟府的沒落〉——尤其後者——可以看到 Poe 作为 “fictional miniaturist” 所达到的艺术高峰。<ref name="LovecraftSHIL">{{cite web |last=Lovecraft |first=H. P. |author-link=H. P. Lovecraft |title=Supernatural Horror in Literature |chapter=Edgar Allan Poe |url=https://www.hplovecraft.com/writings/texts/essays/shil.aspx |website=hplovecraft.com |access-date=2026-09-18}}</ref>
+Marita Nadal認為，《厄舍府的崩塌》集中體現了美國哥特的若干重要特徵，可作為理解這一文學傳統的典範文本；這些要素在坡較早的《Berenice》、《麗姬婭》與《阿瑟·戈登·皮姆的故事》中已有先兆，並在後期偵探小說《失竊的信》中有特殊回響。<ref name="Nadal2009">{{cite journal |last=Nadal |first=Marita |title="The Fall of the House of Usher": A Master Text for (Poe's) American Gothic |journal=Journal of English Studies |volume=7 |year=2009 |pages=55–70 |doi=10.18172/jes.141 |url=https://publicaciones.unirioja.es/ojs/index.php/jes/article/view/141 |access-date=2026-09-18}}</ref>
 
-Marita Nadal認為，〈亞瑟府的沒落〉集中體現了美國哥特的若干重要特徵，可作為理解這一文學傳統的典範文本；這些要素在坡較早的〈Berenice〉、〈麗姬婭〉與《阿瑟·戈登·皮姆的故事》中已有先兆，並在後期偵探小說〈失竊的信〉中有特殊回響。<ref name="Nadal2009">{{cite journal |last=Nadal |first=Marita |title="The Fall of the House of Usher": A Master Text for (Poe's) American Gothic |journal=Journal of English Studies |volume=7 |year=2009 |pages=55–70 |doi=10.18172/jes.141 |url=https://publicaciones.unirioja.es/ojs/index.php/jes/article/view/141 |access-date=2026-09-18}}</ref>
-
-==参考资料==
+== 參考資料 ==
 {{Reflist}}
 
-{{wikisource|The Fall of the House of Usher|亞瑟府的沒落|en}}
+{{wikisource|The Fall of the House of Usher|厄舍府的崩塌|en}}
 
-[[category:短篇小說]]
+[[Category:短篇小說]]
 [[Category:1839年美國小說]]
 [[Category:美國哥特小說]]
-[[Category:爱伦·坡短篇小说]]
+[[Category:愛倫·坡短篇小說]]
