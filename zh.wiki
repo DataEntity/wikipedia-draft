@@ -1,4 +1,3 @@
-{{Refimprove|time=2026-09-18}}
 {{noteTA
 |1=zh-tw:亞瑟府的沒落;zh-sg:亚瑟府的没落;zh-cn:厄舍府的崩塌;
 |2=zh-cn:厄舍; zh-sg:亚瑟; zh-tw:亞瑟
@@ -18,7 +17,7 @@
 | chinese_name ={{spml|厄舍府的崩塌|亞瑟府的沒落|鄂榭府崩潰記|阿夏家的沒落}}<!-- 僅列常用／代表性紙本譯名；其餘近義異譯從略 -->
 }}
 
-《'''厄舍府的崩塌'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）<ref>{{cite magazine |last=Poe |first=Edgar Allan |title=The Fall of the House of Usher |magazine=Burton's Gentleman's Magazine |location=Philadelphia |volume=V |issue=3 |date=September 1839 |pages=145–152 |url=https://www.eapoe.org/works/tales/ushera.htm |access-date=2026-09-12}}</ref>，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）<ref>{{cite book |last=Poe |first=Edgar Allan |chapter=The Fall of the House of Usher |title=Tales of the Grotesque and Arabesque |volume=1 |publisher=Lea and Blanchard |location=Philadelphia |year=1840 |pages=75–103 |url=https://www.eapoe.org/works/tales/usherb.htm |access-date=2026-09-12}}</ref>。
+《'''厄舍府的崩塌'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）<ref>{{cite magazine |last=Poe |first=Edgar Allan |title=The Fall of the House of Usher |magazine=Burton's Gentleman's Magazine |location=Philadelphia |volume=V |issue=3 |date=September 1839 |pages=145–152 |url=https://www.eapoe.org/works/tales/ushera.htm |access-date=2026-09-12}}</ref>，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）<ref>{{cite book |last=Poe |first=Edgar Allan |section=The Fall of the House of Usher |title=Tales of the Grotesque and Arabesque |volume=1 |publisher=Lea and Blanchard |location=Philadelphia |year=1840 |pages=75–103 |url=https://www.eapoe.org/works/tales/usherb.htm |access-date=2026-09-12}}</ref>。
 
 故事敘述一名無名敘述者探訪童年好友羅德里克·厄舍及其妹瑪德琳所居的傾頹宅邸；其間瑪德琳被以為已死而暫葬於宅邸內墓室，實則尚存，其後逃出，撲倒在羅德里克身上後一同死去，宅邸亦隨之崩塌。
 
@@ -58,9 +57,8 @@ G. R. Thompson認為，坡的哥特故事延續美國文學中「曖昧解釋的
 後世對本篇的許多討論建立在Darrel Abel的分析之上：他將本篇視為敘述者與羅德里克相互歇斯底里的心理劇（psychodrama）。Thompson進一步主張，敘述者的主觀構成了全篇的基本結構，其餘元素圍繞展開；反覆出現的「雙重」（double）——羅德里克與瑪德琳、羅德里克與宅邸、羅德里克與敘述者、瑪德琳與敘述者、敘述者與宅邸——為此結構的主要體現，並藉面部與頭骨意象強化，最終折回主體自身，指向困於思維迷宮的角色視角中所見的「現實」。<ref name="Thompson1972" />
 
 == 出版歷史 ==
-{{Unreferenced section|time=2026-09-18}}
 
-《厄舍府的崩塌》首先於1839年9月發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）。坡其後將1839年4月已先行刊於巴爾的摩《美國博物館》雜誌的詩《鬼魅宮殿》（''The Haunted Palace''）納入本篇，並將略經修訂的文本收入1840年故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）。1845年《故事集》（''Tales''）起，篇首增題詞，取自法國詞曲作者皮埃爾-讓·德·貝朗瑞《Le Refus》（約1831年）末句；坡改原文「''Mon cœur''」（我的心）為「''Son cœur''」（他／她的心），大意為「他的心是一具懸掛的魯特琴；一經觸動，便會鳴響」。<ref name="Beranger1839">{{cite book |last=de Béranger |first=Pierre-Jean |chapter=Le Refus |title=Œuvres complètes de Béranger |volume=3 |publisher=H. Fournier |location=Paris |year=1839 |pages=93–94 |language=fr |url=https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_B%C3%A9ranger/Le_Refus |access-date=2026-09-18}}</ref><ref name="Mabbott1978" />1928年，Éditions Narcisse出版由Alastair繪圖的限量本300冊。
+《厄舍府的崩塌》首先於1839年9月發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）。坡其後將1839年4月已先行刊於巴爾的摩《美國博物館》雜誌的詩《鬼魅宮殿》（''The Haunted Palace''）納入本篇，並將略經修訂的文本收入1840年故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）。1845年《故事集》（''Tales''）起，篇首增題詞，取自法國詞曲作者皮埃爾-讓·德·貝朗瑞《Le Refus》（約1831年）末句；坡改原文「''Mon cœur''」（我的心）為「''Son cœur''」（他／她的心），大意為「他的心是一具懸掛的魯特琴；一經觸動，便會鳴響」。<ref name="Beranger1839">{{cite book |last=de Béranger |first=Pierre-Jean |section=Le Refus |title=Œuvres complètes de Béranger |volume=3 |publisher=H. Fournier |location=Paris |year=1839 |pages=93–94 |language=fr |url=https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_B%C3%A9ranger/Le_Refus |access-date=2026-09-18}}</ref><ref name="Mabbott1978" />1928年，Éditions Narcisse出版由Alastair繪圖的限量本300冊。
 
 === 文學來源 ===
 
@@ -69,11 +67,10 @@ G. R. Thompson認為，坡的哥特故事延續美國文學中「曖昧解釋的
 文中羅德里克有一曲即興，被寫作對「馮·韋伯最後一支華爾茲」狂野曲調的「奇特歪曲與放大」。坡所指乃當時流行鋼琴曲《Weber's Last Waltz》；該曲雖署卡爾·馬利亞·馮·韋伯，實為卡爾·戈特利布·賴西格爾（Carl Gottlieb Reissiger）《華麗舞曲》（''Danses brillantes''）作品26（1824）中的一闋（原題近「韋伯最後的思緒」），因1826年韋伯死後抄本見於遺物而長期誤署。<ref name="Pollin1970">{{cite book |last=Pollin |first=Burton R. |title=Discoveries in Poe |publisher=University of Notre Dame Press |year=1970 |pages=85–86 |url=https://www.eapoe.org/papers/misc1921/dip70c05.htm |access-date=2026-09-18}}</ref>
 
 == 文學重要性與批評 ==
-{{Unreferenced section|time=2026-09-18}}
 
 《厄舍府的崩塌》可能是坡早期奇異故事中最受歡迎的一篇。George E. Woodberry認為它在「設計統一」上極為出色。1839年9月7日，《紐約晚星報》（''New York Evening Star''）評論說：如果這篇作品發表在《布萊克伍德》雜誌（''Blackwood's''）上，會被看作傑作。1847年，Rufus Wilmot Griswold把本篇收入選本《美國散文作家》（''The Prose Writers of America''）；後來許多選集也繼續收入。<ref name="Mabbott1978" />另一方面，本篇很快就被人未經授權轉載：1840年8月，英國《賓利雜誌》（''Bentley's Miscellany''）根據《怪誕與阿拉伯風格故事》轉載，既不註明出處，還當成自己刊物的原作；同年9月5日，波士頓《Notion》又從Bentley轉載。坡後來在《百老匯期刊》（''Broadway Journal''，1845年8月30日）裡抱怨這種不署名、把別人作品當成自己的轉載，並提到：《Notion》曾經批評他寫本篇，等到Bentley匿名刊出後，卻忘了作者是誰，反而大加稱讚，還全文轉載。<ref name="Mabbott1978" />
 
-H. P. Lovecraft在《文學中的超自然恐怖》中認為，坡若干短篇在藝術形式上近乎極致，可視為短篇小說領域的典範；而在《麗姬婭》與《厄舍府的崩塌》——尤其後者——可以看到坡作為「虛構微雕」作者（''fictional miniaturist''）所達到的藝術高峰。<ref name="LovecraftSHIL">{{cite web |last=Lovecraft |first=H. P. |author-link=H. P. Lovecraft |title=Supernatural Horror in Literature |chapter=Edgar Allan Poe |url=https://www.hplovecraft.com/writings/texts/essays/shil.aspx |website=hplovecraft.com |access-date=2026-09-18}}</ref>
+H. P. Lovecraft在《文學中的超自然恐怖》中認為，坡若干短篇在藝術形式上近乎極致，可視為短篇小說領域的典範；而在《麗姬婭》與《厄舍府的崩塌》——尤其後者——可以看到坡作為「虛構微雕」作者（''fictional miniaturist''）所達到的藝術高峰。<ref name="LovecraftSHIL">{{cite web |last=Lovecraft |first=H. P. |author-link=H. P. Lovecraft |title=Supernatural Horror in Literature（Edgar Allan Poe 章） |url=https://www.hplovecraft.com/writings/texts/essays/shil.aspx |website=hplovecraft.com |access-date=2026-09-18}}</ref>
 
 Marita Nadal認為，《厄舍府的崩塌》集中體現了美國哥特的若干重要特徵，可作為理解這一文學傳統的典範文本；這些要素在坡較早的《Berenice》、《麗姬婭》與《阿瑟·戈登·皮姆的故事》中已有先兆，並在後期偵探小說《失竊的信》中有特殊回響。<ref name="Nadal2009">{{cite journal |last=Nadal |first=Marita |title="The Fall of the House of Usher": A Master Text for (Poe's) American Gothic |journal=Journal of English Studies |volume=7 |year=2009 |pages=55–70 |doi=10.18172/jes.141 |url=https://publicaciones.unirioja.es/ojs/index.php/jes/article/view/141 |access-date=2026-09-18}}</ref>
 
