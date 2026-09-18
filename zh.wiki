@@ -90,9 +90,7 @@ G. R. Thompson認為，坡的哥特故事延續美國文學中「曖昧解釋的
 
 H. P. Lovecraft在〈文學中的超自然恐怖〉中認為，坡若干短篇在藝術形式上近乎極致，可視為短篇小說領域的典範；而在〈麗姬婭〉與〈亞瑟府的沒落〉——尤其後者——可以看到 Poe 作为 “fictional miniaturist” 所达到的艺术高峰。<ref name="LovecraftSHIL">{{cite web |last=Lovecraft |first=H. P. |author-link=H. P. Lovecraft |title=Supernatural Horror in Literature |chapter=Edgar Allan Poe |url=https://www.hplovecraft.com/writings/texts/essays/shil.aspx |website=hplovecraft.com |access-date=2026-09-18}}</ref>
 
-〈亞瑟府的沒落〉常被視作坡的美國哥特典範文本。<ref name="Nadal2009">{{cite journal |last=Nadal |first=Marita |title="The Fall of the House of Usher": A Master Text for (Poe's) American Gothic |journal=Journal of English Studies |volume=7 |year=2009 |pages=55–70 |doi=10.18172/jes.141 |url=https://publicaciones.unirioja.es/ojs/index.php/jes/article/view/141 |access-date=2026-09-18}}</ref>
-
-后来的文学研究则将《厄舍府的没落》置于 American Gothic 的发展史中考察。Marita Nadal 认为，该作集中体现了 American Gothic 的若干重要特征，因此可作为理解这一文学传统历史发展的“master text”；她进一步将这些特征与 Poe 此前的《Berenice》《Ligeia》及 The Narrative of Arthur Gordon Pym，以及后来的 The Purloined Letter 联系起来。
+Marita Nadal認為，〈亞瑟府的沒落〉集中體現了美國哥特的若干重要特徵，可作為理解這一文學傳統的典範文本；這些要素在坡較早的〈Berenice〉、〈麗姬婭〉與《阿瑟·戈登·皮姆的故事》中已有先兆，並在後期偵探小說〈失竊的信〉中有特殊回響。<ref name="Nadal2009">{{cite journal |last=Nadal |first=Marita |title="The Fall of the House of Usher": A Master Text for (Poe's) American Gothic |journal=Journal of English Studies |volume=7 |year=2009 |pages=55–70 |doi=10.18172/jes.141 |url=https://publicaciones.unirioja.es/ojs/index.php/jes/article/view/141 |access-date=2026-09-18}}</ref>
 
 ==参考资料==
 {{Reflist}}
