@@ -70,26 +70,16 @@ G. R. Thompson認為，坡的哥特故事延續美國文學中「曖昧解釋的
 
 後世對本篇的許多討論建立在Darrel Abel的分析之上：他將本篇視為敘述者與羅德里克相互歇斯底里的心理劇（psychodrama）。Thompson進一步主張，敘述者的主觀構成了全篇的基本結構，其餘元素圍繞展開；反覆出現的「雙重」（double）——羅德里克與瑪德琳、羅德里克與宅邸、羅德里克與敘述者、瑪德琳與敘述者、敘述者與宅邸——為此結構的主要體現，並藉面部與頭骨意象強化，最終折回主體自身，指向困於思維迷宮的角色視角中所見的「現實」。<ref name="Thompson1972" />
 
-{{Unreferenced section|time=2026-09-18}}
-'''典故和參考'''
-
-開場題詞引用了法國詞曲作者皮埃爾-讓·德·貝朗瑞的〈Le Refus〉（1831年），譯成英文大意為「他的心是一具懸掛的魯特琴；一經觸動，便會鳴響」。貝朗瑞原文作「''Mon cœur''」（我的心），而非坡所用的「''Son cœur''」（他／她的心）。<ref name="Beranger1839">{{cite book |last=de Béranger |first=Pierre-Jean |chapter=Le Refus |title=Œuvres complètes de Béranger |volume=3 |publisher=H. Fournier |location=Paris |year=1839 |pages=93–94 |language=fr |url=https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_B%C3%A9ranger/Le_Refus |access-date=2026-09-18}}</ref>
-
-敘述者將羅德里克的一曲即興描述為「對馮·韋伯最後一支華爾茲狂野曲調的某種奇特歪曲與放大」。坡此處所指，是其時代流行的鋼琴曲《Weber's Last Waltz》；該曲雖冠韋伯之名，實為卡爾·戈特利布·賴西格爾（Carl Gottlieb Reissiger）所作——本出其《華麗舞曲》（''Danses brillantes''）作品26（1824），原題近於「韋伯最後的思緒」（''Weber's Last Thought''／''Gedanke''），後在英語世界被誤譯或誤用為「最後一支華爾茲」。韋伯1826年赴倫敦前帶走該曲贈本，去世後抄本見於遺物，遂以韋伯之名刊行，誤署遂成定論。<ref name="Pollin1970">{{cite book |last=Pollin |first=Burton R. |title=Discoveries in Poe |publisher=University of Notre Dame Press |year=1970 |pages=85–86 |url=https://www.eapoe.org/papers/misc1921/dip70c05.htm |access-date=2026-09-18}}</ref>
-
-<!-- 這段質量太差已刪除,後續補充完善 -->
-
-
-
-
-== 出版歷史 ==
+==出版歷史==
 {{Unreferenced section|time=2026-09-18}}
 
-〈亞瑟府的沒落〉首先於1839年9月發行在波士頓《紳士雜誌》（Burton's Gentleman's Magazine）。接著愛倫坡把1839年4月已先獨立發表在Baltimore Museum Magazine的詩〈鬼魅宮殿〉（The Haunted Palace）納入〈厄舍府的倒塌〉一文中，並將這個略微修正的版本收錄在1840年的《驚悚故事集》（Tales of the Grotesque and Arabesque）。1928年，Éditions Narcisse出版了300本由Alastair負責繪圖的限量版本。
+〈亞瑟府的沒落〉首先於1839年9月發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）。坡其後將1839年4月已先行刊於巴爾的摩《美國博物館》雜誌的詩〈鬼魅宮殿〉（''The Haunted Palace''）納入本篇，並將略經修訂的文本收入1840年故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）。1845年《故事集》（''Tales''）起，篇首增題詞，取自法國詞曲作者皮埃爾-讓·德·貝朗瑞〈Le Refus〉（約1831年）末句；坡改原文「''Mon cœur''」（我的心）為「''Son cœur''」（他／她的心），大意為「他的心是一具懸掛的魯特琴；一經觸動，便會鳴響」。<ref name="Beranger1839">{{cite book |last=de Béranger |first=Pierre-Jean |chapter=Le Refus |title=Œuvres complètes de Béranger |volume=3 |publisher=H. Fournier |location=Paris |year=1839 |pages=93–94 |language=fr |url=https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_B%C3%A9ranger/Le_Refus |access-date=2026-09-18}}</ref><ref name="Mabbott1978" />1928年，Éditions Narcisse出版由Alastair繪圖的限量本300冊。
 
-=== 文學來源 ===
+===文學來源===
 
 坡在多大程度上以真實的亞瑟一家為角色原型，已不可考。羅德里克·亞瑟的病症——對作出任何決定的恐懼——在臨床上已知，且今或可治愈；坡那個時代的醫學理論則認為，霧氣與潮濕之地易致憂鬱（melancholia）。<ref name="Mabbott1978" />
+
+文中羅德里克有一曲即興，被寫作對「馮·韋伯最後一支華爾茲」狂野曲調的「奇特歪曲與放大」。坡所指乃當時流行鋼琴曲《Weber's Last Waltz》；該曲雖署卡爾·馬利亞·馮·韋伯，實為卡爾·戈特利布·賴西格爾（Carl Gottlieb Reissiger）《華麗舞曲》（''Danses brillantes''）作品26（1824）中的一闋（原題近「韋伯最後的思緒」），因1826年韋伯死後抄本見於遺物而長期誤署。<ref name="Pollin1970">{{cite book |last=Pollin |first=Burton R. |title=Discoveries in Poe |publisher=University of Notre Dame Press |year=1970 |pages=85–86 |url=https://www.eapoe.org/papers/misc1921/dip70c05.htm |access-date=2026-09-18}}</ref>
 
 == 文學重要性與批評 ==
 {{Unreferenced section|time=2026-09-18}}
