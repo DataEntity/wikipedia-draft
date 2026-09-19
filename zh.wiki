@@ -1,10 +1,12 @@
 {{noteTA
-|1=zh-tw:亞瑟府的沒落;zh-sg:亚瑟府的没落;zh-cn:厄舍府的崩塌;
-|2=zh-cn:厄舍; zh-sg:亚瑟; zh-tw:亞瑟
+|T=zh-cn:厄舍府的崩塌;zh-sg:亚瑟府的没落;zh-my:厄舍府的崩塌;zh-tw:亞瑟府的沒落;zh-hk:亞瑟府的沒落;zh-mo:亞瑟府的沒落
+|1=zh-cn:厄舍府的崩塌;zh-sg:亚瑟府的没落;zh-my:厄舍府的崩塌;zh-tw:亞瑟府的沒落;zh-hk:亞瑟府的沒落;zh-mo:亞瑟府的沒落
+|2=zh-cn:厄舍府;zh-sg:亚瑟府;zh-my:厄舍府;zh-tw:亞瑟府;zh-hk:亞瑟府;zh-mo:亞瑟府
+|3=zh-cn:厄舍;zh-sg:亚瑟;zh-my:厄舍;zh-tw:亞瑟;zh-hk:亞瑟;zh-mo:亞瑟
 }}
-{{About|||亞瑟府的沒落 (電視劇)}}
+{{About|||-{zh-cn:厄舍府的崩塌 (电视剧);zh-sg:亚瑟府的没落 (电视剧);zh-tw:亞瑟府的沒落 (電視劇);zh-hk:亞瑟府的沒落 (電視劇);}-}}
 {{infobox Book | 
-| name          = 厄舍府的崩塌
+| name          = -{zh-cn:厄舍府的崩塌;zh-sg:亚瑟府的没落;zh-tw:亞瑟府的沒落;zh-hk:亞瑟府的沒落;}-
 | title_orig    = '''''The Fall of the House of Usher'''''
 | image         = Aubrey Beardsley - Edgar Poe 3.jpg
 | image_caption = [[比亞茲萊]]的插畫
@@ -17,11 +19,11 @@
 | chinese_name ={{spml|厄舍府的崩塌|亞瑟府的沒落|鄂榭府崩潰記|阿夏家的沒落}}<!-- 僅列常用／代表性紙本譯名；其餘近義異譯從略 -->
 }}
 
-《'''厄舍府的崩塌'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）<ref>{{cite magazine |last=Poe |first=Edgar Allan |title=The Fall of the House of Usher |magazine=Burton's Gentleman's Magazine |location=Philadelphia |volume=V |issue=3 |date=September 1839 |pages=145–152 |url=https://www.eapoe.org/works/tales/ushera.htm |access-date=2026-09-12}}</ref>，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）<ref>{{cite book |last=Poe |first=Edgar Allan |section=The Fall of the House of Usher |title=Tales of the Grotesque and Arabesque |volume=1 |publisher=Lea and Blanchard |location=Philadelphia |year=1840 |pages=75–103 |url=https://www.eapoe.org/works/tales/usherb.htm |access-date=2026-09-12}}</ref>。
+《'''-{zh-cn:厄舍府的崩塌;zh-sg:亚瑟府的没落;zh-tw:亞瑟府的沒落;zh-hk:亞瑟府的沒落;}-'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）<ref>{{cite magazine |last=Poe |first=Edgar Allan |title=The Fall of the House of Usher |magazine=Burton's Gentleman's Magazine |location=Philadelphia |volume=V |issue=3 |date=September 1839 |pages=145–152 |url=https://www.eapoe.org/works/tales/ushera.htm |access-date=2026-09-12}}</ref>，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）<ref>{{cite book |last=Poe |first=Edgar Allan |section=The Fall of the House of Usher |title=Tales of the Grotesque and Arabesque |volume=1 |publisher=Lea and Blanchard |location=Philadelphia |year=1840 |pages=75–103 |url=https://www.eapoe.org/works/tales/usherb.htm |access-date=2026-09-12}}</ref>。
 
 故事敘述一名無名敘述者探訪童年好友羅德里克·厄舍及其妹瑪德琳所居的傾頹宅邸；其間瑪德琳被以為已死而暫葬於宅邸內墓室，實則尚存，其後逃出，撲倒在羅德里克身上後一同死去，宅邸亦隨之崩塌。
 
-《厄舍府的崩塌》可能是坡早期奇異故事中最受歡迎的一篇<ref>{{cite book |last=Mabbott |first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-12}}</ref><ref>{{cite encyclopedia |last=Cairns |first=William B. |title=Fall of the House of Usher, The |encyclopedia=The Encyclopedia Americana |year=1920 |url=https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Fall_of_the_House_of_Usher,_The |access-date=2026-09-12}}</ref>，並多次被改編為電影、戲劇、音樂等其他媒體<ref>{{cite web |title=The Fall of the House of Usher |url=https://www.eapoe.org/works/info/pt025.htm |website=Edgar Allan Poe Society of Baltimore |access-date=2026-09-12}}</ref>。
+《-{zh-cn:厄舍府的崩塌;zh-sg:亚瑟府的没落;zh-tw:亞瑟府的沒落;zh-hk:亞瑟府的沒落;}-》可能是坡早期奇異故事中最受歡迎的一篇<ref>{{cite book |last=Mabbott |first=Thomas Ollive |title=The Collected Works of Edgar Allan Poe |volume=2 |publisher=Belknap Press of Harvard University Press |year=1978 |url=https://www.eapoe.org/works/mabbott/tom2t033.htm |access-date=2026-09-12}}</ref><ref>{{cite encyclopedia |last=Cairns |first=William B. |title=Fall of the House of Usher, The |encyclopedia=The Encyclopedia Americana |year=1920 |url=https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Fall_of_the_House_of_Usher,_The |access-date=2026-09-12}}</ref>，並多次被改編為電影、戲劇、音樂等其他媒體<ref>{{cite web |title=The Fall of the House of Usher |url=https://www.eapoe.org/works/info/pt025.htm |website=Edgar Allan Poe Society of Baltimore |access-date=2026-09-12}}</ref>。
 
 == 故事簡介 ==
 
