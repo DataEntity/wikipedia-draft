@@ -32,7 +32,6 @@ https://www.eapoe.org/pstudies/ps1970/p1972106.htm
 - Madeline：僵直可解釋「像鬼」；擰緊棺蓋、沉重鐵門與虛弱身軀矛盾 → 顯現鏈回夢／潛意識／敘述者睡艙正下方墓室
 - 不要寫成 either/or：亂倫、吸血鬼、宅有生命、心理寫實等可並存；Thompson 反對單線排他解讀
 
-
 https://www.eapoe.org/papers/misc1921/tom19730.htm
 
 - 適合典故部分
@@ -44,13 +43,12 @@ https://www.eapoe.org/papers/misc1921/tom19730.htm
   - Swedenborg《Heaven and Hell》— 異象與神秘經驗
   - Holberg《Nicholas Klimm》— 地心樹人烏托邦；坡早期版本書名寫法有誤
   - Fludd／Indagine／La Chambre 手相術 — 微宏觀對應；坡未必見過原書
-  - Tieck「藍遠之旅」類 — 故事中故事；經 *Blackwood's* 等可知
+  - Tieck「藍遠之旅」類 — 故事中故事；經 _Blackwood's_ 等可知
   - Campanella《太陽城》— 烏托邦；世界各部分皆有精神本質
   - Eymeric《Directorium Inquisitorum》— 審異端＋禁書目錄
   - Pomponius Mela — 非洲薩特／羊人；貼 Usher 心境
-  - *Vigiliae Mortuorum… Maguntinae* — 昔以為虛構，實為美因茨亡者日課；坡描述準確
-  - ***Mad Trist*** — 唯一為情節虛構的書（可與「其餘皆有據」對照）
-
+  - _Vigiliae Mortuorum… Maguntinae_ — 昔以為虛構，實為美因茨亡者日課；坡描述準確
+  - **_Mad Trist_** — 唯一為情節虛構的書（可與「其餘皆有據」對照）
 
 https://pubs.lib.uiowa.edu/bai/article/id/28890/
 
@@ -68,9 +66,12 @@ https://www.jstor.org/stable/jj.8306188
 
 ## 英维来源
 
+看着充实,但真的没多少站得住脚的
+
 An Historic Corner, Tremont Street and Temple Place by Walter K. Watkins, in Days and Ways in Old Boston by William S. Rossiter (ed.), Boston: R.H. Stearns & Co., 1915, pp. 91–132 [ISBN missing] `[弱]`
+
 <!-- 出版社即波士顿百货 R.H. Stearns；前言写明原为店史／广告小册，后扩成地方掌故。Watkins 文述 Tremont／Temple Place 地产与 Hezekiah Usher 宅，非坡学文献。英维「灵感来自 Usher 宅」属传闻级合成，不宜写入中维；若提最多一句「地方掌故有此说，学界未确立」。 Archive: https://archive.org/details/dayswaysinoldbos00ross -->
 
-
 Allen, Hervey. Israfel: The Life and Times of Edgar Allan Poe. New York: Farrar & Rinehart, Inc., 1934: 683. [ISBN missing] `[慎用]`
+
 <!-- 1926／1934 早期坡传，用过 Ellis & Allan 等材料；eapoe 评 Somewhat romanticized but very readable（初衷曾是写小说）。1934 单卷本 p.683＝附录 II「Galt Correspondence」注 (e)：仅记 Usher 为坡家早期友人、戏单常见，后或居巴尔的摩；并引一条 Elizabeth Usher 讣告——未断言「灵感来自 Luke Usher」，亦未写照料 Eliza 子女（英维后半句仍 citation needed）。英维以此页撑「inspiration」属合成。事实与「原型不可考」宜改引 Mabbott（Luke Noble／Harriet；子女 James Campbell、Agnes Pye）。全文：https://www.eapoe.org/papers/misc1921/hva34c00.htm ；附录 II：https://www.eapoe.org/papers/misc1921/hva34a02.htm -->
