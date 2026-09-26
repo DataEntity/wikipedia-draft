@@ -4,7 +4,7 @@
 |2=zh-cn:厄舍府;zh-sg:亚瑟府;zh-my:厄舍府;zh-tw:亞瑟府;zh-hk:亞瑟府;zh-mo:亞瑟府
 |3=zh-cn:厄舍;zh-sg:亚瑟;zh-my:厄舍;zh-tw:亞瑟;zh-hk:亞瑟;zh-mo:亞瑟
 }}
-{{About|||-{zh-cn:厄舍府的崩塌 (电视剧);zh-sg:亚瑟府的没落 (电视剧);zh-tw:亞瑟府的沒落 (電視劇);zh-hk:亞瑟府的沒落 (電視劇);}-}}
+{{About|||亞瑟府的沒落 (電視劇)}}
 {{infobox Book | 
 | name          = -{zh-cn:厄舍府的崩塌;zh-sg:亚瑟府的没落;zh-tw:亞瑟府的沒落;zh-hk:亞瑟府的沒落;}-
 | title_orig    = '''''The Fall of the House of Usher'''''
@@ -80,6 +80,7 @@ Marita Nadal認為，《厄舍府的崩塌》集中體現了美國哥特的若�
 {{Reflist}}
 
 {{wikisource|The Fall of the House of Usher|厄舍府的崩塌|en}}
+{{Authority control}}
 
 [[Category:短篇小說]]
 [[Category:1839年美國小說]]
