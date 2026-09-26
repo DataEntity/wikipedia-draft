@@ -5,18 +5,18 @@
 |3=zh-cn:厄舍;zh-sg:亚瑟;zh-my:厄舍;zh-tw:亞瑟;zh-hk:亞瑟;zh-mo:亞瑟
 }}
 {{About|||亞瑟府的沒落 (電視劇)}}
-{{infobox Book | 
-| name          = -{zh-cn:厄舍府的崩塌;zh-sg:亚瑟府的没落;zh-tw:亞瑟府的沒落;zh-hk:亞瑟府的沒落;}-
-| title_orig    = '''''The Fall of the House of Usher'''''
-| image         = Aubrey Beardsley - Edgar Poe 3.jpg
-| image_caption = [[比亞茲萊]]的插畫
-| author        = [[愛倫·坡]]
-| country       = {{USA}}
-| language      = [[英文]]
-| series        = 
-| genre         = [[短篇小說]]
-| release_date  = 1839年
-| chinese_name ={{spml|厄舍府的崩塌|亞瑟府的沒落|鄂榭府崩潰記|阿夏家的沒落}}<!-- 僅列常用／代表性紙本譯名；其餘近義異譯從略 -->
+{{Infobox Short story
+| name           = -{zh-cn:厄舍府的崩塌;zh-sg:亚瑟府的没落;zh-tw:亞瑟府的沒落;zh-hk:亞瑟府的沒落;}-
+| title_orig     = The Fall of the House of Usher
+| image          = House-of-Usher-1839.jpg
+| caption        = 1839年9月《伯頓紳士雜誌》首刊
+| author         = [[愛倫·坡]]
+| country        = {{USA}}
+| language       = 英語
+| genre          = [[哥特小說]]、[[恐怖小說]]
+| published_in   = ''[[伯頓紳士雜誌]]''（''Burton's Gentleman's Magazine''）
+| pub_date       = 1839年9月
+| chinese_name   = {{spml|厄舍府的崩塌|亞瑟府的沒落|鄂榭府崩潰記|阿夏家的沒落}}<!-- 僅列常用／代表性紙本譯名；其餘近義異譯從略 -->
 }}
 
 《'''-{zh-cn:厄舍府的崩塌;zh-sg:亚瑟府的没落;zh-tw:亞瑟府的沒落;zh-hk:亞瑟府的沒落;}-'''》（英語：'''''The Fall of the House of Usher'''''）是美國作家[[愛倫·坡]]創作的[[短篇小說]]，1839年首次發表於《伯頓紳士雜誌》（''Burton's Gentleman's Magazine''）<ref>{{cite magazine |last=Poe |first=Edgar Allan |title=The Fall of the House of Usher |magazine=Burton's Gentleman's Magazine |location=Philadelphia |volume=V |issue=3 |date=September 1839 |pages=145–152 |url=https://www.eapoe.org/works/tales/ushera.htm |access-date=2026-09-12}}</ref>，1840年收入故事集《怪誕與阿拉伯風格故事》（''Tales of the Grotesque and Arabesque''）<ref>{{cite book |last=Poe |first=Edgar Allan |section=The Fall of the House of Usher |title=Tales of the Grotesque and Arabesque |volume=1 |publisher=Lea and Blanchard |location=Philadelphia |year=1840 |pages=75–103 |url=https://www.eapoe.org/works/tales/usherb.htm |access-date=2026-09-12}}</ref>。
