@@ -65,3 +65,12 @@ https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0730.1979.tb00550.x
 https://academic.oup.com/edited-volume/34633/chapter-abstract/295056540?redirectedFrom=fulltext
 
 https://www.jstor.org/stable/jj.8306188
+
+## 英维来源
+
+An Historic Corner, Tremont Street and Temple Place by Walter K. Watkins, in Days and Ways in Old Boston by William S. Rossiter (ed.), Boston: R.H. Stearns & Co., 1915, pp. 91–132 [ISBN missing] `[弱]`
+<!-- 出版社即波士顿百货 R.H. Stearns；前言写明原为店史／广告小册，后扩成地方掌故。Watkins 文述 Tremont／Temple Place 地产与 Hezekiah Usher 宅，非坡学文献。英维「灵感来自 Usher 宅」属传闻级合成，不宜写入中维；若提最多一句「地方掌故有此说，学界未确立」。 Archive: https://archive.org/details/dayswaysinoldbos00ross -->
+
+
+Allen, Hervey. Israfel: The Life and Times of Edgar Allan Poe. New York: Farrar & Rinehart, Inc., 1934: 683. [ISBN missing] `[慎用]`
+<!-- 1926／1934 早期坡传，用过 Ellis & Allan 等材料；eapoe 评 Somewhat romanticized but very readable（初衷曾是写小说）。1934 单卷本 p.683＝附录 II「Galt Correspondence」注 (e)：仅记 Usher 为坡家早期友人、戏单常见，后或居巴尔的摩；并引一条 Elizabeth Usher 讣告——未断言「灵感来自 Luke Usher」，亦未写照料 Eliza 子女（英维后半句仍 citation needed）。英维以此页撑「inspiration」属合成。事实与「原型不可考」宜改引 Mabbott（Luke Noble／Harriet；子女 James Campbell、Agnes Pye）。全文：https://www.eapoe.org/papers/misc1921/hva34c00.htm ；附录 II：https://www.eapoe.org/papers/misc1921/hva34a02.htm -->
