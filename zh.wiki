@@ -1,0 +1,181 @@
+{{noteTA
+|T=zh-cn:阿尔贝·加缪; zh-tw:阿爾貝·卡繆;zh-hk:阿爾貝·卡繆
+|G1=PP
+|1=zh-cn:加缪; zh-tw:卡繆;zh-hk:卡繆
+|2=zh-cn:西西弗斯; zh-tw:薛西弗斯;zh-hk:薛西弗斯
+|3=zh-cn:西西弗斯神话; zh-tw:薛西弗斯的神話;zh-hk:薛西弗斯之神話
+}}
+{{Infobox philosopher
+| name = 阿尔贝·加缪 <br>{{small|Albert Camus}}
+| image = Albert Camus, gagnant de prix Nobel, portrait en buste, posé au bureau, faisant face à gauche, cigarette de tabagisme.jpg
+| caption = 1957年的阿尔贝·加缪
+| region = [[西方哲学]]
+| era = [[20世纪哲学]]
+| nationality = 法国
+| birth_date = {{birth date|1913|11|7|df=yes}}
+| birth_place = [[法属阿尔及利亚]][[德雷安|蒙多维]]（今[[阿尔及利亚]]德雷安）
+| death_date = {{death date and age|df=yes|1960|1|4|1913|11|7}}
+| death_place = [[法国]][[维勒布勒万]]
+| alma_mater = [[阿尔及尔大学]]
+| school_tradition = {{plainlist|
+* [[歐陸哲學]]
+* [[荒诞主义]]
+* [[存在主義]]
+* [[无政府工团主义]]
+* [[反斯大林主义左翼]]
+}}
+| main_interests = [[伦理学]]、[[人性]]、[[正义]]、[[政治]]、{{le|自杀哲学|Philosophy of suicide}}
+| signature = Albert Camus signature.svg
+| notable_ideas = [[荒诞主义]]
+| award = [[诺贝尔文学奖]]（1957年）
+| party = [[法国共产党]]（1935年—1936年）<br>[[阿尔及利亚共产党]]（1936年—1937年）
+| image_size = 235px
+}}
+'''阿尔贝·卡繆'''（{{langx|fr|Albert Camus}}，{{IPA|fr|albɛʁ kamy|pron|Fr-Albert Camus.oga}}；{{bd|1913年|11月7日|1960年|1月4日|catIdx=C}}），法国[[哲学家]]、[[小说家]]、[[散文家]]、[[剧作家]]、[[记者]]，[[荒诞主义]]的奠基人。其於1957年獲得[[諾貝爾文學獎]]，是該獎項历史上第二年轻的得主。
+
+== 生平 ==
+
+=== 童年与青年 ===
+[[File:Albert Camus et son frère ainé Lucien vers 1920.jpg|thumb|1920年，加缪与其哥哥的合影]]
+加缪出身于[[法屬阿爾及利亞|阿尔及利亚]]的[[黑脚]]家庭，其家族自1871年第三代开始就在阿尔及利亚定居。他的父亲擁有法国血统，母亲則是[[巴利亞里]]血统。加缪出生于当时的殖民地[[舍拜塔穆赫塔爾]]的一个酒庄，距离蒙多维（今[[德雷安]]）8公里远。加缪的父亲路西安是个未受过教育的马车夫，在加缪出生前不久，他被公司从阿尔及尔派到舍拜塔穆赫塔爾。
+
+加缪的父亲在第一次世界大战初期应征加入法军，在[[第一次马恩河战役]]中受伤。1914年10月，他死于Saint-Brieuc（属于布列塔尼大区）的军医院中。因此加缪的母亲带着他和哥哥搬到了祖母家里。他们住在阿尔及尔的一个工人阶级社区，这位不识字的母亲开始在工厂工作，随后又当起了清洁工。她的大儿子没有结婚，且有语言障碍，但也当起了制桶工人。他们一同支撑着家庭开销，也受着加缪祖母的照料。 
+
+加缪靠奖学金读完中学，1933年起以半工半读的方式在[[阿尔及尔大学]]攻读[[哲学]]，1935年初加入[[法国共产党]]阿尔及利亚支部（次年改组为[[阿尔及利亚共产党]]），1936年毕业，论文题为《新柏拉图主义和基督教思想》，但因肺病而未能参加大学任教资格考试。[[第二次世界大战]]期间，加缪参加了反对[[德国]][[法西斯]]的地下抵抗运动。大战爆发时他任《{{link-en|阿爾及爾共和報|Alger républicain}}》主编，后在[[巴黎]]任《{{link-en|巴黎晚報|Paris-soir}}》编辑部秘书。德军侵法后，加缪参加地下抗德组织，负责《{{link-en|戰鬥報|Combat (newspaper)}}》的出版工作。 
+[[File:Camus Harcourt 1945.jpg|thumb|1945年的加缪]]
+加缪从1932年起即发表作品，1942年因发表《[[異鄉人 (卡繆)|異鄉人]]》而成名。他的小说《[[鼠疫 (小说)|鼠疫]]》（1947）得到一致好评，但是《[[反抗者]]》（1951）一书由于宣扬「纯粹的反抗」，即反对革命暴力而导致了他和[[萨特]]等左派知识分子的决裂。他主要的作品还有随笔《[[西西弗神话]]》（1942）、剧本《[[卡里古拉 (劇本)|卡里古拉]]》（1944）、《{{link-en|正義者|The Just Assassins}}》（1949）、小说《[[堕落 (加缪)|堕落]]》（1956）和短篇小说集《[[流放與王國]]》（1957）等。卡繆于1957年10月17日获[[诺贝尔文学奖]]，成為法國當時第九位，也是最年輕的獲獎者。
+[[File:Camus stockholm.jpg|thumb|1957年，加缪在诺奖晚宴上与两位妙龄女郎交谈]]
+
+=== 去世 ===
+1960年，加缪在南部的[[沃克吕兹省]][[卢尔马兰]]家中，与家人、[[伽利玛出版社]]的[[米歇尔·伽利玛]]（{{lang|fr|Michel Gallimard}}）及其妻女，一起过新年假期。1月2日，加缪的妻子和子女乘火车返回巴黎，但加缪决定乘坐伽利玛豪华的{{link-en|Facel Vega HK500|Facel Vega FV#HK500}}汽车返回巴黎。在[[勃艮第]]大区[[约讷省]][[桑斯区]]的[[维勒布勒万]]小镇，汽车撞上了国道的一棵[[悬铃木]]，而加缪坐在乘客座位上，因没有系安全带而被拋出，当场去世。{{sfnm|1a1=Sherman|1y=2009|1p=19|2a1=Simpson|2y=2019|2loc=Life}} 伽利玛在几天后去世，不过他的妻子和女儿没有受伤。有史學家推測，加缪是被[[克格勃]]暗杀，因为他批评苏联的暴行。{{sfn|Catelli|2019}}{{sfn|Flood|2019}}
+[[File:Camus Monument in Villeblevin France 17-august-2003.4.JPG|thumb|法國小鎮[[维勒布勒万]]的加缪纪念碑上的铜牌。上面写着：约讷省议会向作家阿尔贝·加缪致敬，他的遗体于1960年1月4日晚至5日停放于维勒布勒万市政厅。]] 
+[[File:Camus Monument in Villeblevin France 17-august-2003.1.JPG|thumb|法國小鎮[[维勒布勒万]]的阿尔贝·加缪的車禍紀念碑，1960年1月4日的車禍地点]]
+在残骸中发现了144页的《[[第一人]]》手稿。加缪曾预言，这部未完成的小说将是他最好的作品，是根据他在阿尔及利亚的童年改编的。{{sfn|Willsher|2011}} 加缪安葬在法国[[沃克吕兹省]]的卢尔马兰公墓，他居住的地方。{{sfn|Bloom|2009|p=52}} 他的朋友萨特宣读了悼词，向加缪英勇的“固执的人文主义”致敬。{{sfn|Simpson|2019|loc= Life}}
+
+[[File:20041113-002 Lourmarin Tombstone Albert Camus.jpg|thumb|阿尔贝·加缪的墓碑]]
+2009年11月22日法國總統[[沙柯吉]]有意將加缪的墳遷移至[[塞納河]][[左岸]]的[[先賢祠]]，為紀念加缪逝世50週年；可是加缪的兒子反對該提議，其認為他父親一生反對虛名，不會接受搬進先賢祠受人膜拜。<ref>{{cite news|url=http://www.timesonline.co.uk/tol/news/world/europe/article6927620.ece|work=[Times Online]|title=Sarkozy plans to rebury French writer Albert Camus in the Panthéon|date=2009-11-22|accessdate=2009-11-23|archive-date=2019-07-13|archive-url=https://web.archive.org/web/20190713102522/https://www.thetimes.co.uk/|dead-url=no}}</ref>
+
+== 哲学思想 ==
+=== 人道主义思想 ===
+加缪思想的核心是[[人道主义]]，人的尊严问题，一直缠绕着他的创作、生活和政治斗争的根本问题。《[[薛西弗斯神话]]》和《[[異鄉人 (卡繆)|局外人]]》构成了加缪文学创作的母题，包含着加缪未来作品的核心问题。《[[西西弗神话]]》中，薛西弗斯提出的幸福假设，其本质动机不在[[荒诞]]，因為荒诞不能告诉我们何謂幸福及不幸；之所以加缪假设薛西弗斯是幸福的，是因为他认为只有幸福的生活才符合人的尊严。反抗才能体现尊严。薛西弗斯被责为永罚，却幸福，这是一种反抗，也是在这种条件下唯一可能的反抗形式。
+
+=== 二元对立 ===
+加缪的创作存在大量的[[二元对立]]的主题，其中有一些亦直接作为书名，如《{{link-en|反與正|Betwixt and Between}}》，《[[流放與王國]]》等。
+
+加缪強調的其他還有「荒诞和理性」，「生与死」，「堕落和拯救」，「阳光和阴影」，「有罪和无辜等」，二元对立的主题经常成对出现。
+
+=== 存在主义 ===
+加缪一贯反对别人给他加上的[[存在主义]]的标签，但在他接受[[诺贝尔文学奖]]的时候，颁奖词中依然称他为存在主义者。
+
+存在主义包容了各种各样思想的一种思潮，在各种公认的存在主义思想之间也存在着尖锐的矛盾。簡單而言，存在主义的重大主題為個人对于存在的恐惧，荒诞的感受；它反映人在面对世界時所感到的一种情绪：孤立无援、个人承担但无意义的世界荒谬而没有尽头、個人处于一种「被抛棄」的境地。
+
+如加缪《[[薛西弗斯神话]]》中说的，每个人都是薛西弗斯，差别只在是否认识到这一点：「起床，电车，四小时办公室或工厂的工作，吃饭，四小时的工作，电车，吃饭，睡觉，星期一，星期二，星期三，星期四，星期五，星期六，大部分的日子一天接一天按照同样的节奏周而复始地流逝。可是某一天，『为什么』的问题浮现在意识中，一切就都从这略带惊奇的厌倦中开始了。『开始』，这是至关重要的。厌倦产生在机械麻木的生活之后，但它开启了意识的运动。」加缪的作品中都以存在主义的方式表现了存在主义，故普遍認為加缪是存在主义者。
+
+加缪反对存在主义的原因之一是和萨特劃清界限，当时的舆论界基本上认为所谓存在主义就是萨特式的存在主义。加缪与萨特的思想有不少共同点，也有分歧，尤其是在对待[[革命]]、历史以及[[苏联]]的态度。萨特战后受马克思主义影响，加缪卻一贯反对马克思主义，尤其是[[历史主义]]。
+
+==作品==
+===小說===
+*《[[快樂的死]]》（"La Mort heureuse"，1936年-1938年間完成，逝世後於1971年出版）
+*《[[異鄉人 (卡缪)|異鄉人]]》，或《局外人》（"L'Étranger"，1942年）
+*《[[鼠疫 (小說)|鼠疫]]》，或《瘟疫》（"La Peste"，1947年）
+*《[[堕落 (加缪)|墮落]]》，或《墜落》（"La Chute"，1956年）
+*《[[第一人]]》，或《最初之人》（"Le premier homme"，未完成，逝世後於1994年出版）
+
+===短篇故事===
+*《[[流放與王國]]》（"L'exil et le Royaume"，短篇小說集，1957）
+**〈[[不忠的女人]]〉（"La Femme adultère"）
+**〈[[反叛者]]〉（"Le Renégat ou un esprit confus"）
+**〈[[無聲的憤怒]]〉（"Les Muets"）
+**〈{{link-en|來客|The Guest (short story)}}〉（"L'Hôte"）
+**〈[[工作中的畫家]]〉（"Jonas ou l'artiste au travail"）
+**〈[[生長的石頭]]〉（"La Pierre qui pousse"）
+
+===劇作===
+*《[[卡里古拉 (劇本)|卡里古拉]]》（"Caligula"，四幕劇，1938年完成，1945年演出）
+*《[[修女安魂曲 (加缪)|修女安魂曲]]》（"Requiem pour une nonne"，改編自[[福克納]]的同名小說）
+*《{{link-en|誤會|The Misunderstanding}}》（"Le Malentendu"，三幕劇，1944）
+*《{{link-en|戒嚴|The State of Siege}}》（"L'État de Siège"，1948）
+*《{{link-en|正義者|The Just Assassins}}》（"Les Justes"，五幕劇，1949）
+*《附魔者》（"Les Possédés"，改編自[[杜斯妥也夫斯基]]的同名小說，1959）
+*《信奉十字架》(''La Dévotion de la croix''，改编自西班牙剧作家[[彼德罗·卡尔德隆·德·拉·巴尔卡]]的一部戏剧,1953)
+*《奥尔梅多骑士》（''Le Chevalier d'Olmedo''，改编自西班牙戏剧家[[洛贝·德·维加]]的一部戏剧，1957)
+
+
+===論文===
+*Create Dangerously (Essay on Realism and Artistic Creation)（1957）
+*The Ancient Greek Tragedy (Parnassos lecture in Greece)（1956）
+*The Crisis of Man (Lecture at Columbia University)（1946）
+*《不做受害者，也不当刽子手》（1946年）
+*《为什么是西班牙？》（1948年）
+*《[[思索死刑]]》（''Réflexions sur la guillotine''）（1957年）
+
+===論文集===
+*《存在，反抗與死亡》（1961）
+*Lyrical and Critical Essays (1970)
+*Youthful Writings (1976)
+*Between Hell and Reason: Essays from the Resistance Newspaper "Combat", 1944–1947 (1991)
+*Camus at "Combat": Writing 1944–1947 (2005)
+*Albert Camus Contre la Peine de Mort (2011)
+
+===散文集、札記===
+*Christian Metaphysics and Neoplatonism (1935)
+*《{{link-en|反與正|Betwixt and Between}}》（"L'envers et l'endroit"，1937）
+*《婚禮》（"Noces"，1938）
+*《[[薛西弗斯神話]]》（"Le Mythe de Sisyphe"，1942）
+*《[[反抗者]]》（"L'Homme révolté"，1951）
+*《夏天》（"L'Été"，1954）
+*《時事集》
+:一，評論集（"Chroniques"），1944 - 1948（1950年出版）
+:二，評論集（"Chroniques"），1948 - 1953
+:三，阿爾及利亞評論集（"Chroniques algériennes"），1939 - 1958（1958年出版）
+*《卡繆札記》（"Carnets"）
+:一，1935/2 - 1942/2（1962）
+:二，1943-1951 (1965)
+:三，1951-1959 (2008)
+*《致德國友人書》（"Lettres à un ami allemand"，給Louis Neuville，1948）
+*Albert Camus, Maria Casarès. Correspondance inédite (1944-1959). Édition de Béatrice Vaillant. Avant-propos de Catherine Camus. Collection Blanche, Gallimard. Parution : 09-11-2017.
+
+== 參考文獻 ==
+{{Reflist}}
+
+== 外部連結 ==
+{{wikiquote|阿爾貝·加繆}}
+* [http://www.citedulivre-aix.com/Typo3/fileadmin/documents/Expositions/centrecamus/index.htm Fonds Albert Camus - Cité du livre d'Aix en Provence] {{Wayback|url=http://www.citedulivre-aix.com/Typo3/fileadmin/documents/Expositions/centrecamus/index.htm |date=20170423142018 }}
+* [https://web.archive.org/web/20180106174345/http://www.etudes-camusiennes.fr/wordpress/ Société des Études Camusiennes]
+* [https://web.archive.org/web/20180108062442/http://camus-society.com/ The Albert Camus Society]
+* [http://nobelprize.org/nobel_prizes/literature/laureates/1957/camus-bio.html 诺贝尔官方网站关于阿尔贝·加缪介绍] {{Wayback|url=http://nobelprize.org/nobel_prizes/literature/laureates/1957/camus-bio.html |date=20180228022614 }}
+
+{{卡繆}}
+{{诺贝尔文学奖获得者 (1951年-1975年)}}
+{{大陸哲學|state=collapsed}}{{社会哲学}}
+{{Authority control}}
+{{DEFAULTSORT:Camus, Albert}}
+
+[[Category:阿爾貝·卡繆| ]]
+[[Category:诺贝尔文学奖获得者]]
+[[Category:法國諾貝爾獎獲得者]]
+[[Category:法國榮譽軍團勳章持有人]]
+[[Category:现代主义作家]]
+[[Category:20世纪法国哲学家]]
+[[Category:法国小说家]]
+[[Category:法國散文家]]
+[[Category:法國劇作家]]
+[[Category:法國記者]]
+[[Category:法國共產黨黨員]]
+[[Category:反法西斯主義者]]
+[[Category:法国人文主义者]]
+[[Category:和平主義者]]
+[[Category:法國無神論者]]
+[[Category:法國無政府主義者]]
+[[Category:法國不可知論者]]
+[[Category:法國第二次世界大戰人物]]
+[[Category:阿爾及爾大學校友]]
+[[Category:西班牙裔法國人]]
+[[Category:黑脚]]
+[[Category:在法國車禍身亡者]]
+[[Category:无政府工团主义者]]
+[[Category:反斯大林主义左翼]]
+[[Category:自由意志社会主义者]]
+[[Category:法共二战抵抗运动成员]]
+[[Category:存在主義者]]
+[[Category:法国反資本主義者]]
