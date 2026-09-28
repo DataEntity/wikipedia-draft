@@ -23,17 +23,17 @@
     
     == 當前編修 ==
     <div class="wiki-current">
-    <span class="wiki-current-item">[[阿爾貝·卡繆|阿爾貝·卡繆]]　人物條目重寫中——修引用、收束導語過滿表述、補 1940–1950 年代生平骨架</span>
-    <span class="wiki-current-item">[[薛西弗斯神話|《薛西弗斯神話》]]　思想作品條目並行整理；概念與接受史仍以人物條目能站穩為前提</span>
-    <span class="wiki-current-note">起初想先深挖《薛西弗斯神話》，後來覺得應先把加繆人物條目的來源與框架修好，再回頭寫作品條目才站得住。歡迎對法語文學／二十世紀思想史感興趣的編輯者一起改。</span>
+    <span class="wiki-current-item">[[薛西弗斯神話|《薛西弗斯神話》]]　主修中——補來源、理清荒诞論述結構，避免把通俗二手介紹寫進條目</span>
+    <span class="wiki-current-item">[[阿爾貝·卡繆|阿爾貝·卡繆]]　人物條目同步留意（導語／引用），但不搶《薛西弗斯神話》的編修優先級</span>
+    <span class="wiki-current-note">當前重心在《薛西弗斯神話》。加繆人物條目會順便對照看，但不作為眼下主戰場。歡迎對法語文學／二十世紀思想史感興趣的編輯者一起改。</span>
     </div>
     
     === 正在維護／維護過的條目 ===
     {| class="wiki-articles"
     |-
-    | class="wiki-article-card wiki-article-card-active" | <span class="wiki-article-title">[[阿爾貝·卡繆|阿爾貝·卡繆]]</span><span class="wiki-article-status">進行中：導語與來源優先；生平待拆章；哲學表述待重寫</span>
+    | class="wiki-article-card wiki-article-card-active" | <span class="wiki-article-title">[[薛西弗斯神話|《薛西弗斯神話》]]</span><span class="wiki-article-status">進行中：主修；來源與論述結構優先</span>
     | class="wiki-article-gap" |
-    | class="wiki-article-card wiki-article-card-active" | <span class="wiki-article-title">[[薛西弗斯神話|《薛西弗斯神話》]]</span><span class="wiki-article-status">進行中：與人物條目同步；暫不搶先定稿</span>
+    | class="wiki-article-card" | <span class="wiki-article-title">[[阿爾貝·卡繆|阿爾貝·卡繆]]</span><span class="wiki-article-status">順帶：導語與來源有草稿；暫非主修</span>
     |-
     | class="wiki-article-card" | <span class="wiki-article-title">[[亞瑟府的沒落|《亞瑟府的沒落》]]</span><span class="wiki-article-status">初版完稿</span>
     | class="wiki-article-gap" |
