@@ -1,0 +1,63 @@
+<div class="kirishima-userpage">
+
+    {| class="wiki-layout"
+    |-
+    | class="wiki-main" |
+    
+    <div class="wiki-intro">
+    <div class="wiki-intro-title">Kirishima</div>
+    <div class="wiki-intro-desc">
+    學生,文學與哲學愛好者,兼 Web 開發者.查閱資料時順便編修條目,修正可能存在的問題與補充來源
+    
+    未來維護條目通常包括但不限於: [[薩特 |J.-P. Sartre]], [[加繆 |A. Camus]], [[Lovecraft |H. P. Lovecraft]], [[弗朗茨·卡夫卡 |F. Kafka]]與[[埃德加·爱伦·坡 |E. A. Poe]]的文學作品條目
+    </div>
+    </div>
+    
+    <div class="wiki-contact">
+    <div class="wiki-contact-inner">
+    <span class="wiki-label">聯繫</span>　'''如果您有事請通過電郵聯繫我：''' [mailto:aeschylus.dodgy050@passinbox.com 郵箱地址]<span class="wiki-muted">（請勿發送垃圾郵件）</span><br />
+    <span class="wiki-label">主頁</span>　'''個人主頁：''' [https://meursault.dev Meursault.dev]<br />
+    <span class="wiki-label">草稿</span>　'''條目草稿庫：''' [https://github.com/DataEntity/wikipedia-draft wikipedia-draft]<span class="wiki-muted">（以 Git 回溯編輯歷史）</span>
+    </div>
+    </div>
+    
+    == 當前編修 ==
+    <div class="wiki-current">
+    <span class="wiki-current-item">[[金甲蟲|金甲蟲]] 待定</span>
+    <span class="wiki-current-note">也希望對文學條目感興趣的編輯者參與維護</span>
+    </div>
+    
+    === 正在維護／維護過的條目 ===
+    {| class="wiki-articles"
+    |-
+    | class="wiki-article-card wiki-article-card-active" | <span class="wiki-article-title">[[亞瑟府的沒落|《亞瑟府的沒落》]]</span><span class="wiki-article-status">初版完稿</span>
+    | class="wiki-article-gap" |
+    | class="wiki-article-card" | <span class="wiki-article-title">[[鼠疫_(小说)|《鼠疫》]]</span><span class="wiki-article-status">需要文學批評、接受史</span>
+    |-
+    | class="wiki-article-card" | <span class="wiki-article-title">[[異鄉人_(卡繆)|《局外人》]]</span><span class="wiki-article-status">需要文學批評、接受史</span>
+    | class="wiki-article-gap" |
+    | class="wiki-article-card" |
+    |}
+    
+    | class="wiki-userboxes-col" |
+    {| cellpadding="0" cellspacing="0" class="wiki-userboxes"
+    |-
+    | {{User literature}}
+    |
+    |-
+    | {{User 程序员|TypeScript}}
+    |
+    |-
+    | {{User Structuralism}}
+    |
+    |-
+    | {{user RSS}}
+    |
+    |-
+    | {{user female}}
+    |-
+    | {{user keyboard-layout | Colemak-DH}}
+    |}
+    |}
+    
+    </div>
