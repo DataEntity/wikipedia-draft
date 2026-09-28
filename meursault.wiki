@@ -23,14 +23,19 @@
     
     == 當前編修 ==
     <div class="wiki-current">
-    <span class="wiki-current-item">[[金甲蟲|金甲蟲]] 待定</span>
-    <span class="wiki-current-note">也希望對文學條目感興趣的編輯者參與維護</span>
+    <span class="wiki-current-item">[[阿爾貝·卡繆|阿爾貝·卡繆]]　人物條目重寫中——修引用、收束導語過滿表述、補 1940–1950 年代生平骨架</span>
+    <span class="wiki-current-item">[[薛西弗斯神話|《薛西弗斯神話》]]　思想作品條目並行整理；概念與接受史仍以人物條目能站穩為前提</span>
+    <span class="wiki-current-note">起初想先深挖《薛西弗斯神話》，後來覺得應先把加繆人物條目的來源與框架修好，再回頭寫作品條目才站得住。歡迎對法語文學／二十世紀思想史感興趣的編輯者一起改。</span>
     </div>
     
     === 正在維護／維護過的條目 ===
     {| class="wiki-articles"
     |-
-    | class="wiki-article-card wiki-article-card-active" | <span class="wiki-article-title">[[亞瑟府的沒落|《亞瑟府的沒落》]]</span><span class="wiki-article-status">初版完稿</span>
+    | class="wiki-article-card wiki-article-card-active" | <span class="wiki-article-title">[[阿爾貝·卡繆|阿爾貝·卡繆]]</span><span class="wiki-article-status">進行中：導語與來源優先；生平待拆章；哲學表述待重寫</span>
+    | class="wiki-article-gap" |
+    | class="wiki-article-card wiki-article-card-active" | <span class="wiki-article-title">[[薛西弗斯神話|《薛西弗斯神話》]]</span><span class="wiki-article-status">進行中：與人物條目同步；暫不搶先定稿</span>
+    |-
+    | class="wiki-article-card" | <span class="wiki-article-title">[[亞瑟府的沒落|《亞瑟府的沒落》]]</span><span class="wiki-article-status">初版完稿</span>
     | class="wiki-article-gap" |
     | class="wiki-article-card" | <span class="wiki-article-title">[[鼠疫_(小说)|《鼠疫》]]</span><span class="wiki-article-status">需要文學批評、接受史</span>
     |-
