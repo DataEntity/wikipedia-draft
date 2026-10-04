@@ -1,4 +1,4 @@
-# https://plato.stanford.edu/entries/camus/
+# [Stanford Encyclopedia of Philosophy: Camus](https://plato.stanford.edu/entries/camus/)
 
 § 4.c "Essays," para. 3 作品简介
 § 5.c.i, "The Absurd," para. 2 荒谬定义（人求意义 vs 世界沉默）
@@ -9,4 +9,4 @@
 § 5.c.ii, "Revolt," 关于后续反抗者的相关内容,或许可用于这里,待考证
 § 5.c.vii, "Suicide," 关于自杀,可用于收尾
 
-# https://iep.utm.edu/albert-camus/
+# [Internet Encyclopedia of Philosophy: Albert Camus](https://iep.utm.edu/albert-camus/)
