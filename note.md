@@ -11,10 +11,10 @@
 
 # [Stanford Encyclopedia of Philosophy: Camus](https://plato.stanford.edu/entries/camus/)
 
-§ 1, “The Paradoxes of Camus’s Absurdist Philosophy,” 加缪荒诞哲学简介
-§ 3, “Suicide, Absurdity and Happiness: The Myth of Sisyphus,“ 异乡人,西西弗神话与卡利古拉的创作背景
-§ 3.1, “Suicide as a Response to Absurdity,” para. 1, 加缪将“是否自杀”视为哲学最根本的问题:哲学的首要任务是回答人们在察觉世界无意义时应当如何生活: His concern about “the most urgent of questions” is less a theoretical one than it is the life-and-death problem of whether and how to live.”
-§ 3.1, “Suicide as a Response to Absurdity,” para. 2 荒谬如何产生,什么是荒谬,荒谬的定义
+§ 1, "The Paradoxes of Camus's Absurdist Philosophy," 加缪荒诞哲学简介
+§ 3, opining, 异乡人, 西西弗神话与卡利古拉的创作背景
+§ 3.1, "Suicide as a Response to Absurdity," para. 1, 加缪将"是否自杀"视为哲学最根本的问题: 哲学的首要任务是回答人们在察觉世界无意义时应当如何生活; para. 2, 荒谬如何产生, 什么是荒谬, 荒谬的定义; paras. 2-5 加缪描述荒谬, 并追问如何活下去
+§ 3.2, "The Limits of Reason," paras. 1-3, 加缪进一步指出: 人的求知欲, 对统一与意义的追求必然受到世界不可理解性的挫败; 对此有两种显见回应--自杀与"希望"(宗教式的彼世或为超越自身的伟大事业而活); para. 4, 加缪拒绝以自杀或"希望"逃避荒诞, 主张在不和解, 不寻求慰藉的状态中清醒地生活, 以"反抗"(revolt)维持人与生命有限性之间的张力.
 
 # 其他
 
