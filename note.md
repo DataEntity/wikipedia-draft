@@ -10,3 +10,9 @@
 § 5.c.vii, "Suicide," 关于自杀,可用于收尾
 
 # [Internet Encyclopedia of Philosophy: Albert Camus](https://iep.utm.edu/albert-camus/)
+
+
+
+# 其他
+
+目前还没找到 荒谬的墙,哲学家评论,三原则的介绍.需要另行寻找
