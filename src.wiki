@@ -34,7 +34,10 @@
 ==內容==
 ===第一章：荒谬的推论===
 
-加缪在开场白中提出哲学的问题只有一个：自杀。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 4.c "Essays," para. 3 |access-date=2026-10-07}}</ref>加缪认为,判断人生是否值得继续,正是要回答哲学中的一个基本问题,所有其他问题都可以从此问题衍生出来.“究竟什么是‘判断生命是否值得继续存在’的意义？”.在本书中,加缪认为人类,存在一种名为荒谬的经验,荒谬产生于人对秩序、意义与人生目标的渴望，与宇宙本身的沉默和冷漠之间的张力。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 2 |access-date=2026-10-07}}</ref>
+加缪在开场白中提出哲学的问题只有一个：自杀。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 4.c "Essays," para. 3 |access-date=2026-10-07}}</ref>加缪认为,判断人生是否值得继续,正是要回答哲学中的一个基本问题,所有其他问题都可以从此问题衍生出来.“究竟什么是‘判断生命是否值得继续存在’的意义？”.在本书中,加缪认为人类,存在一种名为荒谬的经验,荒谬产生于人对秩序、意义与人生目标的渴望，与宇宙本身的沉默和冷漠之间的张力。而非单独存在.<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 2 |access-date=2026-10-07}}</ref><ref name="SEP-3.1-p2">{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," para. 2 |access-date=2026-10-07}}</ref>.IEP的解读中认为将自杀这一问题视为对某种根本现实的自然反应——即生命本身就是荒谬的,当生活中根本不存在意义时,试图不断寻找意义是荒谬的;而期望时候还能继续存在,结果不过是自我消亡,这也是荒谬的,不过,加缪认为试图理解,解释这个世界也是荒谬的,因为他认为试图获得理性知识的努力是徒劳的, “那种普遍的理性、实用的或伦理的理性、决定论，以及那些试图解释一切的分类体系，这些都不值得一个正常人去理会。”<ref name="SEP-3.1-p2" />
+
+
+后续写法: 先继续SEP的后续为骨架,IEP关于三种哲学自杀的介绍更详细,穿插使用,草稿完成后在进行内容编修
 
 
 
