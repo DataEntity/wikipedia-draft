@@ -1,16 +1,23 @@
 # [Internet Encyclopedia of Philosophy: Albert Camus](https://iep.utm.edu/albert-camus/)
 
-§ 4.c, "Essays," para. 3, 作品简介; 开篇自杀问题句与结尾幸福句; 拒 philosophical / physical suicide
-§ 5.c.i, "The Absurd," para. 2, 荒谬定义: 人求意义 vs 世界沉默; 荒谬在二者并存的张力中; paras. 4-10, 三种回应, 前两种为逃避; para. 7, 宗教/超越性信仰视为对荒谬的逃避 (philosophical suicide); paras. 8-9, 有效回应与西西弗形象; 末, Don Juan / Actor / Conqueror / Ivan Karamazov 仅名单级提示 (第二、三章薄用)
+§ 4.c, "Essays," para. 3, 作品简介; 开篇自杀问题句与结尾幸福句; 拒 philosophical / physical suicide ✅
+§ 5.c.i, "The Absurd," para. 2, 荒谬定义: 人求意义 vs 世界沉默; 荒谬在二者并存的张力中
+§ 5.c.i, "The Absurd," paras. 4-10, 三种回应, 前两种为逃避
+§ 5.c.i, "The Absurd," para. 7, 宗教/超越性信仰视为对荒谬的逃避 (philosophical suicide)
+§ 5.c.i, "The Absurd," paras. 8-9, 有效回应与西西弗形象
+§ 5.c.i, "The Absurd," 末, Don Juan / Actor / Conqueror / Ivan Karamazov 仅名单级提示 (第二、三章薄用)
 § 5.c.ii, "Revolt," 主写《反抗者》, 用于本书第一章需考证
 § 5.c.vii, "Suicide," 自杀作为根本问题; 结论 Suicide is not an option, 可用于收尾
 
 # [Stanford Encyclopedia of Philosophy: Camus](https://plato.stanford.edu/entries/camus/)
 
 § 1, "The Paradoxes of Camus's Absurdist Philosophy," 加缪荒诞哲学简介
-§ 3, opining, 异乡人, 西西弗神话与卡利古拉的创作背景
-§ 3.1, "Suicide as a Response to Absurdity," para. 1, 加缪将"是否自杀"视为哲学最根本的问题: 哲学的首要任务是回答人们在察觉世界无意义时应当如何生活; para. 2, 荒谬如何产生, 什么是荒谬, 荒谬的定义; paras. 2-5 加缪描述荒谬, 并追问如何活下去
-§ 3.2, "The Limits of Reason," paras. 1-3, 加缪进一步指出: 人的求知欲, 对统一与意义的追求必然受到世界不可理解性的挫败; 对此有两种显见回应--自杀与"希望"(宗教式的彼世或为超越自身的伟大事业而活); para. 4, 加缪拒绝以自杀或"希望"逃避荒诞, 主张在不和解, 不寻求慰藉的状态中清醒地生活, 以"反抗"(revolt)维持人与生命有限性之间的张力.
+§ 3, opening, 异乡人, 西西弗神话与卡利古拉的创作背景
+§ 3.1, "Suicide as a Response to Absurdity," para. 1, 加缪将"是否自杀"视为哲学最根本的问题: 哲学的首要任务是回答人们在察觉世界无意义时应当如何生活 ✅正在用
+§ 3.1, "Suicide as a Response to Absurdity," para. 2, 荒谬如何产生, 什么是荒谬, 荒谬的定义
+§ 3.1, "Suicide as a Response to Absurdity," paras. 2-5, 加缪描述荒谬, 并追问如何活下去
+§ 3.2, "The Limits of Reason," paras. 1-3, 人的求知欲, 对统一与意义的追求必然受到世界不可理解性的挫败; 对此有两种显见回应--自杀与"希望"(宗教式的彼世或为超越自身的伟大事业而活)
+§ 3.2, "The Limits of Reason," para. 4, 拒绝以自杀或"希望"逃避荒诞, 主张在不和解, 不寻求慰藉的状态中清醒地生活, 以"反抗"(revolt)维持人与生命有限性之间的张力
 
 # 其他
 
