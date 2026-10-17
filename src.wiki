@@ -50,6 +50,11 @@ IEP § 5.c.i, "The Absurd," para. 5 关于三种回應的分类介绍
 SEP § 3.1, "Suicide as a Response to Absurdity," para. 3 荒谬感(absurd sensibility),与荒谬不是相同的术语,需要区分.以及术语 智识上的疾病(intellectual malady) 
 -->
 
+在提出自杀问题的同时, 加缪还区分「荒谬感」(absurd sensibility) 与作为概念的荒谬: 前者尚非一套哲学, 而更接近一种「智识上的疾病」(intellectual malady); 這種荒謬情緒并不由哲学推导而来, 反而先于哲学反思。<ref name="SEP-3.1-p3">{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," para. 3 |access-date=2026-10-17}}</ref>他对荒谬的讨论因此带有临时、描述的性质: 重点不在论证「生命何以荒谬」, 而在追问察觉荒谬之后应否赴死、以及如何生活。<ref name="SEP-3.1-p3" />
+
+为说明这种先于理论的经验, 他诉诸日常图像: 人按固定节奏起床、乘车、工作、吃饭、睡眠, 周而复始; 某一刻「舞台布景」坍塌, 习惯维系的生活突然显得陌生, 意识由此触及荒谬。<ref>{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," paras. 4-5 |access-date=2026-10-17}}</ref>
+
+
 萨特在他对 《陌生人》 的随笔评论中对这一观点做了额外的注释,荒谬既不单独存在于人之中，也不单独存在于世界之中，而是与人作为「在世存在」的处境密不可分。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 3 |access-date=2026-10-17}}</ref>
 
 在加缪看来，对这一困境有三种可能的哲学回应。其中两项他谴责为回避，另一项则作为合适的解决方案提出。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 4 |access-date=2026-10-17}}</ref>
