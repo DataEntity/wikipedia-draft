@@ -39,20 +39,10 @@
 加繆所說的荒謬並非單獨存在於人或世界之中，而產生於二者的對峙：人渴望秩序、意義與人生目的，而宇宙卻對這些要求保持沉默。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 2 |access-date=2026-10-07}}</ref>
 
 《斯坦福哲學百科全書》將加繆關於自殺的討論解釋為對荒謬處境的回應：人持續追尋生命的意義，卻無法從宇宙中獲得相應的答案；加繆同時質疑人類能否透過理性認識徹底理解和解釋世界。他批評那些聲稱能夠解釋一切的普遍理性、決定論與範疇。<ref name="SEP-3.1-p2">{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," para. 2 |access-date=2026-10-07}}</ref>
-<!-- 
-後續寫法: 先繼續SEP的後續為骨架,IEP關於三種哲學自殺的介紹更詳細,穿插使用,草稿完成後在進行內容編修. 
-
-後續主要是介紹荒謬感,與智識上的疾病方法論,然後介紹三種哲學自殺
-
-定位: 
-
-IEP § 5.c.i, "The Absurd," para. 5 關於三種回應的分類介紹
-SEP § 3.1, "Suicide as a Response to Absurdity," para. 3 荒謬感(absurd sensibility),與荒謬不是相同的術語,需要區分.以及術語 智識上的疾病(intellectual malady) 
--->
 
 在提出自殺問題的同時, 加繆還區分「荒謬感」(absurd sensibility) 與作為概念的荒謬: 前者尚非一套哲學, 而更接近一種「智識上的疾病」(intellectual malady); 這種荒謬情緒並不由哲學推導而來, 反而先於哲學反思。<ref name="SEP-3.1-p3">{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," para. 3 |access-date=2026-10-17}}</ref>他對荒謬的討論因此帶有臨時、描述的性質: 重點不在論證「生命何以荒謬」, 而在追問察覺荒謬之後應否赴死、以及如何生活。<ref name="SEP-3.1-p3" />
 
-為說明這種先於理論的經驗, 他訴諸日常圖像: 人按固定節奏起床、乘車、工作、吃飯、睡眠, 周而復始; 某一刻「舞臺布景」坍塌, 習慣維繫的生活突然顯得陌生, 意識由此觸及荒謬。<ref>{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," paras. 4-5 |access-date=2026-10-17}}</ref>
+為說明這種先驗經驗,卡繆訴諸日常生活的剪影:人按固定節奏起床,乘車,工作,吃飯,睡眠,週而復始;隨著重複持續,某一刻原有的「舞台佈景」開始坍塌,習慣所維繫的生活顯得陌生,人也逐漸感受到荒謬<ref>{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," paras. 4-5 |access-date=2026-10-17}}</ref>
 
 
 薩特在他對 《異鄉人》 的隨筆評論中對這一觀點做了額外的注釋,荒謬既不單獨存在於人之中，也不單獨存在於世界之中，而是與人作為「在世存在」的處境密不可分。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 3 |access-date=2026-10-17}}</ref>
