@@ -46,9 +46,17 @@
 
 定位: 
 
-IEP § 5.c.i, "The Absurd," para. 5 关于三种哲学自杀的介绍
+IEP § 5.c.i, "The Absurd," para. 5 关于三种回應的分类介绍
 SEP § 3.1, "Suicide as a Response to Absurdity," para. 3 荒谬感(absurd sensibility),与荒谬不是相同的术语,需要区分.以及术语 智识上的疾病(intellectual malady) 
 -->
+
+萨特在他对 《陌生人》 的随笔评论中对这一观点做了额外的注释,荒谬既不单独存在于人之中，也不单独存在于世界之中，而是与人作为「在世存在」的处境密不可分。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 3 |access-date=2026-10-17}}</ref>
+
+在加缪看来，对这一困境有三种可能的哲学回应。其中两项他谴责为回避，另一项则作为合适的解决方案提出。
+
+第一種回應是肉體自殺,卡繆拒絕以這種方式作為對荒謬的回應,對於認為缺乏根本目的或意義的生命不值得繼續的人而言,自殺似乎是一種正確的選擇,這意味著對生命的放棄,而非真正的反抗(révolte).
+
+第二種回應是哲學的自殺,通過宗教信仰訴諸超越性世界,以尋求慰藉與意義的做法被稱為「哲学自杀」（philosophical suicide）,卡繆對這種做法持批判態度,在他看來
 
 
 
