@@ -1,4 +1,4 @@
-{{For2|韩国电视剧|[[西西弗斯：神话]]}}
+{{For2|韓國電視劇|[[西西弗斯：神話]]}}
 {{tone|time=2019-08-22}}
 {{noteTA
 |1=zh-cn:西西弗斯; zh-tw:薛西弗斯
@@ -8,13 +8,13 @@
 |5=zh-cn:卡拉马佐夫兄弟;zh-tw:卡拉馬助夫兄弟
 }}
 {{infobox book
-| name = 西西弗神话
+| name = 西西弗神話
 | title_orig = Le Mythe de Sisyphe
 | translator = 
 | image = 
 | alt = 
 | caption = 
-| author = [[加缪]]
+| author = [[加繆]]
 | cover_artist = 
 | country = [[法國]]
 | language = [[法文]]
@@ -27,41 +27,41 @@
 | pages = 
 | ISBN = 
 }}
-《'''薛西弗斯的神話'''》（{{langx|fr|''Le Mythe de Sisyphe''}}；{{langx|en|''The Myth of Sisyphus''}}）是[[阿尔贝·加缪|加缪]]的哲学随笔，於1942年完成。全书分为四章，分别探讨荒谬的概念，荒谬的生活，荒谬的创造和薛西弗斯神话的寓意。其中第一章占据了主要的篇幅。
+《'''薛西弗斯的神話'''》（{{langx|fr|''Le Mythe de Sisyphe''}}；{{langx|en|''The Myth of Sisyphus''}}）是[[阿爾貝·加繆|加繆]]的哲學隨筆，於1942年完成。全書分爲四章，分別探討荒謬的概念，荒謬的生活，荒謬的創造和薛西弗斯神話的寓意。其中第一章佔據了主要的篇幅。
 
-书中，卡繆以荒谬为出发点，重点探讨生活的意义，其间也包含着他对实在，自我，自由等观念的理解和论述。卡繆认为，人渴望尋求一切的意義，統一和清晰，世界却充满着不可理解，这种人与世界的对立就是荒谬。卡繆提出的问题是：荒谬在怎样的程度上导致了人的自杀？人能否带着荒谬义无反顾地生活？卡繆首先论证荒谬和荒谬生活的原则，然后以征服者、[[唐璜]]、演员为例探讨荒谬的三种生活，再以[[费奥多尔·陀思妥耶夫斯基|陀思妥耶夫斯基]]的小说为例探讨最荒谬的创造，最后以[[西西弗斯|薛西弗斯]]隐喻荒谬的人。希臘神話中，薛西弗斯被懲罰將一塊巨石推上山，而石頭到山顶后会翻滾回原處，他将永远重复着推石头的行为。卡繆认为，薛西弗斯深知推石头的无意义，但他坚持着，薛西弗斯在反抗中是绝望而充实幸福的。
+書中，卡繆以荒謬爲出發點，重點探討生活的意義，其間也包含着他對實在，自我，自由等觀念的理解和論述。卡繆認爲，人渴望尋求一切的意義，統一和清晰，世界卻充滿着不可理解，這種人與世界的對立就是荒謬。卡繆提出的問題是：荒謬在怎樣的程度上導致了人的自殺？人能否帶着荒謬義無反顧地生活？卡繆首先論證荒謬和荒謬生活的原則，然後以征服者、[[唐璜]]、演員爲例探討荒謬的三種生活，再以[[費奧多爾·陀思妥耶夫斯基|陀思妥耶夫斯基]]的小說爲例探討最荒謬的創造，最後以[[西西弗斯|薛西弗斯]]隱喻荒謬的人。希臘神話中，薛西弗斯被懲罰將一塊巨石推上山，而石頭到山頂後會翻滾回原處，他將永遠重複着推石頭的行爲。卡繆認爲，薛西弗斯深知推石頭的無意義，但他堅持着，薛西弗斯在反抗中是絕望而充實幸福的。
 
 ==內容==
-===第一章：荒谬的推论===
+===第一章：荒謬的推論===
 
-加缪在《西西弗神话》开篇提出，哲学中唯一真正严肃的问题是自杀。他认为，判断生命是否值得继续存在，就是回答哲学的根本问题，其他问题均由此延伸。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 4.c "Essays," para. 3 |access-date=2026-10-07}}</ref>
+加繆在《西西弗神話》開篇提出，哲學中唯一真正嚴肅的問題是自殺。他認爲，判斷生命是否值得繼續存在，就是回答哲學的根本問題，其他問題均由此延伸。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 4.c "Essays," para. 3 |access-date=2026-10-07}}</ref>
 
-加缪所说的荒谬并非单独存在于人或世界之中，而产生于二者的对峙：人渴望秩序、意义与人生目的，而宇宙却对这些要求保持沉默。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 2 |access-date=2026-10-07}}</ref>
+加繆所說的荒謬並非單獨存在於人或世界之中，而產生於二者的對峙：人渴望秩序、意義與人生目的，而宇宙卻對這些要求保持沉默。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 2 |access-date=2026-10-07}}</ref>
 
-《斯坦福哲学百科全书》将加缪关于自杀的讨论解释为对荒谬处境的回应：人持续追寻生命的意义，却无法从宇宙中获得相应的答案；加缪同时质疑人类能否通过理性认识彻底理解和解释世界。他批评那些声称能够解释一切的普遍理性、决定论与范畴。<ref name="SEP-3.1-p2">{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," para. 2 |access-date=2026-10-07}}</ref>
+《斯坦福哲學百科全書》將加繆關於自殺的討論解釋爲對荒謬處境的回應：人持續追尋生命的意義，卻無法從宇宙中獲得相應的答案；加繆同時質疑人類能否通過理性認識徹底理解和解釋世界。他批評那些聲稱能夠解釋一切的普遍理性、決定論與範疇。<ref name="SEP-3.1-p2">{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," para. 2 |access-date=2026-10-07}}</ref>
 <!-- 
-后续写法: 先继续SEP的后续为骨架,IEP关于三种哲学自杀的介绍更详细,穿插使用,草稿完成后在进行内容编修. 
+後續寫法: 先繼續SEP的後續爲骨架,IEP關於三種哲學自殺的介紹更詳細,穿插使用,草稿完成後在進行內容編修. 
 
-后续主要是介绍荒谬感,与智识上的疾病方法论,然后介绍三种哲学自杀
+後續主要是介紹荒謬感,與智識上的疾病方法論,然後介紹三種哲學自殺
 
 定位: 
 
-IEP § 5.c.i, "The Absurd," para. 5 关于三种回應的分类介绍
-SEP § 3.1, "Suicide as a Response to Absurdity," para. 3 荒谬感(absurd sensibility),与荒谬不是相同的术语,需要区分.以及术语 智识上的疾病(intellectual malady) 
+IEP § 5.c.i, "The Absurd," para. 5 關於三種回應的分類介紹
+SEP § 3.1, "Suicide as a Response to Absurdity," para. 3 荒謬感(absurd sensibility),與荒謬不是相同的術語,需要區分.以及術語 智識上的疾病(intellectual malady) 
 -->
 
-在提出自杀问题的同时, 加缪还区分「荒谬感」(absurd sensibility) 与作为概念的荒谬: 前者尚非一套哲学, 而更接近一种「智识上的疾病」(intellectual malady); 這種荒謬情緒并不由哲学推导而来, 反而先于哲学反思。<ref name="SEP-3.1-p3">{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," para. 3 |access-date=2026-10-17}}</ref>他对荒谬的讨论因此带有临时、描述的性质: 重点不在论证「生命何以荒谬」, 而在追问察觉荒谬之后应否赴死、以及如何生活。<ref name="SEP-3.1-p3" />
+在提出自殺問題的同時, 加繆還區分「荒謬感」(absurd sensibility) 與作爲概念的荒謬: 前者尚非一套哲學, 而更接近一種「智識上的疾病」(intellectual malady); 這種荒謬情緒並不由哲學推導而來, 反而先於哲學反思。<ref name="SEP-3.1-p3">{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," para. 3 |access-date=2026-10-17}}</ref>他對荒謬的討論因此帶有臨時、描述的性質: 重點不在論證「生命何以荒謬」, 而在追問察覺荒謬之後應否赴死、以及如何生活。<ref name="SEP-3.1-p3" />
 
-为说明这种先于理论的经验, 他诉诸日常图像: 人按固定节奏起床、乘车、工作、吃饭、睡眠, 周而复始; 某一刻「舞台布景」坍塌, 习惯维系的生活突然显得陌生, 意识由此触及荒谬。<ref>{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," paras. 4-5 |access-date=2026-10-17}}</ref>
+爲說明這種先於理論的經驗, 他訴諸日常圖像: 人按固定節奏起床、乘車、工作、吃飯、睡眠, 周而復始; 某一刻「舞臺布景」坍塌, 習慣維繫的生活突然顯得陌生, 意識由此觸及荒謬。<ref>{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," paras. 4-5 |access-date=2026-10-17}}</ref>
 
 
-萨特在他对 《陌生人》 的随笔评论中对这一观点做了额外的注释,荒谬既不单独存在于人之中，也不单独存在于世界之中，而是与人作为「在世存在」的处境密不可分。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 3 |access-date=2026-10-17}}</ref>
+薩特在他對 《陌生人》 的隨筆評論中對這一觀點做了額外的注釋,荒謬既不單獨存在於人之中，也不單獨存在於世界之中，而是與人作爲「在世存在」的處境密不可分。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 3 |access-date=2026-10-17}}</ref>
 
-在加缪看来，对这一困境有三种可能的哲学回应。其中两项他谴责为回避，另一项则作为合适的解决方案提出。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 4 |access-date=2026-10-17}}</ref>
+在加繆看來，對這一困境有三種可能的哲學回應。其中兩項他譴責爲迴避，另一項則作爲合適的解決方案提出。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 4 |access-date=2026-10-17}}</ref>
 
 第一種回應是肉體自殺,卡繆拒絕以這種方式作為對荒謬的回應,對於認為缺乏根本目的或意義的生命不值得繼續的人而言,自殺似乎是一種正確的選擇,這意味著對生命的放棄,而非真正的反抗(révolte).<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 5 |access-date=2026-10-17}}</ref>
 
-第二種回應是哲學的自殺,通過宗教信仰訴諸超越性世界,以尋求慰藉與意義的做法被稱為「哲学自杀」（philosophical suicide）,卡繆對這種做法持批判態度,在他看來,借助神秘主義或信仰等跳躍方式,為荒謬尋找超自然的解釋,意味著放棄理性.這種做法並未消除人與世界之間的荒謬對峙,而是通過假定一個更令人滿意的超越性世界,迴避原有的問題。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 6 |access-date=2026-10-17}}</ref>
+第二種回應是哲學的自殺,通過宗教信仰訴諸超越性世界,以尋求慰藉與意義的做法被稱為「哲學自殺」（philosophical suicide）,卡繆對這種做法持批判態度,在他看來,藉助神祕主義或信仰等跳躍方式,為荒謬尋找超自然的解釋,意味著放棄理性.這種做法並未消除人與世界之間的荒謬對峙,而是通過假定一個更令人滿意的超越性世界,迴避原有的問題。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 6 |access-date=2026-10-17}}</ref>
 
 與上述兩種回應不同,卡繆主張承認荒謬並繼續生活既然荒謬源於人類對意義的追求與世界沈默之間的對峙,而且無法通過自殺或超越性信仰加以消除,人就應當直面這一恐懼,而非實圖逃避,他指出,即使生命沒有意義,人仍然可以充分的生活.<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 7 |access-date=2026-10-17}}</ref>
 
@@ -70,13 +70,13 @@ SEP § 3.1, "Suicide as a Response to Absurdity," para. 3 荒谬感(absurd sensi
 
 
 
-== 参见 ==
-* [[永恒轮回|永恆輪迴]]
-* [[荒诞派戏剧|荒誕派戲劇]]
+== 參見 ==
+* [[永恆輪迴|永恆輪迴]]
+* [[荒誕派戲劇|荒誕派戲劇]]
 * [[致死的疾病|《致死的疾病》]]
 * [[索倫·奧貝·克爾凱郭爾|索倫·奧貝·齊克果]]
 
-== 参考文献 ==
+== 參考文獻 ==
 
 === 腳註 ===
 {{Reflist}}
@@ -85,7 +85,7 @@ SEP § 3.1, "Suicide as a Response to Absurdity," para. 3 荒谬感(absurd sensi
 * 《-{薛西弗斯的神話}-》，[[阿爾貝·卡繆]]，嚴慧瑩 2017，{{ISBN|9789862138144}}
 * ''The Plague, The Fall, Exile and the Kingdom, and Selected Essays'', 阿爾貝·卡繆, {{le|Alfred A. Knopf}} 2004, {{ISBN|1-4000-4255-0}}
 
-== 外部链接 ==
+== 外部鏈接 ==
 * [https://thephilosopher.net/camus/tvorchestvo/the-myth-of-sisyphus-and-other-essays/ The Myth Of Sisyphus Book] and [https://thephilosopher.net/camus/audio-knigi/the-myth-of-sisyphus/ The Myth Of Sisyphus audiobook] in English
 * [https://web.archive.org/web/20050827213157/http://www.anselm.edu/homepage/dbanach/sisyphus.htm The Myth of Sisyphus]
 * {{Cite web |url=http://www.geocities.com/a_and_e_uk/Sisyphus.htm |title=Suicide and Atheism: Camus and ''The Myth of Sisyphus'' |access-date=2018-05-31 |archive-url=https://web.archive.org/web/20071012140207/http://www.geocities.com/a_and_e_uk/Sisyphus.htm |archive-date=2007-10-12 |dead-url=yes }}
