@@ -3,29 +3,32 @@
 {{noteTA
 |1=zh-cn:西西弗斯; zh-tw:薛西弗斯
 |2=zh-cn:加缪; zh-tw:卡繆
-|3=zh-cn:西西弗神话; zh-tw:薛西弗斯的神話;zh-hk:薛西弗斯之神話
-|4=zh-cn:陀思妥耶夫斯基;zh-tw: 杜斯妥也夫斯基
-|5=zh-cn:卡拉马佐夫兄弟;zh-tw:卡拉馬助夫兄弟
+|3=zh-cn:西西弗神话; zh-tw:薛西弗斯的神話; zh-hk:薛西弗斯之神話
+|4=zh-cn:陀思妥耶夫斯基; zh-tw:杜斯妥也夫斯基
+|5=zh-cn:卡拉马佐夫兄弟; zh-tw:卡拉馬助夫兄弟
 }}
-{{infobox book
-| name = 西西弗神話
-| title_orig = Le Mythe de Sisyphe
-| translator = 
-| image = 
-| alt = 
-| caption = 
-| author = [[加繆]]
+{{Infobox book
+| name         = 西西弗神話
+| title_orig   = Le Mythe de Sisyphe
+| image        = <!-- 封面圖 -->
+| alt          = 
+| caption      = 
+| author       = [[加缪]]
+| translator   = <!-- 主要譯本譯者 -->
 | cover_artist = 
-| country = [[法國]]
-| language = [[法文]]
-| subject = [[存在主義]]<br>[[荒謬主義]]
+| country      = [[法國]]
+| language     = [[法文]]
+| subject      = [[存在主義]]<br>[[荒謬主義]]
 | release_date = {{plainlist|
-* 1942 ([[Éditions Gallimard]], in French)
-* 1955 ([[Hamish Hamilton]], in English)
+* 1942 ([[Éditions Gallimard]], French)
+* 1955 ([[Hamish Hamilton]], English)
 }}
-| media_type = 
-| pages = 
-| ISBN = 
+| media_type   = 
+| pages        = 
+| isbn         = <!-- 初版／常用 ISBN -->
+| chinese_name = <!-- 中譯本書名，可按區再拆 cn_name / tw_name -->
+| chinese_pub_date = 
+| chinese_isbn = 
 }}
 《'''薛西弗斯的神話'''》（{{langx|fr|''Le Mythe de Sisyphe''}}；{{langx|en|''The Myth of Sisyphus''}}）是[[阿爾貝·加繆|加繆]]的哲學隨筆，於1942年完成。全書分為四章，分別探討荒謬的概念，荒謬的生活，荒謬的創造和薛西弗斯神話的寓意。其中第一章佔據了主要的篇幅。
 
