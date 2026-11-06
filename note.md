@@ -53,3 +53,13 @@ SEP关于西西弗神话的部分很长,已经接近于西西弗神话主要推�
 # 杂谈
 
 只有真正经历过荒谬的人才知道这个世界到底有多奇怪,以及无法明说的恐惧与存在主义崩塌,这种无意义感不会消失,只能由注意力转移而缓解,亦或者像加缪一样直面荒谬.某些人从未思考过这些事情就将存在主义作为自身的标签,这一点挺讨厌的
+
+# 未來
+
+未來可用於卡繆人物傳記的連結
+
+https://www.etudes-camusiennes.fr/le-mythe-de-sisyphe-1941/
+https://www.camus-society.com/
+https://www.cambridge.org/core/books/abs/cambridge-companion-to-camus/rethinking-the-absurd-le-mythe-de-sisyph/2B70D7C861E85EA4909159FCF41AE549
+https://www.etudes-camusiennes.fr/bibliographies/nouvelle-bibliographie/
+
