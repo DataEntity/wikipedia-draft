@@ -62,6 +62,13 @@
 <!-- 第二種回應是哲學的自殺，透過宗教信仰訴諸超越性世界，以尋求慰藉與意義的做法被稱為「哲學自殺」（philosophical suicide），卡繆對這種做法持批判態度，在他看來，藉助神秘主義或信仰等跳躍方式，為荒謬尋找超自然的解釋，意味著放棄理性。這種做法並未消除人與世界之間的荒謬對峙，而是透過假定一個更令人滿意的超越性世界，迴避原有的問題。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 6 |access-date=2026-10-17}}</ref>  這裡SEP的介紹更加詳細,將兩種希望繼續細分為兩種不同的超越性投射-->
 
 
+<!-- There are two obvious responses to our frustrations: suicide and hope. By hope Camus means just what he described in Nuptials, the religion-inspired effort to imagine and live for a life beyond this life. Or, second, as taken up at length in The Rebel, bending one’s energies to living for a great cause beyond oneself: “Hope of another life one must ‘deserve’ or trickery of those who live not for life itself but for some great idea that will transcend it, refine it, give it a meaning, and betray it” (MS, 8).
+
+面對這些令人受挫的處境，顯而易見的回應有兩種：自殺與希望。卡繆所說的「希望」，首先是指他在《婚禮集》中所描述的那種受宗教啟發的努力：想像並為一種超越此生的生命而活。其次，正如他在《反抗者》中深入探討的，則是將自身的精力投入某種超越個人的偉大事業之中：「對另一種必須靠自己『值得』才能獲得的生命的希望，或者說，那些不為生命本身而活，反而為某種將超越生命、使生命臻於完善、賦予生命意義，卻也背叛生命的偉大理念而活之人的詭計。」（《西西弗神話》，第 8 頁） -->
+
+
+
+
 
 與上述兩種回應不同，卡繆主張承認荒謬並繼續生活。既然荒謬源於人類對意義的追求與世界沉默之間的對峙，而且無法透過自殺或超越性信仰加以消除，人就應當直面這一恐懼，而非試圖逃避，他指出，即使生命沒有意義，人仍然可以充分的生活。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 7 |access-date=2026-10-17}}</ref>
 
