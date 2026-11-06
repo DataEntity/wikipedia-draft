@@ -40,7 +40,7 @@
 <!-- 這是改版,我還沒提交 [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%A5%BF%E5%BC%97%E7%A5%9E%E8%AF%9D](https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%A5%BF%E5%BC%97%E7%A5%9E%E8%AF%9D) -->
 
 ==內容==
-===第一章：荒謬的推論===
+===第一章：荒謬推論===
 
 加繆在《西西弗神話》開篇提出，哲學中唯一真正嚴肅的問題是自殺。他認為，判斷生命是否值得繼續存在，就是回答哲學的根本問題，其他問題均由此延伸。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 4.c "Essays," para. 3 |access-date=2026-10-07}}</ref>
 
@@ -63,11 +63,11 @@
 
 與上述兩種回應不同，卡繆主張承認荒謬並繼續生活。既然荒謬源於人類對意義的追求與世界沉默之間的對峙，而且無法透過自殺或超越性信仰加以消除，人就應當直面這一恐懼，而非試圖逃避，他指出，即使生命沒有意義，人仍然可以充分的生活。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 7 |access-date=2026-10-17}}</ref>
 
-=== 第二章：荒謬的生活 ===
+=== 第二章：荒謬人 ===
 
-=== 第三章：荒謬的創造 ===
+=== 第三章：荒謬創作 ===
 
-=== 第四章：薛西弗斯神話的寓意 ===
+=== 第四章：薛西弗斯神話 ===
 
 
 
