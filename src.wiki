@@ -8,27 +8,15 @@
 |5=zh-cn:卡拉马佐夫兄弟; zh-tw:卡拉馬助夫兄弟
 }}
 {{Infobox book
-| name         = 西西弗神話
-| title_orig   = Le Mythe de Sisyphe
-| image        = <!-- 封面圖 -->
-| alt          = 
-| caption      = 
-| author       = [[加缪]]
-| translator   = <!-- 主要譯本譯者 -->
-| cover_artist = 
-| country      = [[法國]]
-| language     = [[法文]]
-| subject      = [[存在主義]]<br>[[荒謬主義]]
-| release_date = {{plainlist|
-* 1942 ([[Éditions Gallimard]], French)
-* 1955 ([[Hamish Hamilton]], English)
-}}
-| media_type   = 
-| pages        = 
-| isbn         = <!-- 初版／常用 ISBN -->
-| chinese_name = <!-- 中譯本書名，可按區再拆 cn_name / tw_name -->
-| chinese_pub_date = 
-| chinese_isbn = 
+| name       = 西西弗神話
+| title_orig = Le Mythe de Sisyphe
+| author     = [[阿尔贝·加缪]]
+| language   = [[法语]]
+| subject    = [[荒謬主義]]
+| publisher  = [[伽利玛出版社]]
+| pub_place  = [[巴黎]]
+| pub_date   = 1942年10月
+| series     = Les Essais
 }}
 《'''西西弗神话'''》（{{langx|fr|''Le Mythe de Sisyphe''}}；{{langx|en|''The Myth of Sisyphus''}}）是[[阿尔贝·加缪|加缪]]的哲学随笔，于1941年完成，1942年由伽利玛出版社出版。<ref>{{Cite web |url=https://www.etudes-camusiennes.fr/le-mythe-de-sisyphe-1941/ |title=Le Mythe de Sisyphe (1941) |website=Société des Études Camusiennes |at=opening |access-date=2026-11-04 |language=fr}}</ref>全书分为四部分，依次讨论荒谬的推理、荒谬的人、荒谬的创造和西西弗斯神话。
 
