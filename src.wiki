@@ -40,7 +40,6 @@
 <!-- 這是改版,我還沒提交 [https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%A5%BF%E5%BC%97%E7%A5%9E%E8%AF%9D](https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%A5%BF%E5%BC%97%E7%A5%9E%E8%AF%9D) -->
 
 ==內容==
-===第一章：荒謬推論===
 
 加繆在《西西弗神話》開篇提出，哲學中唯一真正嚴肅的問題是自殺。他認為，判斷生命是否值得繼續存在，就是回答哲學的根本問題，其他問題均由此延伸。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 4.c "Essays," para. 3 |access-date=2026-10-07}}</ref>
 
@@ -52,7 +51,6 @@
 
 為說明這種先驗經驗，卡繆訴諸日常生活的剪影：人按固定節奏起床、乘車、工作、吃飯、睡眠，週而復始；隨著重複持續，某一刻原有的「舞臺佈景」開始坍塌，習慣所維繫的生活顯得陌生，人也逐漸感受到荒謬。<ref>{{Cite web |url=https://plato.stanford.edu/entries/camus/ |title=Albert Camus |website=Stanford Encyclopedia of Philosophy |last=Aronson |first=Ronald |at=§ 3.1 "Suicide as a Response to Absurdity," paras. 4-5 |access-date=2026-10-17}}</ref>
 
-
 薩特在他對《異鄉人》的隨筆評論中對這一觀點做了額外的注釋，荒謬既不單獨存在於人之中，也不單獨存在於世界之中，而是與人作為「在世存在」的處境密不可分。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 3 |access-date=2026-10-17}}</ref>
 
 在加繆看來，對這一困境有三種可能的哲學回應。其中兩項他譴責為迴避，另一項則作為合適的解決方案提出。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 4 |access-date=2026-10-17}}</ref>
@@ -62,12 +60,6 @@
 第二種回應是哲學的自殺，透過宗教信仰訴諸超越性世界，以尋求慰藉與意義的做法被稱為「哲學自殺」（philosophical suicide），卡繆對這種做法持批判態度，在他看來，藉助神秘主義或信仰等跳躍方式，為荒謬尋找超自然的解釋，意味著放棄理性。這種做法並未消除人與世界之間的荒謬對峙，而是透過假定一個更令人滿意的超越性世界，迴避原有的問題。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 6 |access-date=2026-10-17}}</ref>
 
 與上述兩種回應不同，卡繆主張承認荒謬並繼續生活。既然荒謬源於人類對意義的追求與世界沉默之間的對峙，而且無法透過自殺或超越性信仰加以消除，人就應當直面這一恐懼，而非試圖逃避，他指出，即使生命沒有意義，人仍然可以充分的生活。<ref>{{Cite web |url=https://iep.utm.edu/albert-camus/ |title=Albert Camus |website=Internet Encyclopedia of Philosophy |last=Simpson |first=David |at=§ 5.c.i "The Absurd," para. 7 |access-date=2026-10-17}}</ref>
-
-=== 第二章：荒謬人 ===
-
-=== 第三章：荒謬創作 ===
-
-=== 第四章：薛西弗斯神話 ===
 
 
 
